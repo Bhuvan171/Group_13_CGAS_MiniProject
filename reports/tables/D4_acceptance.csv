@@ -1,0 +1,9 @@
+D4 acceptance criterion,met
+3-5 fixed scenarios with declared foods and quantities,True
+formal variable / objective / constraint specification (section header),True
+reproducible optimiser (HiGHS via SciPy; seeded baselines; tests),True
+"original, random-feasible and single-objective baselines",True
+all reported optimiser solutions satisfy constraints; violations of the unconstrained baseline shown,True
+no hidden external menu dataset (config/baskets.csv only),True
+"multiple objectives visible (fronts, not a single score)",True
+at least one genuine objective conflict,True

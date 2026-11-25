@@ -1,0 +1,31 @@
+src_code,tgt_code,verdict,comment
+17210,16128,plausible - caveat,both pure fats; flavour and fatty-acid profile (MUFA/PUFA) are not in the 15-nutrient feature set
+17210,17130,plausible,cooking-oil swap; rapeseed also keeps a favourable fatty-acid profile
+17040,17270,plausible,cooking-oil swap (peanut -> olive)
+17180,16128,plausible - feature-set limitation,linseed oil is valued for omega-3 ALA which frying oil lacks; ALA is not among the frozen features (documented limitation)
+17210,17180,plausible - caveat,nutritionally equivalent on the feature set; linseed oil is not suited to high-heat cooking
+17180,17700,plausible - feature-set limitation,same omega-3 caveat as linseed -> frying oil
+17180,17130,plausible,rapeseed oil retains part of the omega-3 benefit
+17190,17350,plausible,cooking-oil swap (maize -> grapeseed)
+25936,25949,plausible,both reconstituted dehydrated soups; different flavour but same culinary role
+16060,16080,plausible,solid frying fat swap; saturated-fat retention check passed
+21801,20502,misleading - correctly classified,gram-for-gram beans give about one third of the protein and no B12; protein could be restored with a larger portion but B12 cannot (basket-level question for D4)
+21512,20502,misleading - correctly classified,same pattern as other meats -> beans: protein density zinc and B12 lost
+6271,20502,misleading - correctly classified,beef -> beans: 99 % climate gain but protein zinc B12 and energy fail
+10009,20502,misleading - correctly classified,lobster -> beans: protein zinc B12 fail
+40305,20502,misleading - correctly classified,offal -> beans: protein energy vitamin C B12 fail
+27018,20502,misleading - correctly classified,pangasius -> beans: protein and B12 fail
+26002,20502,misleading - correctly classified,breaded fried plaice -> beans: protein and energy fail; also a +40 % land-use burden shift
+30155,20337,misleading - correctly classified,culinarily natural swap (sausage -> vegan tofu sausage) yet protein potassium and zinc retention fail per 100 g
+28101,20502,misleading - correctly classified,pork -> beans: protein energy zinc B12 fail
+36004,20502,misleading - correctly classified,chicken -> beans: protein energy zinc B12 fail
+30115,28501,plausible,two raw fatty pork products; correctly not attractive (climate +32 %) and sodium differs
+2035,2027,plausible,juice -> juice; not attractive (climate +20 %)
+12025,12051,plausible,soft cheese -> soft cheese
+26103,26235,plausible - unverifiable,similar raw fish; a missing micronutrient prevents a full retention check so the class is correctly withheld
+26122,26210,plausible,lean raw white fish pair
+16570,16540,plausible,animal fat pair sharing the same LCI (identical impacts)
+18903,18900,plausible - correctly flagged,fortified -> unfortified soy drink fails calcium retention as it should
+19556,19598,plausible,yogurt -> yogurt; fails protein and saturated-fat checks (cream yogurt)
+19801,19644,plausible - texture differs,similar nutrient profile but a drink vs a spoonable quark
+25589,25596,plausible,plant-based ball -> plant-based burger; protein retention fails

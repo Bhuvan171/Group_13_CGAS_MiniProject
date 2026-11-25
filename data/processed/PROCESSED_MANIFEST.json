@@ -1,0 +1,18 @@
+{
+  "built_from": {
+    "ciqual_2025": "2c3495c8136d17356c50db410918da2102cb28096cb497c9cdf83c5f8ecb10ba",
+    "agribalyse_3.2": "27c65f05597028baff0e1a195f652e12b19c9493619dcaaeb17d3fe9f856362d",
+    "agribalyse_3.1_api": "2578b2bd80fb92b28aab60216858c12283065beb3192f380f848115a5a205226"
+  },
+  "options": {
+    "parse_policy": "half_loq",
+    "dup_rule": "reference",
+    "structural_zero": true
+  },
+  "matrix_csv": {
+    "rows": 2272,
+    "columns": 122,
+    "sha256": "ee8d686fbda99677ea82a566ee44e4826dfa8f812b226798450b5bde214d0a7b"
+  },
+  "agribalyse_release": "3.2 (no 3.1 values in any analytical table)"
+}

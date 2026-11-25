@@ -1,0 +1,5 @@
+objective_set,n_analysed,jaccard_vs_reference,status_agreement
+climate + NR9 + LIM3,2886,0.7401171303074671,0.876992376992377
+"climate, land, water + NR9 + LIM3 (reference)",2886,1.0,1.0
+all 7 indicators + NR9 + LIM3,2886,0.8717294192724953,0.9303534303534303
+EF single score + NR9 + LIM3,2886,0.7355491329479769,0.8731808731808732

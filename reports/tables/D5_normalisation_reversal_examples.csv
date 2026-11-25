@@ -1,0 +1,650 @@
+analysis_group_code,views,food_a,food_b,a_over_b_mass,a_over_b_energy,min_log_ratio,a_over_b_protein
+020101,mass vs energy,"Avocado, flesh without skin, pitted, raw","Radish, raw",4.036458333333333,0.21872434318555004,1.3953676573255653,
+1003:ready,mass vs energy,Tomato sauce for pizza,Soy lecithin,0.17407407407407408,3.2675591253904512,1.1840432613457796,
+020101,mass vs energy,"Avocado, flesh without skin, pitted, raw","Spinach, young leaves for salad, raw",3.6643026004728134,0.30686277934994,1.181354604118557,
+020101,mass vs energy,"Avocado, flesh without skin, pitted, raw","Courgette or zucchini, flesh and skin, raw",3.112449799196787,0.25604882584525296,1.1354101328886395,
+0409,energy vs protein,"Anchovy, fillets, salted, in oil, semi-preserved, drained","Taramasalata, with cod eggs, prepacked",,3.452979181622397,1.1223740585021473,0.32550610605688063
+0205:ready,mass vs protein,"Pistachio nut, grilled, salted","Chestnut, boiled/cooked in water",3.166666666666667,,1.0933352315672658,0.3350970017636685
+0205:ready,mass vs protein,"Chestnut, boiled/cooked in water","Pistachio nut, grilled, no added salt",0.3157894736842105,,1.0665239741166088,2.905263157894736
+0409,energy vs protein,"European pilchard or sardine, in oil, canned, drained","Taramasalata, with cod eggs, prepacked",,3.263989466754444,1.0256542661078114,0.358561793816239
+0409,energy vs protein,Shrimp fritters,"Haddock, smoked",,0.29877243589743596,1.0240453025708498,2.784435897435898
+100101,mass vs energy,"Mayonnaise, reduced fat or light mayonnaise, prepacked","Soy sauce, prepacked",2.7035175879396984,0.3631998375716968,0.994553735437292,
+100101,mass vs energy,"Mayonnaise (70% fat min.), prepacked","Soy sauce, prepacked",2.7035175879396984,0.15588201121213002,0.994553735437292,
+100101,mass vs energy,"Soy sauce, prepacked","Burger sauce, prepacked",0.3712686567164179,3.9732259753862267,0.9908293363463097,
+0205:ready,mass vs protein,"Chestnut, raw","Sesame seed, husked",0.3730769230769231,,0.9859706525121449,3.767707539984767
+020102,mass vs energy,"Swiss chard, stalk without leaves, cooked","Tomato paste, double concentrate, canned",0.38057742782152226,3.381022684664417,0.9660656327061267,
+1003:ready,mass vs energy,Tomato sauce for pizza,"Base for pizza (dough + cream sauce), raw",0.39830508474576276,2.5050030630998577,0.9182899573304348,
+1005:dry,mass vs energy,"Ginger, powder","Ginger, raw",4.089068825910932,0.4064656474711462,0.9002558616313405,
+020102,mass vs energy,"Tomato, peeled, canned, drained","Tomato paste, double concentrate, canned",0.3963254593175853,2.4045355611036427,0.8773567710226178,
+020102,mass vs energy,"Sweet pepper, green, cooked","Tomato paste, double concentrate, canned",0.4199475065616798,2.415305023288274,0.867625559892874,
+100102,mass vs energy,"Basque-style sauce or tomato sauce with sweet peppers, prepacked","Pesto sauce, prepacked",0.4305555555555556,2.5246522275048426,0.842678914530909,
+100102,mass vs energy,"Béarnaise sauce, prepacked","Tomato sauce, with mushrooms, prepacked",2.898305084745763,0.43506425777612223,0.8322615397772656,
+1003:ready,mass vs energy,Light syrup for canned fruits,Soy lecithin,0.17296296296296299,2.2875746714456398,0.8274921608896844,
+010306:ready,mass vs energy,"Vegetables with mushrooms, pan-fried or stir-fried, seasonned, country-style, frozen",Vegetable flan with eggs,0.4400943396226415,2.9339622641509435,0.8207661668187144,
+0202:ready,mass vs energy,"Potato flakes, dehydrated, with milk or cream","Potato, early, peeled, boiled/cooked in water",2.2608695652173916,0.4275208140610546,0.8157495026522777,
+0202:ready,mass vs energy,"Potato flakes, dehydrated, with milk or cream","Potato, ware, peeled, boiled/cooked in water",2.2608695652173916,0.4365402405180388,0.8157495026522777,
+100102,mass vs energy,"Béarnaise sauce, prepacked","Red wine sauce, homemade",3.128048780487805,0.44342669525596357,0.8132227778026525,
+0205:ready,mass vs energy,"Chestnut, boiled/cooked in water","Sesame seed, husked",0.4384615384615384,2.2101313320825513,0.7930519400456874,
+0205:ready,mass vs energy,"Chestnut, boiled/cooked in water","Hazelnut, grilled, no added salt",0.4550898203592814,2.530743391266248,0.787260472130424,
+0205:ready,mass vs energy,"Chestnut, boiled/cooked in water","Hazelnut, grilled, salted",0.4550898203592814,2.4567450464923803,0.787260472130424,
+040308:ready,energy vs protein,"Salami, Danish-style","Duck confit (conserved in rendered fat), meat (leg) without skin, canned, reheated",,0.45563328424153166,0.7860669942357414,2.346249555634554
+050201,energy vs protein,"Yogurt, Greek-style, on a fruit layer, with sugar(s)","Yogurt or fermented milk, flavoured, 0% fat, with sweetener(s)",,0.43404255319148927,0.7824319534225146,2.186783960720131
+0202:ready,mass vs energy,"Potato flakes, dehydrated, plain","Potato, early, peeled, boiled/cooked in water",2.2521739130434786,0.4628022116109575,0.7704555049122414,
+010301:ready,energy vs protein,Cockerel in red wine sauce,Milanese-style chicken escalope or breaded chicken escalope,,2.204894828163526,0.7289190569703701,0.48243018789577496
+0409,mass vs protein,"Mussels, in Catalan-style sauce or marinade (tomatoes), canned, drained","Cod, salted, dried",0.41250000000000003,,0.7155505895561824,2.0453125
+040308:ready,energy vs protein,"Salami, pure pork","Duck confit (conserved in rendered fat), meat (leg) without skin, canned, reheated",,0.464827677869724,0.6937534248949727,2.0012128562765312
+0409,mass vs protein,"Squid fritter, Roman-style, prepacked","Cod, salted, dried",0.5025000000000001,,0.6881596390489061,2.7524741081703104
+0202:raw,mass vs energy,"Tapioca, raw","Sweet potato, raw",2.215568862275449,0.5082039311208092,0.6768724727446273,
+010301:ready,energy vs protein,"Rabbit with mustard sauce, prepacked",Milanese-style chicken escalope or breaded chicken escalope,,1.94856800119958,0.6670947444432843,0.3020587089820576
+040308:ready,energy vs protein,"Poultry roast, brined, cooked","Sausage, pure pork, cooked",,2.417849937188321,0.6666988349598285,0.5134006035458316
+0104,energy vs protein,"Fajitas, home-prepared from kit","Pizza, onion anchovy and black olives, prepacked",,1.9296116504854368,0.6573187653048055,0.43482914150294316
+0409,mass vs protein,"European pilchard or sardine, in olive oil, canned, drained","Taramasalata, with cod eggs, prepacked",1.923469387755102,,0.6541305282174935,0.5043947621967242
+040202,energy vs protein,"Pork, jowl, rind less, raw","Pork, eye of shortloin, raw",,0.3073684210526316,0.6535815803537542,1.9224137931034486
+040202,energy vs protein,"Pork, roast, raw","Pork, jowl, rind less, raw",,3.104575163398693,0.6535815803537542,0.5201793721973094
+010301:ready,energy vs protein,"Chicken with curry and coconut milk sauce, prepacked",Milanese-style chicken escalope or breaded chicken escalope,,2.078834008097166,0.6457317388263738,0.5242787665826394
+050301,energy vs protein,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk","Soft-ripened washed-rind cheese, reduced fat, from cow's milk",,0.5263157894736842,0.6418538861723948,2.0571428571428574
+040202,energy vs protein,"Pork, rack, raw","Pork, jowl, rind less, raw",,3.3523129449972933,0.6414174697599596,0.5265455324504907
+100602,energy vs protein,"Parsley, dried","Rosemary, dried",,1.8960547697061723,0.6397752903914387,0.2830686982090351
+050301,energy vs protein,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk","Cheese, buche, from goat's milk, reduced fat",,0.4234316441257942,0.6378965640533119,1.8924959457467194
+020401,mass vs energy,"Rhubarb, stalk, raw","Fruit salad, raw",0.43067484662576694,1.8868793004101276,0.6349243005940253,
+0202:ready,mass vs protein,"Potato flakes, dehydrated, with milk or cream","Potato, sautéed/pan-fried, pre-fried, frozen, cooked",1.9117647058823528,,0.6313241952220836,0.5318870122306348
+040207,energy vs protein,"Duck, meat and skin, raw","Guinea fowl, breast, raw",,0.5331245815116783,0.6290001457087345,1.9621493016932396
+050201,energy vs protein,"Yogurt or fermented milk, flavoured, 0% fat, with sweetener(s)","Yogurt or fermented milk, with fruits, with cream, with sugar(s)",,2.0662153750389045,0.6282812735952562,0.5335079676926435
+050201,energy vs protein,"Yogurt, Greek-style, on a fruit layer, with sugar(s)","Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s)",,0.35793650793650794,0.6268977950187447,1.8717948717948718
+040308:ready,mass vs energy,"Pig's trotter, brined",Salami,0.5575757575757576,1.8599424905994248,0.5841568968515403,
+040308:ready,mass vs energy,"Pig's trotter, brined","Salami, Danish-style",0.5575757575757576,1.851802698518027,0.5841568968515403,
+040308:ready,mass vs energy,"Pig's trotter, brined","Salami, pure pork",0.5575757575757576,1.8151736341517362,0.5841568968515403,
+0409,mass vs energy,"Mussels, in Catalan-style sauce or marinade (tomatoes), canned, drained","Fish nuggets, breaded croquette, prepacked",0.5599547511312217,1.893746174250153,0.5798993000689531,
+0205:ready,energy vs protein,"Coconut, pulp, fresh","Pistachio nut, grilled, salted",,0.5604501197366544,0.5790150328712793,1.8256204746661127
+0409,mass vs energy,Shrimp fritters,"Mussels, in Catalan-style sauce or marinade (tomatoes), canned, drained",1.9414141414141413,0.5630101010101011,0.5744577096000151,
+020102,energy vs protein,"Garden peas, cooked","Corn, sweet, canned, drained",,1.7716120263398405,0.5718898814497356,0.47511783676507074
+0709,mass vs protein,Macaroon filled with jam or cream,Fruit pie with custard cream,2.129251700680272,,0.5637150876863634,0.5690909090909091
+020101,energy vs protein,"Salsify, black, raw","Chinese or Japanese artichokes, frozen, raw",,0.5698772910495958,0.5623342201897195,2.152988490134823
+0709,energy vs protein,Fruit charlotte,"Soft cake, with fruits, prepacked",,1.7508333333333335,0.5600918650689088,0.5329457364341085
+0901,mass vs energy,"Butter, 80% fat minimum, unsalted","Spreadable dairy fat 15-25% fat, light, spreadable, unsalted, fortified with vitamin(s)",1.7450549450549453,0.4565415991710813,0.5567860422961854,
+0901,mass vs energy,"Butter, 82% fa minimumt, unsalted, easy-to-spread","Spreadable dairy fat 15-25% fat, light, spreadable, unsalted, fortified with vitamin(s)",1.7450549450549453,0.4553322174514229,0.5567860422961854,
+0901,mass vs energy,Butter oil or concentrated butter,"Spreadable dairy fat 15-25% fat, light, spreadable, unsalted, fortified with vitamin(s)",1.7450549450549453,0.381973137973138,0.5567860422961854,
+0205:ready,energy vs protein,"Coconut, pulp, fresh","Pistachio nut, grilled, no added salt",,0.5731669782071782,0.5565781942354538,1.7773236367119827
+0205:ready,energy vs protein,"Pistachio nut, grilled, salted","Coconut, immature kernel, fresh",,1.740761080675623,0.5543224202809076,0.5256591892955531
+0202:ready,mass vs protein,"Potato flakes, dehydrated, with milk or cream","French fries or chips, frozen, deep-fried",1.7808219178082194,,0.5476169921439699,0.5783263257832634
+020101,energy vs protein,"Mixed vegetables, frozen, raw","Broccoli, frozen, raw",,0.5700373880532127,0.5475933262517431,1.7290866588746032
+040207,energy vs protein,"Duck, meat and skin, raw","Guinea fowl, leg, raw",,0.5675881212213392,0.5427182384631642,1.720677723422026
+020101,energy vs protein,"Watercress, raw","Mixed vegetables, frozen, raw",,2.4861744966442947,0.5418836525836229,0.5816515903122265
+0406,energy vs protein,"Nursehound or lesser spotted dogfish, raw","Greenland halibut, raw",,1.7177914110429449,0.5410394023624873,0.5793991416309013
+010302,energy vs protein,"Couscous with meat or chicken, reduced fat, prepacked","Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked",,2.0236427954178775,0.5410084891148937,0.582160853347294
+0104,mass vs protein,"Pizza, onion anchovy and black olives, prepacked","Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked",0.5378590078328982,,0.5390780900934798,1.7144255874673633
+0104,energy vs protein,"Pizza, onion anchovy and black olives, prepacked","Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked",,0.4444948026996405,0.5390780900934798,1.7144255874673633
+0709,mass vs protein,Sponge sandwich cake filled and topped with strawberries or raspberries,"Almond cake, financier, prepacked",0.5369127516778524,,0.5339934712338726,1.7057305110996384
+040201,energy vs protein,"Beef, minced steak, 20% fat, raw","Veal fillet, raw",,0.5870897382633985,0.5325775947508375,1.8429731355252612
+010309,energy vs protein,"Cereal burger with végétables (without soybean), prepacked","Soy-based minced meat imitate, prepacked",,0.532262166223558,0.5311495859614117,1.7008865003904277
+1102,mass vs energy,"Baby food jar with vegetables, from 4-6 months","Baby meal, vegetables with meat/fish and starchy food, from 12 months",0.5377777777777778,1.6962407407407407,0.5284144734877784,
+020401,mass vs energy,"Rhubarb, stalk, raw","Guava, flesh without skin, raw",0.5899159663865546,2.2260364919448437,0.5277751820797639,
+020401,mass vs energy,"Passion fruit, flesh without skin, with seeds, raw","Carambola, flesh and skin, raw",1.6931407942238266,0.4714235152544771,0.5265852622589408,
+040201,energy vs protein,"Beef, rump steak, raw","Beef, minced steak, 20% fat, raw",,1.7082324455205808,0.5234001309979129,0.5925025329280648
+0102,mass vs energy,"Soup, chorba frik, with meat and frik","Soup, onion, dehydrated and reconstituted",1.9251101321585902,0.5937541584082139,0.5212899200229248,
+010306:ready,mass vs energy,"Vegetables with mushrooms, pan-fried or stir-fried, seasonned, country-style, frozen",Vegetable fritters,0.594267515923567,2.6411889596602975,0.5204256974950098,
+100602,mass vs protein,"Parsley, dried","Oregano, dried",1.6821705426356588,,0.5200849491787873,0.5220529270248597
+100602,mass vs protein,"Parsley, dried","Savory, dried",1.6821705426356588,,0.5200849491787873,0.390379577653034
+100602,mass vs protein,"Parsley, dried","Rosemary, dried",1.6821705426356588,,0.5200849491787873,0.2830686982090351
+010309,mass vs protein,"Schnitzel, soybean, wheat and cheese-based, cordon bleu-style, prepacked","Cereal burger with végétables (without soybean), prepacked",1.7018633540372672,,0.5199798511947759,0.594532526969598
+040205,energy vs protein,"Mutton, meat, raw","Lamb, cutlet, raw",,1.9421714002933848,0.5152785048764589,0.5973342109593549
+010306:ready,mass vs energy,"Ratatouille, seasoneded, prepacked",Vegetable flan with eggs,0.5990566037735848,2.203185407923867,0.5123991882134213,
+050203,energy vs protein,"Custard dessert, reduced fat, refrigerated","Panna cotta, with fruit preparation or caramel, refrigerated",,2.001332502310387,0.5123344684076736,0.5990953758552602
+0709,mass vs protein,Sponge sandwich cake filled and topped with strawberries or raspberries,Twelfth Night cake (puff pastry filled with almond paste),0.6,,0.5108256237659907,1.7538461538461532
+041001,mass vs energy,"Egg white, raw","Egg, scrambled, with added fat",0.6017441860465117,2.0892157810762466,0.5079228641080291,
+050101,mass vs energy,"Milk, skimmed, pasteurised","Sheep milk, whole",0.5275229357798165,1.6616165867070667,0.5077909759005887,
+040201,energy vs protein,"Beef, topside, raw","Beef, minced steak, 20% fat, raw",,1.737684729064039,0.5062323273755475,0.6027623170480313
+0104,mass vs protein,"Tart, vegetables, prepacked","Tart (flamiche), Maroilles cheese, prepacked",0.6047619047619047,,0.5029204442588775,1.6933333333333331
+100602,energy vs protein,"Parsley, dried","Thyme, dried",,1.6474866139215216,0.49925086227594545,0.5284335739107191
+040207,energy vs protein,"Rabbit, wild, meat, raw","Duck, meat and skin, raw",,1.9249743814961207,0.4978676722978126,0.6078253617144721
+010309,energy vs protein,"Cereal burger with cheese (without soybean), prepacked","Soy-based minced meat imitate, prepacked",,0.6078332152616134,0.4978547516516869,1.6829268292682928
+010309,energy vs protein,"Cereal burger with végétables (without soybean), prepacked","Plant-based burger or steak from soybean and cheese, prepacked",,0.6080420616113744,0.49751121912694957,1.9897598870056494
+0106,mass vs energy,Vol-au-vent with meat/poultry/quenelle,Spring roll,1.6411149825783968,0.5710636594782935,0.4953758782567964,
+0705,mass vs protein,Apple turnover,"Brioche, plain, from bakery",0.6101190476190477,,0.494101180824796,1.6533202009820718
+040308:ready,mass vs protein,"Pig's trotter, brined","Duck confit (conserved in rendered fat), meat (leg) without skin, canned, reheated",0.5927835051546391,,0.4918047739873296,1.6352648418059013
+010306:ready,mass vs protein,"Spinach with cream sauce, prepacked","Chicory with ham in sauce, prepacked",0.6118251928020565,,0.4913086699469717,1.8207917737789203
+100102,energy vs protein,"Butter sauce, prepacked","Mushroom sauce, prepacked",,0.5768815577078289,0.4889729105666119,1.630640545894783
+040203,energy vs protein,"Hen, meat and skin, raw","Turkey, meat, raw",,0.536842105263158,0.48713206339212567,1.627641547049442
+050201,mass vs energy,"Yogurt, Greek-style, ewe's milk","Fermented milk drink, plain, skimmed milk",1.6265060240963858,0.47483482316362235,0.4864341706418317,
+100602,energy vs protein,"Parsley, dried","Sage, dried",,1.8498095314206557,0.486356879689665,0.6148623362737237
+0106,mass vs energy,Spring roll,"Ham and cheese puffed pastry, homemade",0.49482758620689665,1.6238031469702046,0.4847710194725393,
+1005:dry,energy vs protein,"Curry, powder","Mix of 4 spices, powder",,1.698089700996678,0.48308886879439095,0.6168750000000001
+020102,mass vs protein,"Garden peas, cooked","Tomato coulis, canned (tomato puree semi-reduced 11%)",1.7454545454545456,,0.48300311816669167,0.6169278996865203
+040207,mass vs energy,"Duck, leg, meat and skin, raw","Duck, meat and skin, raw",0.616600790513834,1.6185770750988142,0.48154741456560385,
+0709,energy vs protein,Breton pudding cake with prunes,"Soft cake, with fruits, prepacked",,1.6169079905002683,0.48051567761564773,0.5668410793064533
+010302,energy vs protein,"Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked","Couscous royal (with different meats), prepacked",,0.519298245614035,0.48035470112362544,1.6166477272727275
+0303,energy vs protein,"Puffed salty snacks, potato flavour",Peanuts coated with savoury biscuit (with salt or flavoured),,0.51201540436457,0.4800689099899531,1.6161857697008348
+0303,mass vs protein,"Puffed salty snacks, potato flavour",Peanuts coated with savoury biscuit (with salt or flavoured),0.46951219512195125,,0.4800689099899531,1.6161857697008348
+010301:ready,mass vs energy,"Rabbit with mustard sauce, prepacked",Milanese-style chicken escalope or breaded chicken escalope,0.6207827260458839,1.94856800119958,0.47677413581294625,
+0409,mass vs energy,"Mussels, in Catalan-style sauce or marinade (tomatoes), canned, drained","Rillettes, mackerel, prepacked",0.621859296482412,2.028877810804686,0.4750414232756928,
+0405,mass vs energy,"Common sole, boiled/cooked in water","Greenland halibut, steamed",0.622972972972973,1.6161182922052488,0.4732521432015668,
+040102,energy vs protein,"Pork, spare-ribs, braised","Pork, ham escalope, cooked",,0.6203384968445209,0.47301393602288194,1.6048237476808902
+0303,mass vs protein,"Salty snacks, crackers, made from potato",Peanuts coated with savoury biscuit (with salt or flavoured),0.46951219512195125,,0.471392065964264,1.6022230416688619
+0303,energy vs protein,"Salty snacks, crackers, made from potato",Peanuts coated with savoury biscuit (with salt or flavoured),,0.4668086700060859,0.471392065964264,1.6022230416688619
+030201,energy vs protein,"English muffin, whole wheat flour, prepacked","Maize/corn tortilla wrap, to be filled",,1.601326071513142,0.4708320806807742,0.5794602298031531
+0202:ready,mass vs protein,"Potato, roasted/baked","Potato crisps and similar, plain or flavoured, reduced fat",0.6085714285714287,,0.46958211184832993,1.5993257142857145
+0104,energy vs protein,"Tart, onion, prepacked","Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked",,0.5718015665796344,0.4686972933316799,1.5979112271540468
+010302,energy vs protein,"Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked","Couscous with meat, prepacked",,0.5035619351408825,0.46726550901361125,1.595625
+040205,energy vs protein,"Lamb, cutlet, raw","Lamb, shoulder, lean, raw",,0.5224042224042224,0.4655169953173948,1.5928374655647382
+010309,mass vs protein,"Cereal burger with végétables (without soybean), prepacked","Plant-based burger or steak from soybean and cheese, prepacked",0.62890625,,0.4637730794950995,1.9897598870056494
+0106,mass vs energy,"Croissant filled with ham and cheese, homemade",Spring roll,1.5888501742160275,0.619892302819132,0.4630105937547647,
+0104,mass vs protein,"Tart, Provence-style, prepacked","Tart (flamiche), Maroilles cheese, prepacked",0.6047619047619047,,0.46091123238427767,1.5855181023720348
+020101,mass vs protein,"Garden peas, raw","Spinach, young leaves for salad, raw",1.6595744680851066,,0.46082860767053185,0.6307607756928634
+0406,energy vs protein,"Ray, raw","Greenland halibut, raw",,1.828073993471164,0.4607012365834218,0.6308411214953272
+0702:ready,mass vs protein,"Chocolate bar, chocolate-coated, without biscuit",Chocolate-coated peanut,0.6319018404907976,,0.4590212125771265,1.622450671530426
+050101,mass vs energy,"Milk, skimmed, UHT","Sheep milk, whole",0.5275229357798165,1.5795018135267758,0.4571094894244439,
+030102,mass vs protein,"Gnocchi, from potato, raw","Couscous (pre-cooked durum wheat semolina), raw",0.6337837837837837,,0.45604741775193613,1.67286277694003
+0202:raw,mass vs energy,"Jerusalem artichoke, raw","French fries or chips, frozen, pre-fried, raw, to deep-fry",0.6343669250645995,2.0720954446554516,0.4551277457952066,
+1005:dry,energy vs protein,"Paprika, powder","Mix of 4 spices, powder",,1.607311320754717,0.45511501675198485,0.634375
+0202:ready,energy vs protein,"Mashed potatoes, made from flakes, reconstituted with semi-skimmed milk and water, no added salt","French fries or chips, frozen, deep-fried",,1.9193280671932804,0.453291103662911,0.6355331006823273
+0702:ready,energy vs protein,"Chocolate bar, chocolate-coated, without biscuit",Chocolate-coated peanut,,0.6357238274292499,0.45299104355053543,1.622450671530426
+040305,energy vs protein,Pâté with green pepper,Rabbit terrine,,0.6174725486418803,0.44681956582936216,1.5633321952884947
+040101,energy vs protein,"Beef, rump steak, grilled/pan-fried","Beef, minced steak, 20% fat, cooked",,1.554924971142747,0.4414272943981525,0.6422032346658529
+0709,energy vs protein,"Strawberries tart, from bakery",Fruit charlotte,,0.6439770094189161,0.4400922531750996,1.6562523435976666
+1005:ready,mass vs protein,"Bay, leaves","Poppy, seed",0.6448275862068966,,0.438772306125933,1.796365943178214
+0405,mass vs energy,"Common sole, fried","Greenland halibut, steamed",0.625,1.5495152354570638,0.437942130696239,
+050301,energy vs protein,"Corsica soft ripened cheese, from ewe's milk","Cheese, buche, from goat's milk, reduced fat",,0.5998124972746696,0.4362300217080913,1.5468645662599405
+020102,energy vs protein,"Spinach, cooked","Tomato paste, concentrated, canned",,2.3842131894079945,0.4342855466436564,0.6477272727272727
+0709,mass vs energy,"Rum baba, refrigerated","Rock-shaped coconut cake, prepacked",0.6480446927374302,1.7094972067039103,0.4337956147343904,
+040201,mass vs energy,"Beef, minced steak, 20% fat, raw","Veal fillet, raw",1.538793103448276,0.5870897382633985,0.43099841011332923,
+010307:ready,mass vs protein,"Lasagna or cannelloni with fish, prepacked","Ravioli filled with vegetables, in tomato sauce, canned",1.6491935483870968,,0.42705415818292053,0.6524282169443459
+010304,energy vs protein,"Fish and shrimp au gratin, prepacked, cooked","White fish with shallots, mussels and white wine sauce, prepacked",,0.6541748849441156,0.4243805551007003,1.644604461308497
+010304,mass vs protein,"Fish or seafood au gratin, intended to be cooked, prepacked, raw",Fish on skewer,0.6547945205479453,,0.4234338016509807,1.9227245301570988
+040101,energy vs protein,"Beef, topside, grilled/pan-fried","Beef, minced steak, 20% fat, cooked",,1.5259994978974454,0.4226496038303929,0.6506891554376986
+040205,energy vs protein,"Mutton, meat, raw","Lamb, rib chop, raw",,1.6097276470900126,0.4223323923670146,0.6555161146242271
+0106,energy vs protein,Spring roll,"Fritter, filled with potatoes (filo pastry), home-made, cooked",,1.9262947585302659,0.42116890498408016,0.6562792432120569
+041001,energy vs protein,"Egg white, raw","Egg, scrambled, with added fat",,2.0892157810762466,0.4201472532256436,0.656950074674632
+020102,energy vs protein,"Spinach, cooked","Tomato paste, double concentrate, canned",,1.5189619154748515,0.41802715119587014,0.3506397637795275
+030102,mass vs protein,"Gnocchi, from potato, raw","Pasta, dry, with egg, raw",0.5043010752688172,,0.41546006377668154,1.5150676081037422
+0406,energy vs protein,"Turbot, wild, raw","Greenland halibut, raw",,1.5453551912568306,0.41459092431580996,0.6606104651162792
+0709,mass vs energy,"Rum baba, refrigerated","Doughnut, plain, sprinkled with sugar",0.6628571428571428,1.5390476190476188,0.41119578281714947,
+010303,energy vs protein,"Beef stew with carrots, prepacked","Moussaka, prepacked",,1.5080285459411236,0.4108031990757805,0.4296995377503851
+0202:raw,mass vs energy,"Jerusalem artichoke, raw","Tapioca, raw",0.6635135135135135,3.144361228698578,0.41020605840369484,
+050201,mass vs energy,"Yogurt or fermented milk, with chocolate flakes, with cream, with sugar(s)","Fermented milk drink, plain, skimmed milk",1.5060240963855422,0.43268311340600507,0.40947312950570325,
+040203,energy vs protein,"Hen, meat and skin, raw","Chicken, meat, raw",,0.5418128654970761,0.40893131608465055,1.5052083333333333
+050301,mass vs protein,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk","Pélardon cheese, from goat's milk",0.6651053864168619,,0.4078097750674184,1.5075722092115533
+0405,energy vs protein,"Cod, salted, boiled/cooked in water","Greenland halibut, steamed",,1.5840707964601772,0.4073900365177487,0.6653846153846155
+060203,mass vs energy,"Still soft drink, fruit content unknown, with sugar(s)","Carbonated beverage or fruit soft drink, fruit content < 10% , no added sugars and no sweetener(s)",1.5013262599469497,0.5474268240417917,0.4063488907551722,
+060203,mass vs energy,"Bottled water, flavoured, with sugar(s)","Still soft drink, fruit content >= 10% and < 50%, with sugar(s)",0.666077738515901,1.6898638921607116,0.4063488907551722,
+060203,mass vs energy,"Still soft drink, fruit content >= 10% and < 50%, with sugar(s)","Carbonated beverage or fruit soft drink, fruit content < 10% , no added sugars and no sweetener(s)",1.5013262599469497,0.6100279450392716,0.4063488907551722,
+040101,energy vs protein,"Beef, minced steak, 20% fat, cooked","Veal, roast, cooked",,0.662797374897457,0.40587460207385084,1.500614366729679
+030101,mass vs energy,"Oat flakes, boiled/cooked in water","Pasta, fresh, with egg, cooked, no added salt",0.6688741721854305,1.6262063810007577,0.4021593199736648,
+030101,mass vs protein,"Oat flakes, boiled/cooked in water","Pasta, fresh, with egg, cooked, no added salt",0.6688741721854305,,0.4021593199736648,1.5168170203890077
+050101,energy vs protein,"Milk, skimmed, pasteurised","Goat milk, whole, UHT",,1.494648318042813,0.4018909404023218,0.6645322505075745
+1102,mass vs energy,"Baby food jar with vegetables, from 4-6 months","Baby meal, vegetables with meat/fish and starchy food, from 18 months",0.5377777777777778,1.494574074074074,0.4018412659659534,
+040208,energy vs protein,"Brain, calf, raw","Blood, beef, raw",,0.5573290880692058,0.3993233538467758,1.4908156016372924
+040308:ready,mass vs protein,Bresaola,"Lardoons, smoked, cooked",1.4977973568281937,,0.3985854214766031,0.6712689373589771
+0406,mass vs energy,"Greenland halibut, raw","Tonguesole, raw",1.6042780748663101,0.6713139801375094,0.39851832278502547,
+0709,mass vs energy,"Rum baba, refrigerated","Crepe filled with sugar, prepacked",0.6373626373626373,1.4871794871794868,0.39688136441677263,
+1005:dry,energy vs protein,"Black pepper, powder","Mix of 4 spices, powder",,1.5441842900302116,0.3967042545955704,0.6725328947368421
+0102,mass vs energy,"Soup, chicken and vermicelli, dehydrated and reconstituted","Soup, asparagus, prepacked, to be reheated",0.5471337579617834,1.4865520971037136,0.39645940966578047,
+010302,mass vs protein,"Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked","Couscous royal (with different meats), prepacked",0.6727272727272727,,0.3964152725882465,1.6166477272727275
+010302,mass vs protein,"Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked","Couscous with meat, prepacked",0.6727272727272727,,0.3964152725882465,1.595625
+020101,mass vs protein,"Garden peas, frozen, raw","Spinach, young leaves for salad, raw",1.9148936170212767,,0.39578155216722494,0.673153728850483
+040302,energy vs protein,"Dry-cured ham, Serrano",Pancetta,,1.4851063829787234,0.39548640805826824,0.6644736842105264
+040201,mass vs energy,"Beef, short ribs, raw","Veal, shoulder, raw",1.564516129032258,0.6759581881533102,0.3916240566962928,
+1005:ready,energy vs protein,Nutmeg,"Fennel, seed",,0.6765852029171076,0.39069689263951823,2.832497266705255
+0101,mass vs protein,"Mixed salad, with meat/fish, canned","Potato salad, homemade",2.0350877192982453,,0.3905578387239572,0.6766792912803099
+0101,energy vs protein,"Mixed salad, with meat/fish, canned","Potato salad, homemade",,2.3496012759170646,0.3905578387239572,0.6766792912803099
+040102,energy vs protein,"Pork, rack, cooked","Pork, spare-ribs, braised",,1.611650485436893,0.3894647667617235,0.6774193548387095
+050201,mass vs energy,"Yogurt, Greek-style, ewe's milk","Fermented milk drink, plain, whole milk",1.4754098360655739,0.6270491803278689,0.3889358061569539,
+030101,mass vs protein,"Frik (crushed immature durum wheat), cooked, no added salt","Pasta, fresh, with egg, cooked, no added salt",0.5218543046357617,,0.38762082690058414,1.4734709777950918
+0803,mass vs protein,"Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce",Peach melba (with vanilla ice cream and raspberry sauce),1.7740585774058577,,0.3867124880717561,0.6792863697873731
+030101,mass vs energy,"Frik (crushed immature durum wheat), cooked, no added salt","Rice, wholegrain, cooked, no added salt",0.6793103448275863,1.6714609800362978,0.386677194242531,
+060201,mass vs energy,"Pineapple juice, from concentrate","Tomato juice, pure juice (average)",1.4716088328075712,0.610591045352281,0.386356246410118,
+0706,mass vs protein,"Biscuit (cookie), vitamin and mineral content guaranteed","Biscuit (small tart), with fruit covering, prepacked",1.471311475409836,,0.38615416319507695,0.6307566788099574
+040201,mass vs energy,"Beef, minced steak, 15% fat, raw","Veal fillet, raw",1.538793103448276,0.6799318364073779,0.3857627264137926,
+1005:dry,mass vs protein,"Black pepper, powder","Mix of 4 spices, powder",1.46875,,0.38441169891033206,0.6725328947368421
+1005:dry,mass vs protein,"Paprika, powder","Mix of 4 spices, powder",1.46875,,0.38441169891033206,0.634375
+1005:dry,mass vs protein,"Curry, powder","Mix of 4 spices, powder",1.46875,,0.38441169891033206,0.6168750000000001
+040203,energy vs protein,"Hen, meat and skin, raw","Turkey, meat and skin, raw",,0.6809941520467838,0.38420156017230955,1.5556220095693785
+0405,energy vs protein,"Nursehound or lesser spotted dogfish, cooked","Greenland halibut, steamed",,1.7211538461538465,0.38404267252075747,0.6811023622047245
+010304,mass vs protein,"Fish and shrimp au gratin, prepacked, cooked",Fish on skewer,0.6815068493150684,,0.3834489775437894,1.8336507156459239
+0106,mass vs protein,"Fritter, filled with potatoes (filo pastry), home-made, cooked","Croissant filled with ham and cheese, prepacked",0.6820175438596492,,0.38269989733515186,1.8718758434547913
+0106,mass vs protein,"Croissant filled with ham and cheese, homemade","Fritter, filled with potatoes (filo pastry), home-made, cooked",1.4662379421221863,,0.3826998973351518,0.6031991534046968
+100102,energy vs protein,"Butter sauce, prepacked","Cheese sauce for risotto or pasta, prepacked",,0.682379096722622,0.382169915274684,1.5695770656202306
+040207,mass vs energy,"Duck, meat, raw","Duck, breast fillet, raw",0.552054794520548,1.4649013051450763,0.3817878716980168,
+040308:ready,mass vs protein,"Saveloy or cervelat with garlic, pure pork","Duck confit (conserved in rendered fat), meat (leg) without skin, canned, reheated",0.6829896907216495,,0.3812755136370512,1.748453608247423
+010301:ready,mass vs energy,"Meat balls, beef, cooked","Provencal-type tripe (with tomato), prepacked",1.4838709677419357,0.6838115058718597,0.3800729755484194,
+0405,energy vs protein,"Common sole, fried","Greenland halibut, steamed",,1.5495152354570638,0.3793070677749233,0.6843354430379748
+010307:ready,mass vs energy,"Fresh pasta, stuffed with cheese (e.g. ravioli), prepacked, cooked","Ravioli filled with vegetables, in tomato sauce, canned",1.4596774193548387,0.5883920924921495,0.3782154656607889,
+010307:ready,mass vs protein,"Fresh pasta, stuffed with cheese and vegetables (e.g. ravioli), cooked, prepacked","Ravioli filled with vegetables, in tomato sauce, canned",1.4596774193548387,,0.3782154656607889,0.529454781831478
+010307:ready,mass vs energy,"Fresh pasta, stuffed with cheese and vegetables (e.g. ravioli), cooked, prepacked","Ravioli filled with vegetables, in tomato sauce, canned",1.4596774193548387,0.6071991456768301,0.3782154656607889,
+010307:ready,mass vs protein,"Fresh pasta, stuffed with cheese (e.g. ravioli), prepacked, cooked","Ravioli filled with vegetables, in tomato sauce, canned",1.4596774193548387,,0.3782154656607889,0.4203870967741935
+030101,mass vs energy,"Frik (crushed immature durum wheat), cooked, no added salt","Pasta, dry, wholewheat, cooked, no added salt",0.685217391304348,1.6138672768878726,0.37801913149941635,
+030101,mass vs protein,"Frik (crushed immature durum wheat), cooked, no added salt","Pasta, dry, wholewheat, cooked, no added salt",0.685217391304348,,0.37801913149941635,2.468797953964195
+010303,energy vs protein,"Beef stew with carrots, prepacked","Chili con carne, prepacked",,1.4575725026852844,0.3767723825578019,0.6338512677798391
+0304,energy vs protein,Buckwheat flour,Maize/corn flour,,1.4551192611786592,0.37508786371020414,0.6799597888916813
+0706,mass vs protein,Florentine biscuit (chocolate biscuit or cookie with almonds),"Biscuit sponge cake, filled with fruits and with chocolate covering",1.4534412955465585,,0.37393405186030154,0.6057306365972769
+0706,mass vs protein,"Biscuit (cookie), vitamin and mineral content guaranteed","Biscuit sponge cake, filled with fruits and with chocolate covering",1.4534412955465585,,0.37393405186030154,0.5221622432148747
+010304,energy vs protein,"Fish or seafood au gratin, intended to be cooked, prepacked, raw","White fish with Provencal-style sauce (tomato sauce), prepacked",,0.6682895238095238,0.37289697541012,1.4519347471451878
+0202:ready,energy vs protein,"Mashed potatoes, made from flakes, reconstituted with semi-skimmed milk and water, no added salt",Rostis,,2.0232949069473807,0.37232897571598067,0.6891274990173224
+050203,energy vs protein,"Flan with eggs, refrigerated","Panna cotta, with fruit preparation or caramel, refrigerated",,1.4492451847995835,0.3710428586857536,0.5424141287720762
+040107,energy vs protein,"Rabbit, wild, meat, cooked","Duck, meat and skin, roasted/baked",,1.4483118789521228,0.37039865678794603,0.4131593714927049
+0702:ready,mass vs protein,"Chocolate bar, chocolate-coated, without biscuit","Chocolate confectionery, filled with nuts and/or praliné",0.5885714285714285,,0.36988460817874724,1.4475675675675674
+0702:ready,energy vs protein,"Chocolate bar, chocolate-coated, without biscuit","Chocolate confectionery, filled with nuts and/or praliné",,0.6621428571428571,0.36988460817874724,1.4475675675675674
+0406,mass vs energy,"Mackerel, raw","Big-scale sand smelt (whole small fish), to fry, raw",1.4475138121546962,0.6499190803058207,0.36984747249527117,
+0406,mass vs energy,"Mackerel, raw","Bogue, raw",1.4475138121546962,0.6733132429265026,0.36984747249527117,
+0106,mass vs protein,"Ham and cheese puffed pastry, homemade","Fritter, filled with potatoes (filo pastry), home-made, cooked",1.8649517684887458,,0.36830571724542305,0.6919056218708247
+050303,energy vs protein,"Tomme cheese, from cow's milk","Tomme cheese, reduced fat, around 13% fat",,0.6639194139194139,0.3682143326396007,1.4451517489711934
+050203,mass vs energy,"Milkshake, from fast food","Caramelized custard cream (crème brûlée), refrigerated",0.6926605504587154,1.4787753021697974,0.3672152259741649,
+0102,mass vs energy,"Soup, chicken and vermicelli, dehydrated and reconstituted","Soup, vegetables with cheese, prepacked, to be reheated",0.692741935483871,1.5129222458916616,0.36709773661482714,
+0106,energy vs protein,"Meat, poultry or fish fritters, home-made, cooked","Brick pastry with beef, home-made, cooked",,1.7927531141073794,0.3655052902691745,0.6938459686710113
+050303,energy vs protein,"Cheddar cheese, from cow's milk","Tomme cheese, reduced fat, around 13% fat",,0.6944444444444444,0.3646431135879093,1.4489850427350428
+0304,energy vs protein,Spelt flour,Maize/corn flour,,1.4385838150289019,0.36365916788658154,0.6859243484433628
+1101,mass vs energy,"Baby fruit-based beverage, from 4/6 months","Baby milk, infant formula, powder",0.10173913043478261,1.4376811594202898,0.36303150969356773,
+050101,mass vs energy,"Goat milk, half skimmed, UHT","Sheep milk, whole",0.6972477064220183,1.5680461519971152,0.3606145419428127,
+050301,mass vs protein,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk","Crottin cheese, from goat's milk, from raw milk",0.6469248291571754,,0.3572518465948213,1.4293958129949018
+060201,mass vs energy,"Orange juice, from concentrate","Tomato juice, pure juice (average)",1.4290220820189274,0.6800390171011124,0.35699035160575343,
+050201,mass vs protein,"Yogurt, Greek-style, ewe's milk","Yogurt, Greek-style, on a fruit layer, with sugar(s)",1.4285714285714286,,0.3566749439387324,0.6935388263189093
+010304,energy vs protein,"Fish or seafood au gratin, intended to be cooked, prepacked, raw","White fish with shallots, mussels and white wine sauce, prepacked",,0.7003663003663003,0.3561517945676589,1.7244949178065005
+030102,mass vs protein,"Gnocchi, from potato, raw","Asian noodles, dry, with wheat and egg, plain, raw",0.5583333333333333,,0.35472382858884904,1.4257868383404861
+010301:ready,mass vs protein,"Meat balls, beef, with tomato sauce, prepacked","Veal paupiette, prepacked, roasted/baked",0.5829383886255923,,0.3541440979184474,1.4249605055292258
+010303,energy vs protein,"Boiled meat with vegetables, prepacked","Moussaka, prepacked",,1.4225806451612901,0.3524725779676539,0.4004587155963302
+040107,energy vs protein,"Rabbit, meat, cooked","Duck, meat and skin, roasted/baked",,1.4222943002883122,0.35227127219538934,0.665085817524842
+040302,energy vs protein,Dry-cured ham,Pancetta,,1.517391304347826,0.3512145183584162,0.7038327526132405
+050101,energy vs protein,"Milk, skimmed, UHT","Goat milk, whole, UHT",,1.42078488372093,0.35120945392617703,0.6220760233918129
+020102,mass vs protein,"Garden peas, canned, drained","Tomato coulis, canned (tomato puree semi-reduced 11%)",1.6727272727272728,,0.35079875212761263,0.7041254433451556
+040208,energy vs protein,"Brain, lamb, raw","Blood, beef, raw",,0.5106574135398969,0.3444048513469182,1.4111498257839723
+020102,mass vs protein,"Tomato coulis, canned (tomato puree semi-reduced 11%)","Garden peas, puree",0.6021897810218977,,0.34359349227603875,1.4100053409293216
+040305,energy vs protein,Breton pâté,Rabbit terrine,,0.597596656217346,0.3426109913195381,1.4086206896551727
+0303,mass vs protein,"Maiz/corn chips or tortilla chips, flavoured",Peanuts coated with savoury biscuit (with salt or flavoured),0.7103658536585367,,0.34197515481844304,1.7188025249318348
+0105,mass vs protein,"Sandwich, baguette, raw vegetables and mayonnaise","Toasted ham and cheese sandwich, topped with a fried egg, homemade",0.6714975845410628,,0.3412138072302944,1.4066539615003912
+0705,energy vs protein,Apple turnover,"Brioche, plain, from bakery",,0.7118055555555557,0.33995050099753754,1.6533202009820718
+1101,mass vs energy,"Baby fruit-based beverage, from 4/6 months","Baby milk, follow-on formula, powder",0.10173913043478261,1.4028985507246376,0.33854048968527195,
+050302,energy vs protein,"Blue cheese, from cow's milk","Bresse blue cheese, reduced fat, from cow's milk",,0.7135194373922669,0.3375456001205902,1.4713386348575215
+1005:ready,energy vs protein,"Coriander, seed",Nutmeg,,1.400896860986547,0.3371126465054121,0.4498481122522783
+0304,mass vs protein,Buckwheat flour,Maize/corn flour,1.3988439306358382,,0.3356461316589075,0.6799597888916813
+0304,mass vs protein,Spelt flour,Maize/corn flour,1.3988439306358382,,0.3356461316589075,0.6859243484433628
+0707,energy vs protein,"Breakfast cereals, chocolate or chocolate-hazelnut filling, not fortified","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",,0.7155361050328227,0.33472321999695137,1.9142857142857144
+010309,mass vs protein,"Cereal burger with végétables (without soybean), prepacked","Plant-based ball with wheat and/or soybean, prepacked",0.7155555555555556,,0.33469603721995705,2.3717095626700146
+040304:ready,energy vs protein,"Toulouse sausage, cooked",Liver sausage,,1.3973027155093856,0.33454374649991886,0.648710782545979
+050301,mass vs energy,"Corsica soft ripened cheese, from ewe's milk","Cheese, buche, from goat's milk, reduced fat",1.3962848297213621,0.5998124972746696,0.33381501628002175,
+050303,energy vs protein,"Pyrénées firm cheese, from ewe's milk","Tomme cheese, reduced fat, around 13% fat",,0.6128074639525022,0.3328667339955595,1.3949613851519682
+040107,mass vs energy,"Rabbit, meat, cooked","Duck, meat and skin, roasted/baked",0.7175925925925926,1.4222943002883122,0.33185329076491843,
+040107,mass vs energy,"Rabbit, wild, meat, cooked","Duck, meat and skin, roasted/baked",0.7175925925925926,1.4483118789521228,0.33185329076491843,
+060201,mass vs energy,"Tomato juice, pure juice (average)","Multifruit juice, from concentrate, standard",0.7188208616780045,1.6430191124068674,0.3301431015695654,
+010304,mass vs protein,"White fish with Parisian-style sauce (mushrooms sauce), prepacked",Fish on skewer,0.7191780821917809,,0.32964627155081294,1.4383561643835616
+030102,energy vs protein,"Pasta, dry, regular, raw","Pasta, dry, gluten-free, raw",,1.4009803146493798,0.32940375214293377,0.7193525179856115
+010302,mass vs protein,"Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked","Shepherd's pie with duck, prepacked, to cook",0.7194444444444444,,0.32927596975061796,1.5333159722222225
+020101,mass vs protein,"Garden peas, frozen, raw","Salsify, frozen, raw",1.3869863013698631,,0.32713326483825744,0.5538477722193652
+040302,energy vs protein,"Cured ham, from Bayonne, smoked",Pancetta,,1.4362139917695476,0.32652190576804485,0.7214285714285714
+0303,energy vs protein,"Salty snacks, crackers, mini pretzels or sticks","Salty snacks, crackers, made from potato",,1.3856382978723403,0.3261608983634723,0.41339285714285723
+0101,energy vs protein,"Tuna salad, with vegetables, canned","Pasta salad, with vegetable and meat/fish, with sauce, prepacked",,1.447587021357513,0.32587553030248684,0.7218950358966485
+050101,energy vs protein,"Milk, whole, pasteurised","Milk, skimmed, UHT",,0.7066835514281694,0.32568587033471613,1.3849802371541502
+041001,mass vs energy,"Egg yolk, cooked","Turkey egg, raw",1.3829787234042554,0.6752190237797246,0.3242396681855786,
+041001,mass vs energy,"Egg, raw","Egg yolk, cooked",0.7230769230769231,1.756043956043956,0.32423966818557853,
+0105,mass vs protein,"Toasted ham and cheese sandwich, w butter, homemade","Sandwich, baguette, raw vegetables and mayonnaise",1.5827338129496407,,0.3231687585750842,0.7238516878804651
+060303,mass vs energy,Blackcurrant liqueur,Sake or rice wine,1.380952380952381,0.6369290573372205,0.322773392263051,
+050301,mass vs protein,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk","Crottin cheese, from goat's milk",0.6469248291571754,,0.322160526783551,1.380106302201974
+0706,energy vs protein,"Cone, wafer for ice cream","Biscuit sponge cake, filled with fruits and with chocolate covering",,1.3798499702161597,0.3219747760242995,0.7246855600539809
+0106,energy vs protein,"Snails in puff pastry, prepacked","Samosas or samoosas or filled filo pastry, home-made, cooked",,0.7249151065300357,0.3217007254248817,2.2692601617810335
+010301:ready,mass vs energy,"Meat balls, beef, with tomato sauce, prepacked","Veal paupiette, prepacked, roasted/baked",0.5829383886255923,1.3751367116296025,0.3185531528157448,
+060304,mass vs energy,Kir royal (champagne with blackcurrant liqueur),"Cocktail, alcohol-free (juices and syrup-based cocktail)",1.3805309734513276,0.7274275461484657,0.31824087781926513,
+040102,energy vs protein,"Pork, loin, roasted/baked","Pork, ham escalope, cooked",,0.6779661016949152,0.3177595276890589,1.3740458015267176
+010301:ready,mass vs protein,"Chicken with curry and coconut milk sauce, prepacked","Chicken, marinated wings, prepacked, roasted/baked",0.7282051282051281,,0.3171725009624863,1.5388485728108368
+030102,mass vs energy,"Gnocchi, from potato, raw","Pasta, dry, gluten-free, raw",0.6748201438848921,1.3726455199476786,0.316739914244036,
+0705,energy vs protein,Apple turnover,"Brioche, pure butter, plain, prepacked",,0.6968455743879471,0.3134715104522151,1.3681664837621428
+0705,mass vs protein,Apple turnover,"Brioche, pure butter, plain, prepacked",0.694915254237288,,0.3134715104522151,1.3681664837621428
+0104,mass vs energy,"Crepe or buckwheat pancake, filled with cheese and béchamel sauce, prepacked","Tart (flamiche), Maroilles cheese, prepacked",0.6452380952380952,1.367904761904762,0.313280198286208,
+0705,mass vs protein,"Brioche, filled with custard cream (Chinese brioche type), prepacked","Brioche, plain, from bakery",0.7321428571428572,,0.31177962403084136,1.4239611507253507
+030102,energy vs protein,"Pasta, dry, wholewheat, raw","Pasta, dry, gluten-free, raw",,1.364379318075285,0.3106996131912986,0.6909035483477625
+0702:ready,mass vs protein,"Coconut bar, chocolate-coated","Chocolate confectionery or bar, with milk",0.733793103448276,,0.30952816551303025,1.6548169214361894
+0105,energy vs protein,"Sandwich, panini bread, cured ham, mozzarella cheese and tomato, toasted","Sandwich, baguette, raw vegetables and mayonnaise",,1.5061166256867924,0.309356142783609,0.7339193433985207
+0105,mass vs protein,"Sandwich, panini bread, cured ham, mozzarella cheese and tomato, toasted","Sandwich, baguette, raw vegetables and mayonnaise",1.5935251798561152,,0.309356142783609,0.7339193433985207
+0304,mass vs protein,"Rye flour, type 130",Chick pea flour,0.7351129363449692,,0.30773113668188945,2.2743825654871976
+040207,mass vs energy,"Duck, meat and skin, raw","Guinea fowl, breast, raw",1.3602150537634408,0.5331245815116783,0.3076428150143189,
+0801,energy vs protein,"Ice cream, stick, chocolate-coated",Frozen yogurt,,0.4982631350412505,0.30760064849874275,1.3601576994434137
+050301,mass vs energy,"Cheese, buche, from goat's milk, reduced fat","Crottin cheese, from goat's milk, from raw milk",0.7357630979498863,1.5438963366817287,0.3068470898525146,
+050301,mass vs energy,"Cheese, buche, from goat's milk, reduced fat","Crottin cheese, from goat's milk",0.7357630979498863,1.3830738016107151,0.3068470898525146,
+050203,energy vs protein,"Panna cotta, with fruit preparation or caramel, refrigerated","Custard dessert, vanilla, refrigerated",,0.658129295532646,0.30679462151171183,1.3590618173456481
+0101,mass vs protein,"Pasta salad, vegetarian, with sauce","Caesar's salad (salad, chicken, croûtons, sauce), prepacked",0.7360406091370557,,0.3064699863174143,1.3600023073373326
+100102,energy vs protein,"Carbonara sauce (cream sauce with lardoons), prepacked","Butter sauce, prepacked",,1.3580993520518359,0.3060861870287627,0.48159551491199876
+0101,mass vs protein,"Mixed salad, with meat/fish, canned","Greek-style marinated mushrooms, prepacked",2.8712871287128707,,0.3046045431019992,0.7374149325602534
+0101,energy vs protein,"Mixed salad, with meat/fish, canned","Greek-style marinated mushrooms, prepacked",,1.991629162916291,0.3046045431019992,0.7374149325602534
+010301:ready,mass vs protein,Milanese-style veal escalope or breaded veal escalope,"Meat balls, beef, with tomato sauce, prepacked",1.878048780487805,,0.3036789780745986,0.7380977739908403
+0803,mass vs energy,"Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce",Peach melba (with vanilla ice cream and raspberry sauce),1.7740585774058577,0.7381572402492904,0.30359841440787616,
+030101,energy vs protein,"Durum wheat pre-cooked, whole grain, cooked, no added salt","Pearled barley, boiled/cooked in water, no added salt",,1.3533333333333333,0.3025706849455315,0.7336567164179102
+0801,energy vs protein,"Ice cream, in box",Frozen yogurt,,0.6596858638743456,0.3022808718729337,1.3529411764705883
+050203,mass vs energy,"Milk jelly, flavoured, covered with caramel sauce, refrigerated","Panna cotta, with fruit preparation or caramel, refrigerated",0.7394957983193278,1.5534266222900537,0.30178667863332287,
+010307:ready,mass vs energy,"Pasta with ham au gratin, prepacked","Ravioli filled with vegetables, in tomato sauce, canned",1.4556451612903225,0.7408339340421696,0.2999787894069439,
+010306:ready,mass vs protein,"Vegetable rosti, pre-fried, frozen","Vegetable terrine or mousse, prepacked",0.7419354838709676,,0.2984929885559967,2.1239097327980057
+010306:ready,mass vs protein,"Vegetable rosti, pre-fried, frozen, cooked","Vegetable terrine or mousse, prepacked",0.7419354838709676,,0.2984929885559967,1.4950784523925542
+030201,energy vs protein,"English muffin, whole wheat flour, prepacked","Wheat tortilla wrap, to be filled",,1.3469708890637295,0.2978582855122335,0.6341151228174017
+0707,energy vs protein,"Breakfast cereals, chocolate or chocolate-hazelnut filling, fortified with vitamins and minerals","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",,0.7431818181818182,0.29681455601505347,1.8980169971671392
+040208,energy vs protein,"Liver, lamb, raw","Tongue, beef, raw",,1.3425557007618019,0.2945750368655475,0.7268939545691279
+040301,energy vs protein,"Pork ham, to cook / roast / bake","Cooked ham, from turkey, in slices",,0.7351731309140063,0.29384766364707215,1.341579516768842
+100102,mass vs protein,"Armorican-style sauce, prepacked","Carbonara sauce (cream sauce with lardoons), prepacked",0.7461832061068703,,0.2927841243356763,1.8370319883678659
+1102,mass vs energy,"Baby meal, vegetable with milk/cream and starchy food, from 8-12 months","Baby soup, with vegetables and potatoes",1.5181932245922207,0.7463633787995304,0.2925426944260744,
+0104,mass vs energy,"Pizza, cheeses, prepacked","Crepe or buckwheat pancake, filled with cheese and béchamel sauce, prepacked",1.3394833948339482,0.7469238261155845,0.29179207212043357,
+050101,mass vs protein,"Goat milk, whole, UHT","Sheep milk, whole",0.6972477064220183,,0.29114742245427827,1.337961815026035
+0801,energy vs protein,Frozen yogurt,"Ice cream, in cup for children",,1.3355780022446688,0.2893641586347657,0.6656712048016395
+040301,energy vs protein,"Round of ham, cooked","Cooked ham, from turkey, in slices",,0.7074362078599367,0.28888156984979424,1.334933622776989
+010303,mass vs energy,"Boiled meat with vegetables, prepacked","Moussaka, prepacked",0.7499999999999999,1.4225806451612901,0.28768207245178107,
+0702:ready,energy vs protein,"Coconut bar, chocolate-coated",Chocolate-coated peanut,,0.5714519427402863,0.2865904642781404,1.3318786498851014
+0705,energy vs protein,Apple turnover,"Brioche, plain, prepacked",,0.6871939736346514,0.2863093467660615,1.3315042880949477
+040208,mass vs protein,"Brain, lamb, raw","Blood, beef, raw",0.7526132404181185,,0.2842038080754561,1.4111498257839723
+060303,mass vs energy,Wine-based aperitif,Blackcurrant liqueur,0.7528735632183909,1.346379729843108,0.2838579760133773,
+0405,mass vs energy,"Common sole, boiled/cooked in water","European bass, roasted/baked",0.6065789473684211,1.3274408848207475,0.2832529419339367,
+0706,energy vs protein,Biscuit (cookie),"Biscuit sponge cake, filled with fruits and with chocolate covering",,1.325887555983581,0.2820820887589335,0.7202237837446548
+0202:ready,energy vs protein,"Potato flakes, dehydrated, plain","French fries or chips, frozen, deep-fried",,1.3227888193839576,0.27974224985509455,0.7273287671232878
+040301,energy vs protein,"Round of ham, cooked","Cooked ham, from chicken, in slices",,0.7480443285528032,0.2792661111503524,1.3221591383485012
+0706,energy vs protein,"Biscuit (cookie), vitamin and mineral content guaranteed","Biscuit (small tart), with fruit covering, prepacked",,1.3216865796054458,0.27890863284147926,0.6307566788099574
+010303,mass vs protein,"Chicken, Basque-style, prepacked",Stuffed vegetables (excluding tomato),1.321533923303835,,0.27879312503453507,0.669292986963555
+030102,mass vs energy,"Gnocchi, from potato, raw","Couscous (pre-cooked durum wheat semolina), raw",0.6337837837837837,1.3179821867321868,0.2761019206112785,
+050204,mass vs energy,French toast,"Pastry cream or custard, instant, reconstituted",1.4342105263157896,0.7615277130880299,0.2724287145474271,
+030102,mass vs energy,"Gnocchi, from semolina, raw","Wheat, wholewheat, pre-cooked, raw",0.7626016260162601,1.3688699186991868,0.27101949936023856,
+030201,energy vs protein,"Bread, French bread, gluten free, prepacked","English muffin, prepacked",,0.7630522088353412,0.2704288243042217,1.6484716157205237
+040103,energy vs protein,"Chicken, wing, meat and skin, roasted/baked","Turkey, escalope, roasted/baked",,0.5830663144904632,0.2702996424562708,1.3103570305127399
+040103,energy vs protein,"Chicken, breast, without skin, grilled/pan-fried","Chicken, wing, meat and skin, roasted/baked",,1.6907435369480666,0.27029964245627075,0.7631507876969242
+040107,energy vs protein,"Rabbit, wild, meat, cooked","Goose, meat and skin, roasted/baked",,1.817073170731707,0.2696635669491026,0.7636363636363637
+0304,energy vs protein,"Rye flour, type 85",Chick pea flour,,0.7649436062256345,0.26795316522497054,1.6768360258785446
+030101,energy vs protein,"Pearled barley, boiled/cooked in water, no added salt","Couscous grain, cooked, no added salt",,0.6995691677686302,0.26618221482972826,1.3049728224248687
+040108,energy vs protein,"Sweetbread, lamb, cooked","Kidney, lamb, braised",,0.719652667021088,0.2638762276511373,1.301967038809144
+0801,mass vs energy,"Ice cream, stick, chocolate-coated",Frozen yogurt,1.3010204081632653,0.4982631350412505,0.26314888592790886,
+0801,mass vs energy,"Ice cream, stick, chocolate-coated","Ice cream, in box",1.3010204081632653,0.7553036412133242,0.26314888592790886,
+050203,mass vs energy,"Renneted milk, flavoured, refrigerated","Panna cotta, with fruit preparation or caramel, refrigerated",0.7689075630252101,1.3300022711787418,0.2627845208300537,
+1005:ready,mass vs protein,Nutmeg,"Poppy, seed",0.7689655172413794,,0.2627091515204008,2.791450165328295
+040202,mass vs protein,"Pork, back fat, rind less, raw","Pork, eye of shortloin, raw",0.26291793313069906,,0.2623761881239478,1.300015500845807
+040202,mass vs protein,"Pork, roast, raw","Pork, back fat, rind less, raw",3.803468208092486,,0.2623761881239478,0.7692215972420229
+0104,mass vs energy,"Tart, cheese, prepacked","Crepe or buckwheat pancake, filled with cheese and béchamel sauce, prepacked",1.298892988929889,0.7189444588172819,0.26151235471839596,
+040301,mass vs energy,"Round of ham, cooked","Cooked ham, from turkey, in slices",1.2966101694915253,0.7074362078599367,0.2597532969267706,
+040301,mass vs energy,"Round of ham, cooked","Cooked ham, from chicken, in slices",1.2966101694915253,0.7480443285528032,0.2597532969267706,
+010302,mass vs energy,"Couscous with meat or chicken, reduced fat, prepacked","Shepherd's pie with duck, prepacked, cooked",0.7722222222222221,1.4303564865858138,0.2584829177595187,
+050204,energy vs protein,"Chestnut mousse, refrigerated","Profiteroles (chou pastry) with custard and chocolate sauce, refrigerated",,0.67332764990054,0.25838195184819923,1.2948332881539713
+050204,mass vs protein,"Chestnut mousse, refrigerated","Profiteroles (chou pastry) with custard and chocolate sauce, refrigerated",0.5552941176470588,,0.25838195184819923,1.2948332881539713
+0105,energy vs protein,"Sandwich, panini bread, cured ham, mozzarella cheese and tomato, toasted","Focaccia, filled",,1.3483690611487764,0.25788297610490013,0.7726856495007194
+040103,energy vs protein,"Chicken, wing, meat and skin, roasted/baked","Turkey, meat, roasted/baked",,0.7728962889089961,0.2576104063959172,1.5458140841981165
+010309,mass vs energy,"Schnitzel, soybean, wheat and cheese-based, cordon bleu-style, prepacked","Soy-based minced meat imitate, prepacked",1.3365853658536586,0.7738125802310656,0.25642557911840774,
+0105,mass vs energy,"Sandwich, baguette, camembert cheese and butter, homemade","Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked",1.327922077922078,0.7749457287580456,0.254962279489797,
+0707,energy vs protein,"Breakfast cereals, vanilla or milk filling, fortified with vitamins and minerals","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",,0.7622377622377623,0.25344890080953875,1.2884615384615385
+030101,energy vs protein,"Rice, white, parboiled, cooked, no added salt","Rice, wild, cooked, no added salt",,0.6986301369863014,0.2531958963806116,1.2881355932203389
+0801,mass vs energy,"Ice cream, stick, chocolate-coated","Ice cream, in cup for children",1.2878787878787878,0.665469282490559,0.2529965144638909,
+030102,energy vs protein,"Durum wheat semolina, raw","Pasta, dry, gluten-free, raw",,1.287769784172662,0.2529118727100634,0.6465674917692964
+040202,mass vs protein,"Pork, rack, raw","Pork, back fat, rind less, raw",3.919075144508671,,0.2502120775301531,0.778635634437626
+1102,energy vs protein,"Baby meal, vegetables with meat/fish and starchy food, from 6-8 months","Baby meal, vegetables with meat/fish and starchy food, from 12 months",,1.283050847457627,0.24924071653768354,0.6944444444444444
+020303,mass vs protein,"Lupin, seed, dried","Flageolet bean, green, dried",1.2820512820512822,,0.24846135929849972,0.6764414222977759
+010303,mass vs protein,"Stuffed cabbage, prepacked","Chicken, Basque-style, prepacked",0.7812499999999999,,0.24686007793152595,1.3708726415094339
+0105,energy vs protein,"Sandwich, baguette, raw vegetables and mayonnaise","Toasted ham and cheese sandwich, topped with a fried egg, homemade",,0.7824145962732919,0.2453705046670238,1.4066539615003912
+040108,mass vs protein,"Brain, lamb, cooked","Sweetbread, calf, braised or grilled/pan-fried",0.7634961439588689,,0.24097841895024422,1.2724935732647817
+100601:ready,energy vs protein,"Mint, fresh","Rosemary, fresh",,1.756553375047402,0.24042719869337464,0.7862918864412037
+040208,mass vs protein,"Brain, calf, raw","Blood, beef, raw",0.7874564459930314,,0.23894721648733513,1.4908156016372924
+100102,mass vs protein,"Carbonara sauce (cream sauce with lardoons), prepacked","Mushroom sauce, prepacked",1.268765133171913,,0.2380440913600095,0.7853091733365807
+060304,mass vs energy,Kir royal (champagne with blackcurrant liqueur),"Shandy, prepacked (<1° alcohol), flavoured or plain",1.2682926829268293,0.46489537060319047,0.23767165187711956,
+060304,mass vs energy,Kir royal (champagne with blackcurrant liqueur),Shandy (beer + lemonade),1.2682926829268293,0.5665912329226384,0.23767165187711956,
+040203,mass vs energy,"Chicken, wing, meat and skin, raw","Turkey, meat, raw",1.267543859649123,0.7563245129398083,0.2370810591579916,
+040203,mass vs energy,"Hen, meat and skin, raw","Turkey, meat, raw",1.267543859649123,0.536842105263158,0.2370810591579916,
+040203,mass vs energy,"Hen, meat and skin, raw","Turkey, meat and skin, raw",1.267543859649123,0.6809941520467838,0.2370810591579916,
+010306:ready,energy vs protein,"Haricot beans with tomato sauce, canned","Falafel, prepacked",,1.3542443064182192,0.23643018678905456,0.7894409937888199
+0105,mass vs energy,"Sandwich, panini bread, cured ham, mozzarella cheese and tomato, toasted","Sandwich, baguette, salami and butter",0.7896613190730836,1.2694555382567294,0.23615113547756095,
+010303,mass vs protein,"Chili con carne, prepacked","Mutton tagine, prepacked",0.7050359712230216,,0.23562748203924722,1.265702725337262
+040108,energy vs protein,"Tongue, calf, cooked","Kidney, beef, cooked",,0.7100663050030139,0.235314086934465,1.2653061224489797
+040103,mass vs energy,"Chicken, wing, meat and skin, roasted/baked","Turkey, meat, roasted/baked",1.2642740619902122,0.7728962889089961,0.2344980934171357,
+040301,mass vs energy,"Cooked ham, superior quality, rind less",Braised ham on the bone,0.7919254658385093,1.340181557572862,0.23328800038598216,
+040208,mass vs protein,"Brain, lamb, raw","Sweetbread, calf, raw",0.7632508833922261,,0.23293508771300778,1.2622995379179125
+060303,mass vs energy,Liqueur,Sake or rice wine,1.2619047619047619,0.6337566137566137,0.2326222952687535,
+040304:ready,energy vs protein,"Poultry sausage, delicatessen-style",Liver sausage,,1.657683852209063,0.23005295961514471,0.7944915254237287
+040101,mass vs protein,"Beef, hanger steak, grilled/pan-fried","Beef, chuck, braised or boiled",0.7956521739130435,,0.22859315608177436,1.2730434782608695
+040101,mass vs energy,"Beef, round, cooked","Beef, chuck, braised or boiled",0.7956521739130435,1.9579283887468035,0.22859315608177436,
+040101,mass vs energy,"Beef, bolar-blade, roasted/baked","Beef, chuck, braised or boiled",0.7956521739130435,1.3585625554569656,0.22859315608177436,
+040101,mass vs energy,"Beef, roast beef, roasted/baked","Beef, chuck, braised or boiled",0.7956521739130435,1.5849896480331265,0.22859315608177436,
+040101,mass vs protein,"Beef, round, cooked","Beef, chuck, braised or boiled",0.7956521739130435,,0.22859315608177436,1.3942857142857144
+100102,mass vs protein,"Carbonara sauce (cream sauce with lardoons), prepacked","Cheese sauce for risotto or pasta, prepacked",1.2565947242206237,,0.22840546252224087,0.755901275111439
+0707,mass vs protein,"Granola with chocolate, fortified with vitamins and minerals","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",0.7500000000000001,,0.2281310928252489,1.25625
+1005:ready,mass vs protein,"Coriander, seed","Poppy, seed",0.7344827586206897,,0.22771595179588083,1.2557285873192434
+020303,mass vs protein,"Red kidney bean, dried","Lupin, seed, dried",0.7799999999999999,,0.2270824503228512,1.2549333333333332
+040108,mass vs protein,"Brain, calf, cooked","Sweetbread, calf, braised or grilled/pan-fried",0.7969151670951158,,0.22700704613925424,1.4552363920867333
+040208,mass vs energy,"Sweetbread, lamb, raw","Kidney, lamb, raw",1.2546296296296295,0.7960116366366365,0.22684041319553583,
+0406,mass vs protein,"Albacore, raw","Tonguesole, raw",1.254010695187166,,0.22634697103174753,0.7238223497955332
+040101,mass vs protein,"Beef, thin flank, grilled/pan-fried","Beef, chuck, braised or boiled",0.7978260869565219,,0.2258646414285702,1.3592592592592592
+040108,mass vs protein,"Brain, lamb, cooked","Sweetbread, lamb, cooked",0.7983870967741934,,0.22516171547044714,1.444700460829493
+040108,mass vs energy,"Brain, lamb, cooked","Sweetbread, lamb, cooked",0.7983870967741934,1.2819173103134938,0.22516171547044714,
+040108,mass vs energy,"Sweetbread, lamb, cooked","Kidney, lamb, braised",1.2525252525252526,0.719652667021088,0.225161715470447,
+040205,mass vs energy,"Lamb, shoulder, lean, raw","Lamb, rib chop, raw",0.7990314769975787,1.5865660982110195,0.22435493850050683,
+040205,mass vs energy,"Lamb, shoulder, lean, raw","Lamb, chop fillet, raw",0.7990314769975787,1.3336352709599877,0.22435493850050683,
+040205,mass vs energy,"Lamb, shoulder, raw","Lamb, rib chop, raw",0.7990314769975787,1.297251103831363,0.22435493850050683,
+040105,mass vs energy,"Lamb, shoulder, lean, roasted/baked","Lamb, neck, braised or boiled",0.7992351816443595,1.480816453300463,0.22410003154016658,
+040301,mass vs protein,Braised ham on the bone,"Cooked pork shoulder, standard, rind less defatted",1.2627450980392156,,0.22200948147005817,0.8009077705156135
+040305,energy vs protein,Poultry liver pâté,Goose liver pâté,,1.4000305017538506,0.22059645055634594,0.8020402778999207
+050302,energy vs protein,"Gorgonzola cheese, from cow's milk","Bresse blue cheese, reduced fat, from cow's milk",,0.796060117283719,0.21977549601437543,1.2457970127950244
+040304:raw,energy vs protein,"Merguez sausage, pure beef, raw","Merguez sausage, beef, mutton and pork, raw",,0.8033061607066779,0.21901936658407808,1.2985083028426683
+010302,mass vs energy,"Couscous with meat or chicken, reduced fat, prepacked","Shepherd's pie with duck, prepacked, to cook",0.7722222222222221,1.243047899056719,0.2175663468277267,
+040108,energy vs protein,"Heart, lamb, cooked","Tongue, calf, cooked",,1.2684988286177687,0.21719354582127007,0.8047741935483871
+050302,energy vs protein,"Causses blue cheese, from cow's milk","Bresse blue cheese, reduced fat, from cow's milk",,0.7536779324055665,0.2158272566235256,1.240888005301524
+050203,mass vs protein,"Milk jelly, flavoured, covered with caramel sauce, refrigerated","Caramelized custard cream (crème brûlée), refrigerated",0.8073394495412842,,0.21401106775093745,1.4057204533189422
+050201,mass vs protein,"Yogurt, Greek-style, on a fruit layer, with sugar(s)","Yogurt or fermented milk, with cereals",0.8076923076923077,,0.21357410029805904,1.2564102564102566
+050201,mass vs protein,"Yogurt, Greek-style, ewe's milk","Yogurt or fermented milk, with fruits, with cream, with sugar(s)",1.4285714285714286,,0.21179737492690817,0.8091286307053942
+0406,mass vs protein,"European hake, raw","Albacore, raw",0.8091684434968016,,0.21174817161059487,1.2505330490405115
+0406,mass vs protein,"Albacore, raw","Blue grenadier, raw",1.235836627140975,,0.21174817161059484,0.7087886538014415
+050302,mass vs energy,"Roquefort cheese, from ewe's milk","Bresse blue cheese, reduced fat, from cow's milk",1.3956262425447314,0.8104808648111331,0.21012754720153629,
+1005:ready,energy vs protein,Nutmeg,"Poppy, seed",,0.8115169687883331,0.20884998184767165,2.791450165328295
+010307:ready,energy vs protein,"Lasagna or cannelloni with meat (bolognese sauce), prepacked","Risotto, with vegetables, prepacked",,1.6705463508147338,0.2075043640422666,0.8126096955023022
+050101,mass vs protein,"Goat milk, whole, raw","Sheep milk, whole",0.6972477064220183,,0.20695533123393026,1.229927631204057
+0706,mass vs energy,"Biscuit puff pastry, prepacked","Biscuit sponge cake with fruits covering, pre-packed",1.2294520547945205,0.7940211187214612,0.20656858621999705,
+010307:ready,energy vs protein,"Ravioli filled with meat, in tomato sauce, canned","Risotto, with vegetables, prepacked",,1.5787903000664245,0.20568021884684146,0.8140933663782484
+040304:ready,energy vs protein,"Poultry sausage, delicatessen-style","Strasbourg sausage, to cook",,1.227392360642462,0.20489188693724616,0.8012820512820514
+0105,mass vs energy,"Sandwich, baguette, ham, hard-boiled egg, raw vegetables and butter","Sandwich, baguette, camembert cheese and butter, homemade",0.8092909535452324,1.2265254007063298,0.20418529441335778,
+040305,mass vs protein,Breton pâté,Rabbit terrine,0.8155172413793105,,0.2039327150485319,1.4086206896551727
+0706,mass vs energy,Florentine biscuit (chocolate biscuit or cookie with almonds),"Biscuit sponge cake with fruits covering, pre-packed",1.2294520547945205,0.8156481530835243,0.2037722019516512,
+020303,mass vs protein,"Chick pea, dried","Lupin, seed, dried",0.8172727272727273,,0.20178242431484164,1.4431840354767187
+040304:raw,energy vs protein,"Sausage meat, pork and beef, raw","Chipolata sausage, raw",,0.8187702265372168,0.1999517881702253,1.3389830508474576
+0405,mass vs protein,"Common sole, roasted/baked","Common sole, grilled/pan-fried without added fat",0.8112798264642082,,0.1984437540951856,1.2195034334111667
+010306:ready,energy vs protein,"Chicory with ham in sauce, prepacked","Cauliflower au gratin, prepacked",,1.6125030020654212,0.19695264460507447,0.8212295220401958
+050303,mass vs protein,"Mimolette cheese, old, from cow's milk (cured 12 months minimum)","Saint-Nectaire cheese, from cow's milk, milk collected in many farms",1.2166064981949458,,0.1960654241650232,0.7764812062008918
+050303,mass vs protein,"Mimolette cheese, old, from cow's milk (cured 12 months minimum)","Saint-Nectaire cheese, from cow's milk, milk collected in an unique farm",1.2166064981949458,,0.1960654241650232,0.7979507326396262
+0706,mass vs energy,"Wafer biscuit, with fruit filling","Biscuit puff pastry, prepacked",0.8133704735376044,1.2097453803601552,0.19040990801084842,
+100601:ready,energy vs protein,"Rosemary, fresh","Sage, fresh",,0.2884297520661157,0.18934617173091922,1.2084592145015107
+0202:raw,energy vs protein,"Jerusalem artichoke, raw","French fries or chips, frozen, pre-fried, raw, to cook in the oven",,1.2058916112339106,0.18721921966728255,0.7548966408268734
+040107,mass vs energy,"Rabbit, meat, braised","Duck, meat and skin, roasted/baked",0.7175925925925926,1.2057012596352699,0.18706135587415607,
+030202,mass vs protein,"Puffed rice textured bread, whole grain","Rusk , slice, multigrain, prepacked",0.8294573643410853,,0.18698356989976592,1.2654415093642304
+040208,mass vs energy,"Tongue, pork, raw","Gizzard, chicken, raw",1.8600000000000003,0.8302972972972975,0.185971452811227,
+030201,mass vs protein,Blinis,"English muffin, prepacked",0.7892156862745098,,0.18544435782058108,1.2037532184591009
+040305,mass vs protein,Pâté with green pepper,Rabbit terrine,0.8310344827586208,,0.1850839894898646,1.5633321952884947
+020303,energy vs protein,"Chick pea, dried","Lupin, seed, dried",,0.8312831168831167,0.18478484794627073,1.4431840354767187
+050303,mass vs protein,"Mimolette cheese, extra old, from cow's milk (cured 18 months minimum)","Saint-Nectaire cheese, from cow's milk, milk collected in an unique farm",1.2021660649819494,,0.18412498379310532,0.7954986127328627
+041001,energy vs protein,"Egg yolk, cooked","Goose egg, raw",,0.7321652065081352,0.18353978608244337,1.2014627659574468
+030201,mass vs protein,"Bread, French bread, gluten free, prepacked","English muffin, prepacked",0.8333333333333331,,0.18232155679395484,1.6484716157205237
+040108,mass vs energy,"Brain, calf, cooked","Sweetbread, lamb, cooked",0.8333333333333333,1.4074074074074074,0.1823215567939547,
+040304:raw,energy vs protein,"Merguez sausage, raw","Merguez sausage, pork and beef, raw",,1.3787375415282392,0.1823215567939546,0.8333333333333334
+1005:ready,mass vs energy,"Poppy, seed","Fennel, seed",1.3615023474178403,0.8337289655536215,0.18184691079184664,
+0707,mass vs protein,"Granola with fruits, with or without nut and seeds, fortified with vitamins and minerals","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",0.7500000000000001,,0.18172472001109324,1.1992840095465396
+040208,mass vs energy,"Sweetbread, lamb, raw","Kidney, calf, raw",1.1991150442477874,0.765651160009567,0.18158382160741482,
+040201,mass vs protein,"Veal, chop, raw","Veal, roast, raw",0.803448275862069,,0.18114317292871962,1.1985867721876766
+100601:ready,mass vs energy,"Mint, fresh","Thyme, fresh",0.8361774744027303,1.5533157944634053,0.17891439847234045,
+100601:ready,mass vs protein,"Mint, fresh","Thyme, fresh",0.8361774744027303,,0.17891439847234045,1.3207803288861306
+100601:ready,mass vs energy,"Mint, fresh","Rosemary, fresh",0.8361774744027303,1.756553375047402,0.17891439847234045,
+100601:ready,mass vs protein,"Thyme, fresh","Tarragon, fresh",1.195918367346939,,0.17891439847234042,0.8173542798414332
+0705,mass vs energy,"Croissant, pure butter, from bakery","Brioche, filled with custard cream (Chinese brioche type), prepacked",1.1951219512195121,0.7597560975609755,0.17824823140631876,
+020301,energy vs protein,"Red kidney bean, boiled/cooked in water","Chick pea, boiled/cooked in water",,1.2377766340710241,0.17772896643800631,0.8371692937183243
+050204,mass vs energy,"Fruits batter-pudding, refrigerated","Pastry cream or custard, instant, reconstituted",1.3815789473684212,0.8373205741626795,0.17754827804129691,
+020301,energy vs protein,"Broad bean, boiled/cooked in water","Flageolet bean, boiled/cooked in water",,1.3445378151260505,0.1773710516340985,0.8374689826302729
+0803,mass vs protein,"Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce","Frozen dessert, crispy chocolate and ice cream, to share",1.90990990990991,,0.17697068177649614,0.8378043470980273
+0803,energy vs protein,"Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce","Frozen dessert, crispy chocolate and ice cream, to share",,1.6160776160776158,0.17697068177649614,0.8378043470980273
+1005:ready,mass vs energy,Nutmeg,"Bay, leaves",1.1925133689839573,0.8319312633425631,0.1760631546055322,
+010307:ready,energy vs protein,"Noodles with shrimps, prepacked, sautéed/pan-fried, without added fat","Risotto, with vegetables, prepacked",,1.7254763585038813,0.17478498088745825,0.839637539479621
+100601:ready,mass vs energy,"Chive or spring onion, fresh","Thyme, fresh",0.8407281001137655,2.920711256888731,0.17348697673697536,
+100601:ready,mass vs protein,"Chive or spring onion, fresh","Thyme, fresh",0.8407281001137655,,0.17348697673697536,1.833116955542171
+100601:ready,energy vs protein,"Rosemary, fresh","Dill, fresh",,0.3983471074380166,0.17169123649219833,1.1873111782477341
+030202,mass vs protein,"Crouton with garlic, herbs or onions, prepacked","Rusk , slice, multigrain, prepacked",0.8217054263565892,,0.17039706435447857,1.1857755870760252
+030202,energy vs protein,"Crouton with garlic, herbs or onions, prepacked","Rusk , slice, multigrain, prepacked",,0.7079569479146647,0.17039706435447857,1.1857755870760252
+010304,mass vs energy,"White fish with Provencal-style sauce (tomato sauce), prepacked",Fish on skewer,0.684931506849315,1.1850994737038558,0.16982671511787634,
+050203,mass vs protein,"Rice pudding, vanilla, cinnamon or plain, refrigerated","Caramelized custard cream (crème brûlée), refrigerated",0.8440366972477064,,0.16955930518010345,1.2491743119266057
+041001,energy vs protein,"Egg yolk, cooked","Turkey egg, raw",,0.6752190237797246,0.16904677877987656,1.1841755319148937
+0405,mass vs protein,"Common sole, roasted/baked","Black seabream, roasted/baked",0.8112798264642082,,0.168333952623815,1.1833317214032082
+050302,mass vs energy,"Causses blue cheese, from cow's milk","Bresse blue cheese, reduced fat, from cow's milk",1.1829025844930416,0.7536779324055665,0.16797123544589046,
+050302,mass vs energy,"Auvergne blue cheese, from cow's milk","Bresse blue cheese, reduced fat, from cow's milk",1.1809145129224654,0.7700115098880402,0.1662891492629059,
+0408,energy vs protein,"Pacific oyster, raw","European oyster, raw",,0.7961309523809524,0.16598513747426116,1.1805555555555556
+0408,energy vs protein,"Oyster, raw","European oyster, raw",,0.7961309523809524,0.16598513747426116,1.1805555555555556
+0101,mass vs energy,"Greek-style marinated mushrooms, prepacked","Potato salad, homemade",0.7087719298245614,1.1797383366673564,0.16529266530073414,
+020404,mass vs energy,"Prune, pitted","Peach, flesh and skin, pitted, dried",0.8497267759562842,1.2207865034481116,0.16284042122213205,
+010303,mass vs energy,"Boiled meat with vegetables, prepacked",Stewed lamb garnished with potatoes and other vegetables,0.6730038022813688,1.1723292039739974,0.15899254247519284,
+030202,energy vs protein,"Bread, French bread, toasted",Brioche rusk,,1.301261829652997,0.1586865857617185,0.8532637420718817
+050303,mass vs energy,"Mimolette cheese, old, from cow's milk (cured 12 months minimum)","Tomme cheese, reduced fat, around 13% fat",1.170138888888889,0.7073887489504619,0.15712245021641594,
+020404,mass vs energy,"Apricot, pitted, dried","Peach, flesh and skin, pitted, dried",0.8497267759562842,1.1697075702494455,0.15675377761172907,
+041001,mass vs protein,"Egg white, raw","Egg yolk, cooked",0.7961538461538461,,0.15586309525452444,1.1686661961891318
+040305,mass vs protein,Pâté with green pepper,Rabbit pâté,0.8561278863232683,,0.15533551408908997,1.2460475177180244
+0703,mass vs energy,Sugared almond,Marshmallow,1.1644736842105263,0.8414261460101867,0.15226921172755276,
+0803,energy vs protein,"Frozen dessert, crispy chocolate and ice cream, to share",Belle Helene pear (cooked pear topped with hot chocolate sauce on a bed of vanilla ice cream),,0.8099173553719009,0.14929630136246036,1.1610169491525426
+010309,mass vs energy,"Schnitzel, soybean and wheat-based (not vegan), prepacked","Plant-based burger or steak from lentil, soybean and vegetables, prepacked",1.1607142857142858,0.7589285714285716,0.14903557916048796,
+100602,mass vs energy,"Rosemary, dried",Molokhia powder (dried jute leaves),1.1834862385321099,0.8623573506377266,0.14808553432010466,
+030201,mass vs energy,"English muffin, whole wheat flour, prepacked","Wheat tortilla wrap, to be filled",0.8629032258064517,1.3469708890637295,0.14745273114313054,
+040105,mass vs energy,"Lamb, shoulder, roasted/baked","Lamb, neck, braised or boiled",0.7992351816443595,1.15762238611187,0.1463682345309017,
+0707,mass vs protein,"Granola with fruits, with or without nut and seeds, not fortified","Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",0.7500000000000001,,0.1453996952277842,1.1565017261219794
+050303,mass vs energy,"Mimolette cheese, extra old, from cow's milk (cured 18 months minimum)","Tomme cheese, reduced fat, around 13% fat",1.1562500000000002,0.6902985074626866,0.14518200984449808,
+041001,mass vs protein,"Egg white, raw","Egg, fried, without added fat",0.8624999999999999,,0.14433860940257048,1.1552752293577981
+0703,mass vs energy,Sugared almond,Jelly candy,1.1879194630872483,0.8660316085732842,0.1438338715785361,
+050303,mass vs energy,"Cheddar cheese, from cow's milk","Tomme cheese, reduced fat, around 13% fat",1.154513888888889,0.6944444444444444,0.14367937995996305,
+050203,mass vs protein,"Flan with eggs, refrigerated","Milk jelly, flavoured, covered with caramel sauce, refrigerated",1.1534090909090908,,0.14272198400363548,0.6953175370728562
+040305,mass vs energy,Rabbit terrine,Duck mousse,0.7785234899328859,1.1531513347126203,0.1424984856771401,
+050101,mass vs protein,"Milk, whole, pasteurised","Sheep milk, whole",0.6697247706422017,,0.1421403231798727,1.1527383931053654
+0705,mass vs energy,"Brioche, filled with custard cream (Chinese brioche type), prepacked","Brioche, plain, from bakery",0.7321428571428572,1.1516853932584272,0.14122642884632325,
+050204,mass vs energy,"Chestnut mousse, refrigerated","Fruit liegeois, refrigerated",1.1512195121951219,0.806409803228467,0.14082182588720182,
+040201,mass vs protein,"Veal, roast, raw","Veal, foot, raw",1.244635193133047,,0.13835589772351078,0.870788724865978
+010309,mass vs energy,Plant-based burger or steak from soybean,"Plant-based burger or steak from lentil, soybean and vegetables, prepacked",1.2916666666666667,0.871362433862434,0.1376972763239608,
+0202:raw,mass vs protein,"Dauphine potato, frozen, raw","Duchesse potato, frozen, raw",1.1464968152866242,,0.1367110455419023,0.6501311352566506
+0408,mass vs energy,"Squid, raw","European oyster, raw",1.146341463414634,0.7964840038010769,0.1365755350057507,
+0408,mass vs protein,"Squid, raw","Mediterranean mussel, raw",1.146341463414634,,0.1365755350057507,0.8517953929539294
+0408,mass vs protein,"Squid, raw","Oyster, raw",1.146341463414634,,0.1365755350057507,0.6878048780487803
+0408,mass vs protein,"Squid, raw","European oyster, raw",1.146341463414634,,0.1365755350057507,0.8119918699186991
+040306,mass vs energy,Rillettes from Tours,Rillettes of duck,1.2089093701996927,0.8731012118108893,0.1357037942257939,
+010303,mass vs energy,"Beef stew with carrots, prepacked",Stewed lamb garnished with potatoes and other vegetables,0.8745247148288973,1.2427456473884329,0.13407472325456926,
+030202,energy vs protein,"Rusk , slice, multigrain, prepacked","Croutons, plain, prepacked",,1.3395547712773175,0.13278201040875093,0.8756559551886793
+030202,mass vs protein,"Rusk , slice, multigrain, prepacked","Croutons, plain, prepacked",1.2169811320754715,,0.13278201040875093,0.8756559551886793
+060205,mass vs energy,"Almond drink, plain, no added sugars, not fortified, prepacked","Soy drink, flavoured, with sugar(s), not fortified, prepacked",0.8758620689655173,1.514409554999037,0.13254665596198303,
+0803,energy vs protein,"Frozen dessert, crispy chocolate and ice cream, to share",Baked Alaska,,0.8760330578512397,0.13235145148467387,1.5254237288135595
+0101,mass vs energy,"Rice salad, canned","Salad of pig's snout, with sauce, prepacked",0.8762886597938143,1.18678464161052,0.1320597220130665,
+020301,mass vs protein,"Haricot bean, boiled/cooked in water","Lentil, blond, boiled/cooked in water",0.8776824034334764,,0.13047047808284415,1.261262120489588
+020301,mass vs protein,"Haricot bean, boiled/cooked in water","Lentil, green, boiled/cooked in water",0.8776824034334764,,0.13047047808284415,1.3132729295819423
+020301,mass vs protein,"Haricot bean, boiled/cooked in water","Lentil, pink or red, boiled/cooked in water",0.8776824034334764,,0.13047047808284415,1.378286440947385
+010306:ready,energy vs protein,"Dauphiné-style creamed potatoes au gratin, prepacked","Chicory with ham in sauce, prepacked",,0.49841890938872074,0.12872070379070247,1.1373724159961058
+0305:raw,energy vs protein,"Shortbread dough, pure butter, prepacked, raw","Shortbread dough, pure butter, frozen, prepacked, raw",,1.1373088399850804,0.12866480496015215,0.8480392156862745
+1005:ready,mass vs energy,"Coriander, seed","Poppy, seed",0.7344827586206897,1.1368515742128935,0.12826266465774044,
+040105,energy vs protein,"Lamb, shoulder, roasted/baked","Lamb, neck, braised or boiled",,1.15762238611187,0.127300648184374,0.8804689214180484
+020303,energy vs protein,"Lupin, seed, dried","Flageolet bean, green, dried",,1.1343993085566122,0.12610326727210247,0.6764414222977759
+0305:raw,energy vs protein,"Short crust pastry, pure butter, prepacked, raw","Shortbread dough, pure butter, frozen, prepacked, raw",,1.15885989010989,0.1245777793679783,0.8828695896571109
+100602,mass vs energy,"Sage, dried",Molokhia powder (dried jute leaves),1.1834862385321099,0.8839162844036696,0.12339292172973323,
+010304,mass vs energy,"White fish with shallots, mussels and white wine sauce, prepacked",Fish on skewer,0.7123287671232877,1.1308219178082193,0.12294472921774598,
+020303,energy vs protein,"Red kidney bean, dried","Lupin, seed, dried",,0.8843312101910826,0.12292361435472274,1.2549333333333332
+1102,energy vs protein,"Baby meal, vegetables with meat/fish and starchy food, from 6-8 months","Baby meal, vegetables with meat/fish and starchy food, from 18 months",,1.1305084745762712,0.12266750901585863,0.7666666666666666
+0705,mass vs energy,"Croissant with almonds, from bakery","Brioche, filled with custard cream (Chinese brioche type), prepacked",1.130081300813008,0.6720082568308978,0.1222895777582741,
+040105,mass vs protein,"Lamb, shoulder, lean, roasted/baked","Lamb, leg, braised",0.7992351816443595,,0.12207824759322292,1.1298425057783716
+1007,energy vs protein,"Sea thong (Himanthalia elongata), dried or dehydrated","Atlantic wakame (Alaria esculenta), dried or dehydrated",,0.8854625550660794,0.1216451094223268,1.2323232323232325
+0803,mass vs energy,"Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce",Frosted lemon or orange (sorbet),1.90990990990991,0.8881748881748881,0.1185866092384206,
+040207,mass vs protein,"Duck, leg, meat and skin, raw","Guinea fowl, breast, raw",0.8387096774193548,,0.11845365581353304,1.1257547007072624
+1007,energy vs protein,"Kombu or Japanese kelp (Saccharina japonica), dried or dehydrated","Toothed wrack or bladder wrack (Fucus serratus et vesiculosus), dried or dehydrated",,0.8889406648027341,0.11772478944965077,1.1745334557056075
+030201,mass vs protein,Blinis,"Rolls for burger/hotdog (buns), prepacked",0.8895027624309393,,0.11709266628136268,1.2294305857841772
+0101,mass vs energy,"Rice salad, canned","Tabbouleh or couscous salad, with chicken, prepacked",0.8095238095238095,1.121859767529059,0.11498781491235363,
+1101,mass vs energy,"Dairy and cereal-based beverage for baby's breakfast, from 12 months","Baby milk, growing-up milk, ready to drink",1.2635431918008786,0.8916544655929722,0.11467659186089298,
+0803,mass vs protein,"Frozen dessert, Sundae ice cream type",Baked Alaska,0.8918918918918918,,0.11441035117774434,1.3267813267813269
+010304,mass vs energy,"White fish with Parisian-style sauce (mushrooms sauce), prepacked",Fish on skewer,0.7191780821917809,1.120682410286579,0.11393779466096135,
+1102,energy vs protein,"Baby meal, vegetables with meat/fish and starchy food, from 8-12 months","Baby meal, vegetables with meat/fish and starchy food, from 12 months",,1.3864468864468864,0.11332868530700312,0.8928571428571429
+030201,mass vs energy,"Bread, pita","Wheat tortilla wrap, to be filled",0.870967741935484,1.1193159735717064,0.11271776084824767,
+1007,energy vs protein,"Sea lettuce (Ulva sp.), dried or dehydrated","Sea thong (Himanthalia elongata), dried or dehydrated",,1.1182266009852218,0.11174403843961542,0.6305732484076434
+020301,energy vs protein,"Flageolet bean, boiled/cooked in water","Mung bean, fresh, boiled/cooked in water",,0.8544642857142859,0.11067967713542606,1.1170370370370368
+0408,energy vs protein,"Pacific oyster, raw","Scallop, without coral, raw",,0.6704523568780394,0.11022522257387743,1.116529509792907
+050204,energy vs protein,"Chestnut mousse, refrigerated","Pastry cream or custard, instant, reconstituted",,0.9000762776506482,0.10527576630398953,2.711739024981809
+040105,energy vs protein,"Lamb, shoulder, lean, roasted/baked","Lamb, leg, braised",,0.900660966116994,0.10462637840587558,1.1298425057783716
+0305:raw,energy vs protein,"Short crust pastry, pure butter, frozen, prepacked, raw","Shortbread dough, pure butter, frozen, prepacked, raw",,1.1353128460686601,0.10445957780254553,0.9008112094395282
+040304:ready,mass vs protein,"Chipolata sausage, cooked",Beer sausage,1.3050541516245489,,0.10266297696288589,0.902431062293571
+040306,energy vs protein,Rillettes from Tours,Rillettes of poultry,,0.9024742323673846,0.10261514057617958,1.2624021909233176
+040306,mass vs energy,Rillettes from Tours,Rillettes of poultry,1.3855633802816902,0.9024742323673846,0.10261514057617958,
+040201,mass vs protein,"Veal, roast, raw","Veal, neck, raw",1.244635193133047,,0.10236229507560553,0.9027024477668253
+0405,mass vs protein,"Saithe, cooked","Common sole, boiled/cooked in water",1.106290672451193,,0.10101268272172284,0.7183705665267487
+040304:raw,mass vs energy,"Sausage meat, raw","Chipolata sausage, raw",1.155844155844156,0.9053516143299428,0.09943188661667997,
+0801,mass vs protein,"Ice cream, stick, chocolate-coated","Ice cream, in cup for children",1.2878787878787878,,0.09935876833032517,0.9054178145087235
+050204,mass vs protein,French toast,"Pastry cream or custard, instant, reconstituted",1.4342105263157896,,0.09877890819090715,0.9059429824561406
+020404,mass vs energy,"Banana, flesh without skin, dried","Apple, dried",1.3414634146341466,0.9077848312729705,0.09674789842635094,
+030201,mass vs energy,"Sandwich loaf, wholemeal, prepacked","Brioche sandwich bread, prepacked",0.9064327485380118,1.1004164106764966,0.0956886633308493,
+041001,mass vs protein,"Egg yolk, raw","Duck egg, raw",1.101063829787234,,0.09511802256420965,0.9092656142759094
+040304:raw,mass vs energy,"Merguez sausage, raw","Merguez sausage, pure beef, raw",0.7563291139240504,1.09554649060095,0.09125331694475676,
+040301,mass vs protein,"Bacon, back","Cooked pork shoulder, choice, rind less defatted",1.0928104575163398,,0.08875277925816569,0.8515406162464985
+040301,mass vs protein,"Bacon, back","Cooked pork shoulder, standard, rind less defatted",1.0928104575163398,,0.08875277925816569,0.6481170245876128
+0703,mass vs energy,Sugared almond,Hard candy and lollipop,1.0925925925925926,0.9022700119474312,0.08855339734144503,
+040207,mass vs protein,"Goose, meat and skin, raw","Guinea fowl, meat, raw",0.9186851211072662,,0.0848118474304389,1.2711366455572235
+040207,mass vs protein,"Goose, meat and skin, raw","Guinea fowl, leg, raw",0.9186851211072662,,0.0848118474304389,1.317359796304759
+040203,mass vs protein,"Chicken, free-range, meat and skin, raw","Chicken, eviscerated without offal, raw",1.0885122410546142,,0.08306902520872131,0.9202876219825376
+0202:raw,energy vs protein,"Potato, peeled, raw","Dauphine potato, frozen, raw",,1.3242777777777779,0.08222238250316477,0.9210671067106712
+040304:raw,mass vs energy,"Sausage meat, raw","Sausage meat, pure pork, raw",1.155844155844156,0.923243938723815,0.07986179042258294,
+060205,mass vs energy,"Almond drink, plain, no added sugars, not fortified, prepacked","Soy drink, plain, fortified with calcium, prepacked",0.8758620689655173,1.0813716047004434,0.07823023971501496,
+040105,energy vs protein,"Lamb cutlet, grilled/pan-fried","Lamb, leg, braised",,0.926768642447419,0.07605132121359234,1.3722686387274854
+040105,mass vs protein,"Lamb, shoulder, lean, roasted/baked","Lamb, neck, braised or boiled",0.7992351816443595,,0.07555823195833006,1.0784860282429911
+040304:raw,mass vs protein,"Sausage meat, raw","Sausage meat, pork and beef, raw",1.155844155844156,,0.0749170144346154,0.9278204788408871
+040103,mass vs energy,"Chicken, leg, meat and skin, roasted/baked","Turkey, meat, roasted/baked",1.2642740619902122,0.9312457724903512,0.07123204890634836,
+0305:raw,mass vs protein,"Short crust pastry, pure butter, prepacked, raw","Shortbread dough, pure butter, frozen, prepacked, raw",1.068452380952381,,0.06621122852507462,0.8828695896571109
+030202,mass vs energy,"Bread, French bread, toasted","Rusk, multigrain",0.9375000000000001,1.1947949526813881,0.06453852113757105,
+030202,mass vs energy,"Bread, French bread, toasted","Rusk, wholemeal",0.9375000000000001,1.150433753943218,0.06453852113757105,
+030202,mass vs energy,"Bread, French bread, toasted","Rusk, no added salt",0.9375000000000001,1.1888801261829653,0.06453852113757105,
+060301,mass vs energy,"Wine, sweet","Wine, red",1.062992125984252,0.5437061076824856,0.06108769197983828,
+020403,mass vs energy,"Fruit cocktail or salad, canned in light syrup, drained","Apricot, in syrup, canned, drained",0.9022556390977443,1.0625548643181557,0.0606762574886136,
+020403,mass vs energy,"Fruit cocktail or salad, canned in light syrup, solids and liquids","Apricot, in syrup, canned, solids and liquids",0.9427828348504551,1.1007029076897274,0.05891931465096922,
+040306,mass vs energy,"Rillettes, pure pork",Rillettes from Tours,0.9428208386277,1.191652488531863,0.058879005250022855,
+040306,mass vs protein,Rillettes of pork,Rillettes from Tours,0.9428208386277,,0.058879005250022855,1.3054442380998925
+040304:ready,mass vs protein,"Poultry sausage, delicatessen-style",Liver sausage,1.059322033898305,,0.057629112836636215,0.7944915254237287
+060301,mass vs energy,"Wine, white, sparkling, flavoured","Wine, white, dry",1.426666666666667,0.9448463073852296,0.05673300240292492,
+060205,mass vs energy,"Almond drink, plain, no added sugars, not fortified, prepacked","Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",0.8758620689655173,1.056906183779619,0.055345945881427265,
+020403,mass vs energy,"Fruit cocktail or salad, canned in syrup, drained","Apricot, canned in light syrup, drained",1.0534351145038165,0.9027333169170154,0.05205636195605291,
+0803,mass vs energy,"Frozen dessert, Sundae ice cream type",Iced nougat,0.8918918918918918,1.0525169719482514,0.05118441181089679,
+020301,mass vs energy,"Chick pea, boiled/cooked in water","Broad bean, fresh, frozen, boiled/cooked in water",1.0523560209424083,0.452228668459035,0.051031480012445826,
+020301,mass vs energy,"Chick pea, boiled/cooked in water","Broad bean, peeled, fresh, frozen, boiled/cooked in water",1.0523560209424083,0.51124593179567,0.051031480012445826,
+040203,mass vs protein,"Hen, meat, raw","Chicken, eviscerated without offal, raw",1.0885122410546142,,0.050733644565784906,0.9505318161321984
+040203,mass vs protein,"Chicken, eviscerated without offal, raw","Turkey, leg, meat, raw",0.9186851211072662,,0.0507336445657849,1.0520426386873531
+040305,mass vs energy,Duck terrine,Rabbit terrine,1.0517241379310345,0.868815592203898,0.050430853626891904,
+010302,mass vs energy,"Couscous with meat or chicken, reduced fat, prepacked","Couscous royal (with different meats), prepacked",0.722077922077922,1.0508741534099855,0.04962234486813244,
+020303,mass vs energy,"Chick pea, dried","Broad bean, dried",1.0477855477855478,0.9010955710955711,0.04667893498365799,
+020303,mass vs energy,"Chick pea, dried","Red kidney bean, dried",1.0477855477855478,0.9400133200133202,0.04667893498365799,
+020303,mass vs energy,"Chick pea, dried","Flageolet bean, green, dried",1.0477855477855478,0.9430069930069931,0.04667893498365799,
+040304:ready,mass vs protein,"Toulouse sausage, cooked",Liver sausage,1.042372881355932,,0.04149973090675263,0.648710782545979
+060301,mass vs energy,Sparkling fruit wine,Champagne,0.9596412556053813,1.1115479383800535,0.041195756438267166,
+0702:ready,mass vs energy,Chocolate-coated peanut,"Chocolate and nut confectionery, filled with praliné",0.9314285714285714,1.0415574005153163,0.040717093513040516,
+0702:ready,mass vs energy,Chocolate-coated peanut,"Chocolate confectionery, filled with nuts and/or praliné",0.9314285714285714,1.0415574005153163,0.040717093513040516,
+040305,mass vs energy,Rabbit pâté,Duck mousse,0.7557046979865771,1.0410757028206692,0.04025450823821202,
+040107,mass vs protein,"Duck, meat and skin, roasted/baked","Duck, magret, grilled/pan-fried",0.7397260273972603,,0.038749191655646574,1.0395097332372025
+0305:raw,mass vs protein,"Short crust pastry, pure butter, frozen, prepacked, raw","Shortbread dough, pure butter, frozen, prepacked, raw",1.0386904761904765,,0.03796076223922323,0.9008112094395282
+040306,mass vs protein,Rillettes from Tours,Rillettes from Mans,1.0382585751978892,,0.03754486277503161,0.8998240985048372
+050204,mass vs protein,"Fruits batter-pudding, refrigerated",French toast,0.963302752293578,,0.03738753207162033,1.1093697723150608
+0305:raw,mass vs protein,"Short crust pastry, pure butter, prepacked, raw","Shortbread dough, prepacked, raw",1.0375722543352601,,0.03688361343055462,0.9290908381990272
+040103,mass vs energy,"Chicken, breast, meat and skin, roasted/baked","Chicken, wing, meat and skin, roasted/baked",0.9651612903225806,1.2613483529612561,0.035460051378869824,
+020301,mass vs energy,"Flageolet bean, canned, drained","Red kidney bean, canned, drained",0.9655172413793103,1.1224527671578635,0.03509131981127017,
+0801,mass vs protein,"Ice cream, cone (normal size)","Ice cream, gourmet, in cup",0.9696969696969697,,0.03077165866675366,1.088491755158422
+040304:ready,mass vs energy,Smoked Alsatian sausage or Landjäger,Beer sausage,0.9693140794223827,1.0307039711191333,0.030242035890224082,
+040202,mass vs energy,"Pork, ham escalope, raw","Pork, knuckle oh ham, without rind, fat and bone, raw",0.9705014749262537,1.1134435526285702,0.02994235661507834,
+040202,mass vs energy,"Pork, roast, raw","Pork, spare-ribs, raw",0.9705014749262537,1.5033258141014518,0.02994235661507834,
+040202,mass vs energy,"Pork, round steak, raw","Pork, spare-ribs, raw",0.9705014749262537,1.5436835540773297,0.02994235661507834,
+040102,mass vs energy,"Pork, roast, cooked","Pork, spare-ribs, braised",0.9710982658959538,1.9779424802297954,0.02932761509451995,
+040102,mass vs energy,"Pork, tenderloin roast, cooked","Pork, spare-ribs, braised",0.9710982658959538,1.628306183219478,0.02932761509451995,
+040102,mass vs energy,"Pork, filet mignon, cooked","Pork, spare-ribs, braised",0.9710982658959538,1.9190751445086704,0.02932761509451995,
+040102,mass vs protein,"Pork, rack, cooked","Pork, roast, cooked",1.0297619047619047,,0.02932761509451992,0.9210480379835216
+040102,mass vs protein,"Pork, rack, cooked","Pork, filet mignon, cooked",1.0297619047619047,,0.02932761509451992,0.7881755341432759
+040102,mass vs protein,"Pork, shoulder, cooked","Pork, loin, roasted/baked",1.0297619047619047,,0.02932761509451992,0.8993253968253967
+040304:ready,mass vs energy,Frankfurter sausage,Beer sausage,0.9711191335740071,1.110347683190352,0.029306126585499474,
+040306,energy vs protein,Rillettes from Tours,Rillettes of duck,,0.8731012118108893,0.0271996767110589,1.0275729646697387
+0202:raw,mass vs protein,"Potato, peeled, raw","Potato, sautéed/pan-fried, pre-fried, frozen, raw",0.8804469273743019,,0.023992188325978048,1.0242823164998065
+050302,mass vs protein,"Blue cheese, from cow's milk","Causses blue cheese, from cow's milk",0.9764705882352941,,0.02381064869371856,1.1857142857142857
+050302,mass vs protein,"Blue cheese, from cow's milk","Auvergne blue cheese, from cow's milk",0.9781144781144779,,0.02212856251073388,1.199354657687991
+040304:raw,mass vs protein,"Merguez sausage, pure beef, raw","Merguez sausage, beef, mutton and pork, raw",0.9783281733746132,,0.02191010963574423,1.2985083028426683
+040306,mass vs protein,Rillettes of pork,Rillettes from Mans,0.978891820580475,,0.021334142474991172,1.17467018469657
+0801,mass vs protein,"Ice cream bar, chocolate","Ice cream, cone, mini",1.0208333333333333,,0.02061928720273561,0.8290274878218511
+0304,mass vs energy,"Wheat flour, type 45 (for pastry)","Rye flour, type 170",1.1047486033519553,0.9802698874813126,0.01992734984277432,
+0304,mass vs energy,"Wheat flour, type 80","Rye flour, type 170",1.1047486033519553,0.9802698874813126,0.01992734984277432,
+050302,mass vs protein,"Fourme de Montbrison cheese, from cow's milk,","Fourme d'Ambert cheese, from cow's milk",1.018691588785047,,0.018519047767237746,0.9326687435098653
+060202,mass vs energy,Banana nectar,Peach nectar,1.0500863557858378,0.9817721876585064,0.01839598566887327,
+0702:ready,mass vs energy,"White chocolate, bar","Chocolate confectionery, coated",1.0952380952380951,0.9824071724604584,0.017749420658603902,
+1007,mass vs energy,"Tangle (Laminaria digitata), dried or dehydrated","Gracilaria seaweeds (Gracilaria sp.), dried or dehydrated",0.9830508474576269,1.0808900313278174,0.017094433359300294,
+1007,mass vs protein,"Tangle (Laminaria digitata), dried or dehydrated","Gracilaria seaweeds (Gracilaria sp.), dried or dehydrated",0.9830508474576269,,0.017094433359300294,1.9683132828735392
+1007,mass vs protein,"Sea thong (Himanthalia elongata), dried or dehydrated","Gut weed (Ulva sp.), dried or dehydrated",0.9830508474576269,,0.017094433359300294,1.35045368943674
+1007,mass vs protein,"Toothed wrack or bladder wrack (Fucus serratus et vesiculosus), dried or dehydrated","Gut weed (Ulva sp.), dried or dehydrated",0.9830508474576269,,0.017094433359300294,1.4675621872034825
+1007,mass vs energy,"Toothed wrack or bladder wrack (Fucus serratus et vesiculosus), dried or dehydrated","Gut weed (Ulva sp.), dried or dehydrated",0.9830508474576269,1.140136292154464,0.017094433359300294,
+1007,mass vs energy,"Tangle (Laminaria digitata), dried or dehydrated","Gut weed (Ulva sp.), dried or dehydrated",0.9830508474576269,1.0482769700377539,0.017094433359300294,
+0304,mass vs energy,"Wheat flour, type 45 (for pastry)",Barley flour,1.0167095115681233,0.9651580433759368,0.01657144358926216,
+060302,mass vs energy,"Beer, from an abbey or brewery (variable alcohol content)","Cider, traditionnal",1.0150375939849625,0.7003974905416406,0.014925650216675792,
+060302,mass vs energy,"Beer, dark","Cider, sweet",1.0150375939849625,0.9749373433583958,0.014925650216675792,
+060302,mass vs energy,"Beer, from an abbey or brewery (variable alcohol content)","Cider, half-dry",1.0150375939849625,0.9546956563382979,0.014925650216675792,
+040306,energy vs protein,"Rillettes, pure goose",Rillettes of goose,,0.8729016786570742,0.013513719166722855,1.0136054421768708
+0202:raw,energy vs protein,"Jerusalem artichoke, raw","French fries or chips, frozen, pre-fried, raw, to deep-fry",,2.0720954446554516,0.010441924533760801,0.9896124031007753
+040304:raw,mass vs protein,"Toulouse sausage, raw","Viennese sausage, pork and veal, raw",1.0084033613445378,,0.00836824967051658,0.7809439565299804
+040304:ready,mass vs energy,"Toulouse sausage, cooked","Strasbourg sausage, to cook",0.9919354838709677,1.0345993756503642,0.008097210232619362,
+100602,mass vs energy,"Thyme, dried",Molokhia powder (dried jute leaves),1.1834862385321099,0.9924674070497342,0.007561106204611634,
+050204,energy vs protein,"Fruits batter-pudding, refrigerated","Pastry cream or custard, instant, reconstituted",,0.8373205741626795,0.005013173200251864,1.0050257601777959
+040105,mass vs energy,"Lamb, rib chop, grilled/pan-fried","Lamb, saddle, lean, roasted/baked",1.0019120458891015,0.82860834065423,0.0019102202561194668,
+040105,mass vs protein,"Lamb, chop fillet, grilled/pan-fried","Lamb, saddle, lean, roasted/baked",1.0019120458891015,,0.0019102202561194668,0.994292942878538
+0305:raw,mass vs energy,"Short crust pastry, pure butter, frozen, prepacked, raw","Shortbread dough, pure butter, prepacked, raw",1.008670520231214,0.9982449851383848,0.0017565567044329211,

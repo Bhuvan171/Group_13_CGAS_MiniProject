@@ -1,0 +1,712 @@
+i,j,distance,shared_features,same_group,blocks,distance_imputed,vanishes_when_imputed,src_name,tgt_name,missing_features
+1,2,0.16018939834711524,14,True,group:0101,0.1977245871818592,False,"Tuna salad, with vegetables, canned","Mixed salad, with meat/fish, canned",vitamin_c_mg
+3,4,0.21277957833529673,14,True,group:0101,0.2065792867508827,False,"Greek-style marinated mushrooms, prepacked","Potato salad, homemade",sugars_g
+4,6,0.21558016106387423,13,True,group:0101,0.20792684768073863,False,"Potato salad, homemade","Potato salad, piémontaise-style, prepacked",sugars_g|vitamin_b12_ug
+4,9,0.22290529134901854,14,True,group:0101,0.21590918927648087,False,"Potato salad, homemade","Pasta salad, with vegetable and meat/fish, with sauce, prepacked",sugars_g
+14,24,0.16008392432567337,14,True,group:0102,0.15801643293302442,False,"Soup, lentil, prepacked, to be reheated","Soup, chorba frik, with meat and frik",sat_fat_g
+15,28,0.12486086067428831,13,True,group:0102,0.11667546017514546,False,"Soup, mixed vegetables, prepacked, to be reheated","Soup, cereals and vegetables, dehydrated and reconstituted",zinc_mg|vitamin_b12_ug
+15,37,0.11550970026086284,14,True,group:0102,0.1120039628609219,False,"Soup, mixed vegetables, prepacked, to be reheated","Soup, green vegetables, prepacked, to be reheated",vitamin_b12_ug
+17,19,0.13772550673722833,14,True,group:0102,0.21878656360134222,False,"Soup, mixed vegetables, dehydrated and reconstituted","Soup, chicken and vermicelli, prepacked, to be reheated",vitamin_c_mg
+17,31,0.09302210993350522,12,True,group:0102,0.19265162301494868,False,"Soup, mixed vegetables, dehydrated and reconstituted","Soup, onion, dehydrated and reconstituted",iron_mg|vitamin_c_mg|vitamin_b12_ug
+17,38,0.11358518634948903,14,True,group:0102,0.1097339054249135,False,"Soup, mixed vegetables, dehydrated and reconstituted","Soup, green vegetables, dehydrated and reconstituted",vitamin_b12_ug
+18,37,0.08840904632667941,14,True,group:0102,0.0856763696356096,False,"Soup, leek and potato, prepacked, to be reheated","Soup, green vegetables, prepacked, to be reheated",vitamin_b12_ug
+18,38,0.12347375543009138,14,True,group:0102,0.11947695119860376,False,"Soup, leek and potato, prepacked, to be reheated","Soup, green vegetables, dehydrated and reconstituted",vitamin_b12_ug
+19,31,0.11881021597824012,12,True,group:0102,0.10662683214219433,False,"Soup, chicken and vermicelli, prepacked, to be reheated","Soup, onion, dehydrated and reconstituted",iron_mg|vitamin_c_mg|vitamin_b12_ug
+19,35,0.10542760915332897,13,True,group:0102,0.14718111705076312,False,"Soup, chicken and vermicelli, prepacked, to be reheated","Soup, tomato and vermicelli, dehydrated and reconstituted",vitamin_c_mg|vitamin_b12_ug
+19,36,0.08882878491662873,14,True,group:0102,0.13921831021853429,False,"Soup, chicken and vermicelli, prepacked, to be reheated","Soup, chicken and vermicelli, dehydrated and reconstituted",vitamin_c_mg
+19,38,0.1259420161616189,13,True,group:0102,0.20608828436373094,False,"Soup, chicken and vermicelli, prepacked, to be reheated","Soup, green vegetables, dehydrated and reconstituted",vitamin_c_mg|vitamin_b12_ug
+21,30,0.06333966690090749,14,True,group:0102,0.12554550668409864,False,"Soup, mushroom, prepacked, to be reheated","Soup, mushroom, dehydrated and reconstituted",vitamin_c_mg
+21,38,0.08699652363230126,13,True,group:0102,0.18817275736973565,False,"Soup, mushroom, prepacked, to be reheated","Soup, green vegetables, dehydrated and reconstituted",vitamin_c_mg|vitamin_b12_ug
+22,23,0.14879411386790584,13,True,group:0102,0.13886743393893602,False,"Soup, carrots, prepacked, to be reheated","Soup, tomato, prepacked, to be reheated",zinc_mg|vitamin_b12_ug
+22,37,0.09408722373896904,13,True,group:0102,0.091006104782,False,"Soup, carrots, prepacked, to be reheated","Soup, green vegetables, prepacked, to be reheated",zinc_mg|vitamin_b12_ug
+23,37,0.15873566060614466,14,True,group:0102,0.1535397690009601,False,"Soup, tomato, prepacked, to be reheated","Soup, green vegetables, prepacked, to be reheated",vitamin_b12_ug
+27,34,0.0588673920673263,14,True,group:0102,0.05916697197447414,False,"Broth or stock, beef, dehydrated and reconstituted","Broth or stock, vegetables, dehydrated and reconstituted",zinc_mg
+29,35,0.09746430687251456,14,True,group:0102,0.1043148980596055,False,"Soup, tomato, dehydrated and reconstituted","Soup, tomato and vermicelli, dehydrated and reconstituted",vitamin_b12_ug
+30,35,0.1211433502201326,14,True,group:0102,0.11703577358918194,False,"Soup, mushroom, dehydrated and reconstituted","Soup, tomato and vermicelli, dehydrated and reconstituted",vitamin_b12_ug
+31,35,0.09404154066859285,12,True,group:0102,0.13820046616469303,False,"Soup, onion, dehydrated and reconstituted","Soup, tomato and vermicelli, dehydrated and reconstituted",iron_mg|vitamin_c_mg|vitamin_b12_ug
+31,38,0.10305337906357787,12,True,group:0102,0.1935702958745334,False,"Soup, onion, dehydrated and reconstituted","Soup, green vegetables, dehydrated and reconstituted",iron_mg|vitamin_c_mg|vitamin_b12_ug
+32,39,0.20311420259592677,14,True,group:0102,0.19625087247396722,False,"Soup, pumpkin, prepacked, to be reheated","Soup, gazpacho type, cold, prepacked",vitamin_b12_ug
+33,34,0.05780258888165298,14,True,group:0102,0.06261093810787897,False,"Broth or stock, poultry, dehydrated and reconstituted","Broth or stock, vegetables, dehydrated and reconstituted",zinc_mg
+34,36,0.11104098165515565,14,True,group:0102,0.1072757799621047,False,"Broth or stock, vegetables, dehydrated and reconstituted","Soup, chicken and vermicelli, dehydrated and reconstituted",zinc_mg
+35,36,0.08095726568001466,14,True,group:0102,0.07821882304011503,False,"Soup, tomato and vermicelli, dehydrated and reconstituted","Soup, chicken and vermicelli, dehydrated and reconstituted",vitamin_b12_ug
+44,45,0.16770415449082704,14,True,group:010301:ready,0.1687693647281604,False,Veal paupiette,Poultry paupiette,sugars_g
+50,56,0.21456393930564494,14,True,group:010301:ready,0.20763677782227155,False,"Veal paupiette, prepacked, roasted/baked","Chicken, marinated wings, prepacked, roasted/baked",potassium_mg
+52,55,0.1555603448046915,14,True,group:010301:ready,0.17283921512639758,False,"Poultry nuggets, breaded croquette, prepacked","Chicken nuggets, breaded croquette, prepacked",vitamin_c_mg
+60,63,0.2126814341649281,14,True,group:010302,0.20546978596025728,False,Couscous with mutton,"Couscous royal (with different meats), prepacked",sat_fat_g
+60,64,0.22815777231965015,13,True,group:010302,0.2164415418048864,False,Couscous with mutton,Couscous with chicken,sat_fat_g|zinc_mg
+61,64,0.16410929677560898,14,True,group:010302,0.15854464314183744,False,"Couscous with meat or chicken, reduced fat, prepacked",Couscous with chicken,zinc_mg
+63,64,0.169615293943583,14,True,group:010302,0.163863941763475,False,"Couscous royal (with different meats), prepacked",Couscous with chicken,zinc_mg
+63,65,0.05359974262400991,12,True,group:010302,0.09077018550449258,False,"Couscous royal (with different meats), prepacked","Couscous with meat, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+68,73,0.22480197061308016,14,True,group:010303,0.2171793366293301,False,"Sauerkraut, with garnish (cooked meats), prepacked","Stuffed tomatoes, prepacked",vitamin_b12_ug
+70,71,0.22828620260100488,12,True,group:010303,0.20420934626999898,False,"Boiled meat with vegetables, prepacked","Beef stew with carrots, prepacked",sugars_g|vitamin_c_mg|vitamin_b12_ug
+72,73,0.13566401217011265,14,True,group:010303,0.13106388741711544,False,"Pork sausage stew with cabbage, carrots and potatoes","Stuffed tomatoes, prepacked",vitamin_b12_ug
+73,75,0.19004844107251548,14,True,group:010303,0.30636840924197595,True,"Stuffed tomatoes, prepacked",Stewed lamb garnished with potatoes and other vegetables,vitamin_b12_ug
+73,79,0.18084248856161866,14,True,group:010303,0.17487709180305164,False,"Stuffed tomatoes, prepacked",Stuffed vegetables (excluding tomato),vitamin_b12_ug
+81,82,0.20040891518265802,13,True,group:010304,0.23038106922535206,False,"Fish or seafood au gratin, intended to be cooked, prepacked, raw","Fish and shrimp au gratin, prepacked, cooked",vitamin_c_mg|vitamin_b12_ug
+92,98,0.17760034912276693,14,True,group:010306:ready,0.17495706078725187,False,"Ratatouille, seasoneded, prepacked","Provencal-style tomato (breaded tomatoes stuffed with garlic and parsley), home-made",vitamin_b12_ug
+94,100,0.21031818812131192,13,True,group:010306:ready,0.22439980995685666,False,"Chicory with ham in sauce, prepacked","Vegetables au gratin in bechamel sauce, prepacked, cooked",vitamin_c_mg|vitamin_b12_ug
+127,128,0.15602128883013006,14,True,group:010309|role:protein_main,0.15172898911138485,False,"Soybean and wheat-based nuggets, breaded croquette (vegan), prepacked","Schnitzel, soybean and wheat-based (not vegan), prepacked",vitamin_b12_ug
+127,129,0.13639286476024695,14,True,group:010309|role:protein_main,0.13176802591552025,False,"Soybean and wheat-based nuggets, breaded croquette (vegan), prepacked","Schnitzel or stick, soybean and wheat-based (vegan), prepacked",vitamin_b12_ug
+127,137,0.14756003290869105,14,True,group:010309|role:protein_main,0.14398384382262236,False,"Soybean and wheat-based nuggets, breaded croquette (vegan), prepacked","Plant-based burger or steak from wheat and soybean (not vegan), prepacked",vitamin_b12_ug
+128,129,0.23481566171180546,14,True,group:010309|role:protein_main,0.2275178858739939,False,"Schnitzel, soybean and wheat-based (not vegan), prepacked","Schnitzel or stick, soybean and wheat-based (vegan), prepacked",vitamin_b12_ug
+129,137,0.20909508243446498,14,True,group:010309|role:protein_main,0.20301482242055194,False,"Schnitzel or stick, soybean and wheat-based (vegan), prepacked","Plant-based burger or steak from wheat and soybean (not vegan), prepacked",vitamin_b12_ug
+132,135,0.2165927023167382,14,True,group:010309|role:protein_main,0.20924842998314075,False,"Cereal burger with végétables (without soybean), prepacked","Plant-based burger or steak from wheat (seitan) and vegetables, prepacked",vitamin_b12_ug
+133,136,0.153627244815506,14,True,group:010309|role:protein_main,0.1486822267329873,False,"Plant-based ball with wheat and/or soybean, prepacked","Plant-based burger or steak from wheat and soybean (vegan), prepacked",vitamin_b12_ug
+133,139,0.19374196835504168,14,True,group:010309|role:protein_main,0.18738209582364898,False,"Plant-based ball with wheat and/or soybean, prepacked","Plant-based burger or steak from soybean and vegetables, prepacked",vitamin_b12_ug
+133,141,0.1796160973304194,14,True,group:010309|role:protein_main,0.1737516689958581,False,"Plant-based ball with wheat and/or soybean, prepacked","Soy-based minced meat imitate, prepacked",vitamin_b12_ug
+136,139,0.1745845445131353,14,True,group:010309|role:protein_main,0.16866469390678157,False,"Plant-based burger or steak from wheat and soybean (vegan), prepacked","Plant-based burger or steak from soybean and vegetables, prepacked",vitamin_b12_ug
+136,141,0.23298626657565416,14,True,group:010309|role:protein_main,0.22508611770906187,False,"Plant-based burger or steak from wheat and soybean (vegan), prepacked","Soy-based minced meat imitate, prepacked",vitamin_b12_ug
+137,139,0.1706814164088875,14,True,group:010309|role:protein_main,0.16612942054588656,False,"Plant-based burger or steak from wheat and soybean (not vegan), prepacked","Plant-based burger or steak from soybean and vegetables, prepacked",vitamin_b12_ug
+139,141,0.18355170904677626,14,True,group:010309|role:protein_main,0.1773277978802522,False,"Plant-based burger or steak from soybean and vegetables, prepacked","Soy-based minced meat imitate, prepacked",vitamin_b12_ug
+142,155,0.16958468013512482,14,True,group:0104,0.19900121074859747,False,"Pizza, cheese and tomato (Margherita), prepacked","Pizza, cheeses, prepacked",zinc_mg
+143,146,0.20837406361334687,12,True,group:0104,0.1978083695338798,False,"Quiche Lorraine (eggs and lardoons quiche), prepacked","Tart, vegetables, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+143,148,0.14869550982489838,14,True,group:0104,0.14365351022262102,False,"Quiche Lorraine (eggs and lardoons quiche), prepacked","Tart, cheese, prepacked",zinc_mg
+146,149,0.2068319973648663,12,True,group:0104,0.23579035900453346,False,"Tart, vegetables, prepacked","Tart, Provence-style, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+146,153,0.20202743884495405,12,True,group:0104,0.21326870778868715,False,"Tart, vegetables, prepacked","Pizza, salmon, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+146,160,0.1955445949261453,12,True,group:0104,0.20003784129847688,False,"Tart, vegetables, prepacked","Tart, leek, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+146,165,0.16156791149530494,12,True,group:0104,0.18899368858511625,False,"Tart, vegetables, prepacked","Tart, goat cheese and spinach, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+148,160,0.17999080517775679,14,True,group:0104,0.176361269841203,False,"Tart, cheese, prepacked","Tart, leek, prepacked",zinc_mg
+155,156,0.21817414630824725,14,True,group:0104,0.2200302575037779,False,"Pizza, cheeses, prepacked","Pizza, ham cheese and mushrooms (Regina), prepacked",zinc_mg
+171,189,0.20980709246264215,13,True,group:0105,0.2172944196371721,False,"Sandwich, pita bread, kebab and raw vegetables","Sandwich, baguette, merguez sausage, ketchup and mustard",vitamin_c_mg|vitamin_b12_ug
+198,205,0.2339921832265885,14,True,group:0106,0.22635940649566355,False,"Cheese puff pastry, prepacked, cooked","Ham and cheese puffed pastry, homemade",vitamin_c_mg
+201,213,0.22159031187885056,12,True,group:0106,0.2004964015388631,False,"Croissant filled with ham and cheese, homemade","Savoury cake (with cheese, vegetables, meat, fish, poultry, etc.), prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+204,207,0.2294964444989059,14,True,group:0106,0.23131972935180858,False,"Vol-au-vent with fish and seafood, homemade","Fritter, filled with eggs (filo pastry), home-made, cooked",sat_fat_g
+216,256,0.16601967004836704,14,True,group:020101,0.16113256824044986,False,"Swiss chard, stalk without leaves, raw","Lamb's lettuce, raw",sodium_mg
+216,273,0.11462529643789054,14,True,group:020101,0.11095526607508414,False,"Swiss chard, stalk without leaves, raw","Cos or romaine lettuce, raw",sodium_mg
+216,292,0.17490425874420726,14,True,group:020101,0.168989292065301,False,"Swiss chard, stalk without leaves, raw","Courgette or zucchini, flesh and skin, frozen, raw",sodium_mg
+216,307,0.12227432122850636,14,True,group:020101,0.11845933679632162,False,"Swiss chard, stalk without leaves, raw","Green salad, raw, without seasoning",sodium_mg
+232,301,0.178652845757597,14,True,group:020101,0.17260142548956706,False,"Pumpkin, raw","Asparagus, green, raw",zinc_mg
+241,278,0.06952356946107215,14,True,group:020101,0.0812682406210416,False,"French bean, raw","Butter bean or yellow bean, raw",sugars_g
+241,297,0.1312567722640411,12,True,group:020101,0.17209882953547287,False,"French bean, raw","Mixed vegetables for soups, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+241,298,0.1495895603946885,12,True,group:020101,0.18367624827015927,False,"French bean, raw","Thinly-shredded or diced vegetables, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+244,296,0.1376129305847571,12,True,group:020101,0.1357775643138993,False,"Green cabbage, raw","Leek, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+244,305,0.13197839832244743,12,True,group:020101,0.131226255523511,False,"Green cabbage, raw","Mixed vegetables for couscous, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+245,278,0.09282804805170498,14,True,group:020101,0.089681640879068,False,"French bean, frozen, raw","Butter bean or yellow bean, raw",sugars_g
+245,299,0.10081744000678289,12,True,group:020101,0.15456247007368673,False,"French bean, frozen, raw","Flat bean, raw",magnesium_mg|potassium_mg|zinc_mg
+253,299,0.14626113610975663,12,True,group:020101,0.16399543348117857,False,"Escaroles, raw","Flat bean, raw",magnesium_mg|potassium_mg|zinc_mg
+257,278,0.18998978227569518,14,True,group:020101,0.18354997561879943,False,"Mixed vegetables, frozen, raw","Butter bean or yellow bean, raw",sugars_g
+259,279,0.23532565731159233,13,True,group:020101,0.2880668721985262,True,"Corn, on the cob, frozen, raw","Salsify, black, raw",sugars_g|zinc_mg
+261,268,0.18288431053465498,14,True,group:020101,0.19879670503754068,False,"White cabbage, raw","Red endive, raw",magnesium_mg
+261,298,0.1524182197707967,12,True,group:020101,0.1690576806976829,False,"White cabbage, raw","Thinly-shredded or diced vegetables, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+264,296,0.10289309407865728,12,True,group:020101,0.2379255022351094,True,"Squash, butternut, flesh without skin, raw","Leek, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+264,297,0.11477984118749411,12,True,group:020101,0.24223641988971562,True,"Squash, butternut, flesh without skin, raw","Mixed vegetables for soups, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+264,299,0.11960167170697382,12,True,group:020101,0.2440954761290092,True,"Squash, butternut, flesh without skin, raw","Flat bean, raw",magnesium_mg|potassium_mg|zinc_mg
+264,305,0.1227962231222006,12,True,group:020101,0.24536112874093838,True,"Squash, butternut, flesh without skin, raw","Mixed vegetables for couscous, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+265,301,0.15470740089645454,14,True,group:020101,0.14964827772561085,False,"Squash, all types, raw","Asparagus, green, raw",zinc_mg
+268,295,0.14613184152632047,14,True,group:020101,0.17741606119500902,False,"Red endive, raw","Onion, frozen, raw",magnesium_mg
+278,284,0.08549648371187668,14,True,group:020101,0.08373473178144253,False,"Butter bean or yellow bean, raw","Butter bean or yellow bean, frozen, raw",sugars_g
+278,289,0.1875014806430142,14,True,group:020101,0.18856510918795483,False,"Butter bean or yellow bean, raw","Garden peas and carrots, frozen, raw",sugars_g
+279,293,0.2286607191335392,13,True,group:020101,0.25263041234009054,True,"Salsify, black, raw","Corn, frozen, raw",sugars_g|zinc_mg
+283,305,0.12721655632423556,12,True,group:020101,0.12769813471556923,False,"Rutabaga or Swede, raw","Mixed vegetables for couscous, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+284,297,0.13056732967906975,12,True,group:020101,0.1714540587191817,False,"Butter bean or yellow bean, frozen, raw","Mixed vegetables for soups, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+284,299,0.10646999765482534,12,True,group:020101,0.15756560699644168,False,"Butter bean or yellow bean, frozen, raw","Flat bean, raw",magnesium_mg|potassium_mg|zinc_mg
+295,298,0.09818334707105804,12,True,group:020101,0.22319559100778724,False,"Onion, frozen, raw","Thinly-shredded or diced vegetables, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+296,297,0.12670645844110814,12,True,group:020101,0.11332970170502794,False,"Leek, frozen, raw","Mixed vegetables for soups, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+296,299,0.13219236349105307,12,True,group:020101,0.11823644434894244,False,"Leek, frozen, raw","Flat bean, raw",magnesium_mg|potassium_mg|zinc_mg
+296,305,0.14152419635729385,12,True,group:020101,0.12658308940637486,False,"Leek, frozen, raw","Mixed vegetables for couscous, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+297,305,0.07062492193597839,12,True,group:020101,0.06316885054178549,False,"Mixed vegetables for soups, frozen, raw","Mixed vegetables for couscous, frozen, raw",magnesium_mg|potassium_mg|zinc_mg
+309,366,0.19981783192249145,12,True,group:020102|role:veg_cooked,0.43174827802525684,True,"Artichoke, globe, cooked","Celeriac, puree",magnesium_mg|potassium_mg|zinc_mg
+313,338,0.17787167114817934,13,True,group:020102|role:veg_cooked,0.23030441628316656,False,"Carrot, canned, drained","Celery stalk, canned, drained",iron_mg|vitamin_c_mg
+313,339,0.10791773274211042,12,True,group:020102|role:veg_cooked,0.18700806306549514,False,"Carrot, canned, drained","Salsify, canned, drained",iron_mg|zinc_mg|vitamin_c_mg
+318,322,0.20485811165307546,14,True,group:020102|role:veg_cooked,0.19795776645154078,False,"Celeriac, cooked","Turnip, cooked",sat_fat_g
+318,323,0.20754731888046635,14,True,group:020102|role:veg_cooked,0.20052815510625535,False,"Celeriac, cooked","Onion, cooked",sat_fat_g
+318,326,0.17926260575230177,14,True,group:020102|role:veg_cooked,0.17318741672736837,False,"Celeriac, cooked","Salsify, cooked",sat_fat_g
+318,346,0.1938417951652581,14,True,group:020102|role:veg_cooked,0.18729550261306163,False,"Celeriac, cooked","Fennel, boiled/cooked in water",sat_fat_g
+321,366,0.17695855162816823,12,True,group:020102|role:veg_cooked,0.20132686347512305,False,"French bean, cooked","Celeriac, puree",magnesium_mg|potassium_mg|zinc_mg
+322,366,0.197926758977155,12,True,group:020102|role:veg_cooked,0.20529557660757275,False,"Turnip, cooked","Celeriac, puree",magnesium_mg|potassium_mg|zinc_mg
+327,338,0.16813546079426353,13,True,group:020102|role:veg_cooked,0.17371033843255676,False,"Tomato, peeled, canned, drained","Celery stalk, canned, drained",iron_mg|vitamin_c_mg
+327,339,0.15596252885583897,12,True,group:020102|role:veg_cooked,0.1634132177598727,False,"Tomato, peeled, canned, drained","Salsify, canned, drained",iron_mg|zinc_mg|vitamin_c_mg
+329,338,0.16563688908330446,13,True,group:020102|role:veg_cooked,0.20325418521365954,False,"Mixed diced vegetables, canned, drained","Celery stalk, canned, drained",iron_mg|vitamin_c_mg
+332,339,0.15335313385859742,12,True,group:020102|role:veg_cooked,0.1795847126700901,False,"Butter bean or yellow bean, canned, drained","Salsify, canned, drained",iron_mg|zinc_mg|vitamin_c_mg
+335,366,0.1805227318344241,12,True,group:020102|role:veg_cooked,0.1930754353964823,False,"French bean, frozen, cooked","Celeriac, puree",magnesium_mg|potassium_mg|zinc_mg
+336,339,0.11284185325966865,12,True,group:020102|role:veg_cooked,0.27729217560006497,True,"Asparagus, canned, drained","Salsify, canned, drained",iron_mg|zinc_mg|vitamin_c_mg
+337,338,0.1786832713936433,13,True,group:020102|role:veg_cooked,0.21561402138106237,False,"Brussels sprout, canned, drained","Celery stalk, canned, drained",iron_mg|vitamin_c_mg
+337,339,0.17473470199459507,12,True,group:020102|role:veg_cooked,0.2082973758113355,False,"Brussels sprout, canned, drained","Salsify, canned, drained",iron_mg|zinc_mg|vitamin_c_mg
+338,346,0.16487659624413126,13,True,group:020102|role:veg_cooked,0.2755533542130304,True,"Celery stalk, canned, drained","Fennel, boiled/cooked in water",iron_mg|vitamin_c_mg
+340,341,0.19605015895451885,13,True,group:020102|role:veg_cooked,0.19882436308019627,False,"Sweet pepper, green, cooked","Sweet pepper, red, cooked",sodium_mg|iron_mg
+341,365,0.19633964096766005,13,True,group:020102|role:veg_cooked,0.18352131476365807,False,"Sweet pepper, red, cooked","Sweet pepper, red, canned, drained",sodium_mg|iron_mg
+366,368,0.19162213061878036,12,True,group:020102|role:veg_cooked,0.17305938643426216,False,"Celeriac, puree","Mixed vegetables for couscous, cooked",magnesium_mg|potassium_mg|zinc_mg
+377,387,0.12659720992473295,14,True,group:0202:raw,0.12296799054897622,False,"Potato, peeled, raw","Potato, new, raw",magnesium_mg
+371,390,0.21571066307301284,14,True,group:0202:ready|role:starchy_side,0.22262511818585334,False,"Jerusalem artichoke, cooked","Potato, ware, peeled, boiled/cooked in water",sat_fat_g
+374,390,0.2336565465035192,14,True,group:0202:ready|role:starchy_side,0.23811728479870806,True,"Potato, peeled, roasted/baked","Potato, ware, peeled, boiled/cooked in water",sat_fat_g
+375,390,0.0839724605814136,14,True,group:0202:ready|role:starchy_side,0.10662811013712949,False,"Potato, boiled/cooked in water","Potato, ware, peeled, boiled/cooked in water",sat_fat_g
+376,396,0.16400851362107918,14,True,group:0202:ready,0.16929862251950814,False,"Potato, crisps, plain or flavoured, standard","Potato crisps and similar, plain or flavoured, reduced fat",vitamin_c_mg
+391,394,0.221362993194021,14,True,group:0202:ready|role:starchy_side,0.24493116760193126,True,"French fries or chips, frozen, roasted/baked","Noisette potato, frozen, cooked",vitamin_c_mg
+393,394,0.19157855116315578,14,True,group:0202:ready|role:starchy_side,0.3259293431198245,True,"Duchesse potato, frozen, cooked","Noisette potato, frozen, cooked",vitamin_c_mg
+394,397,0.08992430573199832,14,True,group:0202:ready,0.28199593419484104,True,"Noisette potato, frozen, cooked",Rostis,vitamin_c_mg
+426,434,0.2048694986828069,12,True,group:020303,0.3910946444643477,True,"Haricot bean, dried","Flageolet bean, green, dried",sugars_g|calcium_mg|potassium_mg
+429,431,0.21924374845846692,14,True,group:020303,0.24886287486847664,True,"Broad bean, dried","Beans, mung, mature, seeds, dried",sugars_g
+429,434,0.17232258273470835,12,True,group:020303,0.2162788653252748,False,"Broad bean, dried","Flageolet bean, green, dried",sugars_g|calcium_mg|potassium_mg
+441,474,0.11905165357591131,14,True,group:020401|role:fruit_or_juice,0.1150158475979531,False,"Cherry, flesh and skin, pitted, raw","Apple, Canada, flesh without skin, raw",sat_fat_g
+442,477,0.20725842575613948,13,True,group:020401|role:fruit_or_juice,0.3326250328415808,True,"Lemon, flesh without skin, without seeds, raw","Pummelo, flesh without skin, without seeds, raw",sugars_g|sat_fat_g
+445,450,0.15824950055629503,14,True,group:020401|role:fruit_or_juice,0.17041476419352228,False,"Strawberry, raw","Gooseberry, raw",sugars_g
+446,450,0.1877052975128767,14,True,group:020401|role:fruit_or_juice,0.19856732128363927,False,"Raspberry, raw","Gooseberry, raw",sugars_g
+449,450,0.10987673353016957,14,True,group:020401|role:fruit_or_juice,0.11676559420083268,False,"Red currant, raw","Gooseberry, raw",sugars_g
+450,469,0.21104964281204983,14,True,group:020401|role:fruit_or_juice,0.24244669550378958,True,"Gooseberry, raw","Carambola, flesh and skin, raw",sugars_g
+450,472,0.16088650992627135,14,True,group:020401|role:fruit_or_juice,0.25581880848629057,True,"Gooseberry, raw","Lime, flesh without skin, without seeds, raw",sugars_g
+461,474,0.13977010781034863,14,True,group:020401|role:fruit_or_juice,0.13514390058707718,False,"Pear, flesh and skin, raw","Apple, Canada, flesh without skin, raw",sat_fat_g
+462,474,0.08542383375178353,14,True,group:020401|role:fruit_or_juice,0.08262778738469319,False,"Apple, flesh and skin, raw","Apple, Canada, flesh without skin, raw",sat_fat_g
+486,487,0.0843983116712444,14,True,group:020403|role:fruit_or_juice,0.08153651541135465,False,"Fruit cocktail or salad, canned in syrup, drained","Fruit cocktail or salad, canned in syrup, solids and liquids",sat_fat_g
+486,492,0.13666663420617806,14,True,group:020403|role:fruit_or_juice,0.13203251232769248,False,"Fruit cocktail or salad, canned in syrup, drained","Apricot, in syrup, canned, drained",sat_fat_g
+486,500,0.119108928409858,14,True,group:020403|role:fruit_or_juice,0.11507019794219507,False,"Fruit cocktail or salad, canned in syrup, drained","Pear, canned in light syrup, solids and liquids",sat_fat_g
+487,492,0.12825919429986193,14,True,group:020403|role:fruit_or_juice,0.1239101537174675,False,"Fruit cocktail or salad, canned in syrup, solids and liquids","Apricot, in syrup, canned, drained",sat_fat_g
+487,493,0.1053911532485977,14,True,group:020403|role:fruit_or_juice,0.10181752716272109,False,"Fruit cocktail or salad, canned in syrup, solids and liquids","Apricot, in syrup, canned, solids and liquids",sat_fat_g
+487,500,0.08550722827714126,14,True,group:020403|role:fruit_or_juice,0.08260788762443201,False,"Fruit cocktail or salad, canned in syrup, solids and liquids","Pear, canned in light syrup, solids and liquids",sat_fat_g
+488,489,0.06752434061505828,14,True,group:020403|role:fruit_or_juice,0.06523730865699508,False,"Fruit cocktail or salad, canned in light syrup, drained","Fruit cocktail or salad, canned in light syrup, solids and liquids",sat_fat_g
+488,496,0.1406164380306047,14,True,group:020403|role:fruit_or_juice,0.1358483853472462,False,"Fruit cocktail or salad, canned in light syrup, drained","Pineapple, in light syrup, canned, drained",sat_fat_g
+490,491,0.0645000742581651,14,True,group:020403|role:fruit_or_juice,0.06231299174881772,False,"Apricot, canned in light syrup, drained","Apricot, canned in light syrup, solids and liquids",sat_fat_g
+490,498,0.0938280627318196,14,True,group:020403|role:fruit_or_juice,0.09064652042745963,False,"Apricot, canned in light syrup, drained","Peach, pitted, canned in light syrup, drained",sat_fat_g
+490,499,0.11732057068271999,14,True,group:020403|role:fruit_or_juice,0.11334243932274952,False,"Apricot, canned in light syrup, drained","Peach, pitted, canned in light syrup, solids and liquids",sat_fat_g
+491,498,0.10113215085921323,14,True,group:020403|role:fruit_or_juice,0.09770293995022165,False,"Apricot, canned in light syrup, solids and liquids","Peach, pitted, canned in light syrup, drained",sat_fat_g
+492,493,0.07378107667163188,14,True,group:020403|role:fruit_or_juice,0.0712792919192071,False,"Apricot, in syrup, canned, drained","Apricot, in syrup, canned, solids and liquids",sat_fat_g
+493,500,0.12932206498047072,14,True,group:020403|role:fruit_or_juice,0.12493702203136774,False,"Apricot, in syrup, canned, solids and liquids","Pear, canned in light syrup, solids and liquids",sat_fat_g
+494,495,0.048430702618118306,14,True,group:020403|role:fruit_or_juice,0.04678850384812104,False,"Pineapple, in pineapple juice, canned, drained","Pineapple, in pineapple juice, canned, solids and liquids",sat_fat_g
+494,496,0.08854847256384062,14,True,group:020403|role:fruit_or_juice,0.0855459517481489,False,"Pineapple, in pineapple juice, canned, drained","Pineapple, in light syrup, canned, drained",sat_fat_g
+494,497,0.09354532548930436,14,True,group:020403|role:fruit_or_juice,0.09037524566964912,False,"Pineapple, in pineapple juice, canned, drained","Pineapple, in light syrup, canned, solids and liquids",sat_fat_g
+495,496,0.10532185898916624,14,True,group:020403|role:fruit_or_juice,0.10175058254806979,False,"Pineapple, in pineapple juice, canned, solids and liquids","Pineapple, in light syrup, canned, drained",sat_fat_g
+495,497,0.08219012735258077,14,True,group:020403|role:fruit_or_juice,0.07940534114462376,False,"Pineapple, in pineapple juice, canned, solids and liquids","Pineapple, in light syrup, canned, solids and liquids",sat_fat_g
+496,497,0.05917695723281606,14,True,group:020403|role:fruit_or_juice,0.0571733366164255,False,"Pineapple, in light syrup, canned, drained","Pineapple, in light syrup, canned, solids and liquids",sat_fat_g
+498,499,0.06311151154970275,14,True,group:020403|role:fruit_or_juice,0.06097151272588191,False,"Peach, pitted, canned in light syrup, drained","Peach, pitted, canned in light syrup, solids and liquids",sat_fat_g
+530,542,0.09368074540222221,14,True,group:0205:ready,0.09349868876900101,False,"Flaxseed, seed","Flaxseed, brown, seed",vitamin_c_mg
+547,554,0.2085987508817084,13,True,group:030101|role:starchy_side,0.1957790460649694,False,"Frik (crushed immature durum wheat), cooked, no added salt","Oat flakes, boiled/cooked in water",sat_fat_g|vitamin_c_mg
+547,555,0.18955174451424062,13,True,group:030101|role:starchy_side,0.17796804142212458,False,"Frik (crushed immature durum wheat), cooked, no added salt","Pearled barley, boiled/cooked in water, no added salt",sat_fat_g|vitamin_c_mg
+547,560,0.1917777479910157,13,True,group:030101|role:starchy_side,0.18867703615613382,False,"Frik (crushed immature durum wheat), cooked, no added salt","Wheat bulgur, cooked, no added salt",sat_fat_g|vitamin_c_mg
+549,552,0.194751649030139,13,True,group:030101|role:starchy_side,0.1927601485415376,False,"Rice, wholegrain, cooked, no added salt","Rice, red, cooked, no added salt",sat_fat_g|vitamin_c_mg
+561,562,0.157088455968695,13,True,group:030101|role:starchy_side,0.15846349935638768,False,"Pasta, dry, regular, cooked, no added salt","Pasta, fresh, with egg, cooked, no added salt",sat_fat_g|vitamin_c_mg
+562,563,0.18780766449212274,13,True,group:030101|role:starchy_side,0.1763241049435495,False,"Pasta, fresh, with egg, cooked, no added salt","Pasta, dry, with egg, cooked, no added salt",sat_fat_g|vitamin_c_mg
+562,564,0.20656858257461946,13,True,group:030101|role:starchy_side,0.19259395850680305,False,"Pasta, fresh, with egg, cooked, no added salt","Pasta, dry, gluten-free, cooked, no added salt",sat_fat_g|vitamin_c_mg
+567,578,0.168022179145617,13,True,group:030102,0.15678942160526177,False,"Frik (crushed immature durum wheat), raw","Barley, wholegrain, raw",sat_fat_g|vitamin_c_mg
+567,585,0.23010473346940066,13,True,group:030102,0.21479320283899245,False,"Frik (crushed immature durum wheat), raw","Rye, wholegrain, raw",sat_fat_g|vitamin_c_mg
+574,576,0.10521371166723369,13,True,group:030102,0.09960771124908503,False,"Rice, wholegrain, raw","Rice, red, raw",sat_fat_g|vitamin_c_mg
+575,576,0.23116098315340491,13,True,group:030102,0.2161789203545177,False,"Rice, wild, raw","Rice, red, raw",sat_fat_g|vitamin_c_mg
+577,581,0.17845898386397596,13,True,group:030102,0.1667417067942394,False,"Oat, raw","Quinoa, raw",sugars_g|vitamin_c_mg
+583,584,0.23386853914232372,14,True,group:030102,0.238878417537973,True,"Sorghum, wholegrain, raw","Buckwheat, wholegrain, raw",sugars_g
+594,620,0.22960724889881423,14,True,group:030201|role:bread,0.22286223575930852,False,Blinis,"Wheat tortilla wrap, to be filled",vitamin_c_mg
+595,596,0.13370954332091928,14,True,group:030201|role:bread,0.12917569112162527,False,"Bread, French bread, baguette","Bread, French bread, with yeast",vitamin_c_mg
+595,617,0.12530803887362923,14,True,group:030201|role:bread,0.12143467523040108,False,"Bread, French bread, baguette","Bread, French bread, home-made, with flour for home-made bread preparation",sugars_g
+596,597,0.14672693399322967,14,True,group:030201|role:bread,0.1417516852872774,False,"Bread, French bread, with yeast","Bread, tradtion French bread",vitamin_c_mg
+596,606,0.18327953826053187,12,True,group:030201|role:bread,0.16464041144461986,False,"Bread, French bread, with yeast","Bread, French bread, no added salt",sodium_mg|iron_mg|vitamin_c_mg
+596,617,0.09819543395961512,13,True,group:030201|role:bread,0.0961510800797969,False,"Bread, French bread, with yeast","Bread, French bread, home-made, with flour for home-made bread preparation",sugars_g|vitamin_c_mg
+597,617,0.12326579625155654,14,True,group:030201|role:bread,0.12058145422511889,False,"Bread, tradtion French bread","Bread, French bread, home-made, with flour for home-made bread preparation",sugars_g
+598,599,0.08856105622907656,14,True,group:030201|role:bread,0.08555810872373436,False,"Brown French bread, with flour type 80 or 110","French bread, country-style",vitamin_c_mg
+598,604,0.10290416580537362,14,True,group:030201|role:bread,0.09941486902920092,False,"Brown French bread, with flour type 80 or 110",Rye and wheat bread,vitamin_c_mg
+598,607,0.15713830015259,13,True,group:030201|role:bread,0.16360401498421598,False,"Brown French bread, with flour type 80 or 110","Bread, panini",zinc_mg|vitamin_c_mg
+598,618,0.0944171379332506,13,True,group:030201|role:bread,0.1224071024124649,False,"Brown French bread, with flour type 80 or 110","Bread, French bread, home-made (with flour for bread making machine)",sugars_g|vitamin_c_mg
+599,618,0.11853557679843742,14,True,group:030201|role:bread,0.11451712006789456,False,"French bread, country-style","Bread, French bread, home-made (with flour for bread making machine)",sugars_g
+600,603,0.19588820363241433,14,True,group:030201|role:bread,0.19883276552880993,False,"Bread, French bread, wholemeal or integral bread (made with flour type 150)","Bread, bran grain",vitamin_c_mg
+601,603,0.1965104066630328,14,True,group:030201|role:bread,0.19940497355566453,False,"Sandwich loaf, wholemeal, prepacked","Bread, bran grain",vitamin_c_mg
+603,612,0.10266073299284706,14,True,group:030201|role:bread,0.09917969058928712,False,"Bread, bran grain","Bread, multigrain and/or with seeds",vitamin_c_mg
+604,607,0.13827672359867665,13,True,group:030201|role:bread,0.12968320790763144,False,Rye and wheat bread,"Bread, panini",zinc_mg|vitamin_c_mg
+606,608,0.15238151838525718,12,True,group:030201|role:bread,0.14393657087015024,False,"Bread, French bread, no added salt","Bread, pita",sodium_mg|iron_mg|vitamin_c_mg
+606,616,0.18500441012096489,12,True,group:030201|role:bread,0.1904874848059836,False,"Bread, French bread, no added salt","Rolls for burger/hotdog (buns), prepacked",sodium_mg|iron_mg|vitamin_c_mg
+607,608,0.19313014188155464,13,True,group:030201|role:bread,0.19056508882629092,False,"Bread, panini","Bread, pita",zinc_mg|vitamin_c_mg
+608,617,0.1794706387056344,13,True,group:030201|role:bread,0.16964321578479882,False,"Bread, pita","Bread, French bread, home-made, with flour for home-made bread preparation",sugars_g|vitamin_c_mg
+617,619,0.1870561832612628,14,True,group:030201|role:bread,0.18082416459826012,False,"Bread, French bread, home-made, with flour for home-made bread preparation","Maize/corn tortilla wrap, to be filled",sugars_g
+619,620,0.15185187155159438,14,True,group:030201|role:bread,0.14670284535120803,False,"Maize/corn tortilla wrap, to be filled","Wheat tortilla wrap, to be filled",vitamin_c_mg
+621,636,0.1059602216799922,14,True,group:030202,0.10236729949830113,False,"Crouton with garlic, herbs or onions, prepacked","Croutons, plain, prepacked",vitamin_c_mg
+630,636,0.22223602284786775,14,True,group:030202,0.21470039557754772,False,"Rusk, slice, wheat, prepacked","Croutons, plain, prepacked",vitamin_c_mg
+631,636,0.22785252244118315,14,True,group:030202,0.22012644968431794,False,"Brioche rusk, sliced, prepacked","Croutons, plain, prepacked",vitamin_c_mg
+649,650,0.07355036344926494,13,True,group:0304,0.06890055820198243,False,"Wheat flour, type 65","Wheat flour, type 55 (for bread)",sat_fat_g|vitamin_c_mg
+649,651,0.15548684904958934,13,True,group:0304,0.14695824950235034,False,"Wheat flour, type 65","Wheat flour, type 45 (for pastry)",sat_fat_g|vitamin_c_mg
+649,652,0.18475384887512528,13,True,group:0304,0.1722643582177022,False,"Wheat flour, type 65","Wheat flour, type 80",sat_fat_g|vitamin_c_mg
+674,675,0.10202287076063492,14,True,group:040101|role:protein_main,0.12853805646177174,False,"Beef, steak or beef steak, grilled/pan-fried","Beef, rump steak, grilled/pan-fried",vitamin_c_mg
+674,676,0.17733948939974428,14,True,group:040101|role:protein_main,0.17132622352457086,False,"Beef, steak or beef steak, grilled/pan-fried","Beef, roast beef, roasted/baked",vitamin_c_mg
+674,677,0.19597602508236917,14,True,group:040101|role:protein_main,0.18933082751261884,False,"Beef, steak or beef steak, grilled/pan-fried","Beef, minced steak, 5% fat, cooked",vitamin_c_mg
+674,683,0.21391235079136237,13,True,group:040101|role:protein_main,0.20331694970093958,False,"Beef, steak or beef steak, grilled/pan-fried","Veal, escalope, cooked",potassium_mg|vitamin_c_mg
+675,676,0.11668196297732873,14,True,group:040101|role:protein_main,0.13969363620641784,False,"Beef, rump steak, grilled/pan-fried","Beef, roast beef, roasted/baked",vitamin_c_mg
+683,685,0.12716786136317018,13,True,group:040101|role:protein_main,0.13322558070832521,False,"Veal, escalope, cooked","Veal, roast, cooked",potassium_mg|vitamin_c_mg
+686,693,0.19214919549830953,14,True,group:040102|role:protein_main,0.20383237504905316,False,"Pork, shoulder, cooked","Pork, loin, roasted/baked",sat_fat_g
+687,688,0.1346071837286866,12,True,group:040102|role:protein_main,0.12366949436441285,False,"Pork, chop, grilled/pan-fried","Pork, rack, cooked",calcium_mg|magnesium_mg|vitamin_c_mg
+687,689,0.139306097510529,14,True,group:040102|role:protein_main,0.14083198857747653,False,"Pork, chop, grilled/pan-fried","Pork, tenderloin roast, cooked",sat_fat_g
+687,690,0.1977699213941931,14,True,group:040102|role:protein_main,0.1930680741070611,False,"Pork, chop, grilled/pan-fried","Pork, filet mignon, cooked",vitamin_c_mg
+687,694,0.1862027509475841,14,True,group:040102|role:protein_main,0.18201621461135498,False,"Pork, chop, grilled/pan-fried","Pork, ham escalope, cooked",vitamin_c_mg
+688,690,0.1898133037355268,12,True,group:040102|role:protein_main,0.1754309243788232,False,"Pork, rack, cooked","Pork, filet mignon, cooked",calcium_mg|magnesium_mg|vitamin_c_mg
+688,691,0.18093561290718835,12,True,group:040102|role:protein_main,0.17441609744588074,False,"Pork, rack, cooked","Pork, roast, cooked",calcium_mg|magnesium_mg|vitamin_c_mg
+689,690,0.1663700482778565,13,True,group:040102|role:protein_main,0.15978768939076707,False,"Pork, tenderloin roast, cooked","Pork, filet mignon, cooked",sat_fat_g|vitamin_c_mg
+689,694,0.14995423675064226,13,True,group:040102|role:protein_main,0.15605611200497968,False,"Pork, tenderloin roast, cooked","Pork, ham escalope, cooked",sat_fat_g|vitamin_c_mg
+695,699,0.11359284591771979,14,True,group:040103|role:protein_main,0.14409902251493456,False,"Chicken, leg, meat and skin, roasted/baked","Chicken leg, meat, boiled/cooked in water",sat_fat_g
+697,699,0.18623542590383813,14,True,group:040103|role:protein_main,0.17992072826615402,False,"Chicken leg, meat, roasted/baked","Chicken leg, meat, boiled/cooked in water",sat_fat_g
+698,704,0.19508937680298338,14,True,group:040103|role:protein_main,0.18847424389542283,False,"Chicken, breast, without skin, grilled/pan-fried","Turkey, escalope, grilled/pan-fried",sugars_g
+699,700,0.17313073553859493,14,True,group:040103|role:protein_main,0.16885039801915805,False,"Chicken leg, meat, boiled/cooked in water","Chicken, leg, meat and skin, boiled/cooked in water",sat_fat_g
+715,720,0.21805491145710162,14,True,group:040107|role:protein_main,0.2106610582187893,False,"Capon, meat and skin, roasted/baked","Pheasant, meat, roasted/baked",sugars_g
+721,722,0.14706211767018462,13,True,group:040107|role:protein_main,0.1675947856839111,False,"Goose, meat, roasted/baked","Goose, meat and skin, roasted/baked",sugars_g|sat_fat_g
+724,725,0.15145704194659187,14,True,group:040108|role:protein_main,0.14632140371409866,False,"Brain, lamb, cooked","Brain, pork, braised",sugars_g
+724,726,0.06670708367689764,14,True,group:040108|role:protein_main,0.06444516541343384,False,"Brain, lamb, cooked","Brain, calf, cooked",sugars_g
+725,726,0.17505999584708867,14,True,group:040108|role:protein_main,0.16912402353376804,False,"Brain, pork, braised","Brain, calf, cooked",sugars_g
+727,729,0.2357646249053771,14,True,group:040108|role:protein_main,0.22777026686185714,False,"Heart, beef, cooked","Heart, turkey, cooked",vitamin_c_mg
+727,730,0.19058513687497422,13,True,group:040108|role:protein_main,0.2028403638465621,False,"Heart, beef, cooked","Heart, lamb, cooked",sugars_g|vitamin_c_mg
+727,735,0.21572610297577838,14,True,group:040108|role:protein_main,0.23931349802268795,True,"Heart, beef, cooked","Liver, chicken, cooked",vitamin_c_mg
+727,742,0.2168568843906486,13,True,group:040108|role:protein_main,0.2047653453944701,False,"Heart, beef, cooked","Kidney, pork, cooked",sugars_g|vitamin_c_mg
+729,730,0.1589261619424306,13,True,group:040108|role:protein_main,0.17763558113140368,False,"Heart, turkey, cooked","Heart, lamb, cooked",sugars_g|vitamin_c_mg
+729,735,0.17952278648641926,14,True,group:040108|role:protein_main,0.20956045525751893,False,"Heart, turkey, cooked","Liver, chicken, cooked",vitamin_c_mg
+730,742,0.19551898431489084,14,True,group:040108|role:protein_main,0.18888928418262577,False,"Heart, lamb, cooked","Kidney, pork, cooked",sugars_g
+731,732,0.15046622671731555,14,True,group:040108|role:protein_main,0.145364185262545,False,"Liver, lamb, cooked","Liver, heifer, cooked",sugars_g
+731,733,0.17922423933506865,14,True,group:040108|role:protein_main,0.17314706495024695,False,"Liver, lamb, cooked","Liver, calf, cooked",sugars_g
+744,747,0.16520363860756518,13,True,group:040201,0.22695257965703788,False,"Beef, rib, raw","Beef, rib steak, raw",sat_fat_g|zinc_mg
+744,758,0.12035621624345372,13,True,group:040201,0.1840168939451126,False,"Beef, rib, raw","Beef, minced steak, 15% fat, raw",sat_fat_g|zinc_mg
+744,759,0.16291490891012805,13,True,group:040201,0.21882124007136208,False,"Beef, rib, raw","Beef, minced steak, 20% fat, raw",sat_fat_g|zinc_mg
+744,767,0.1286014735054665,13,True,group:040201,0.11972145640084839,False,"Beef, rib, raw","Veal, foot, raw",sat_fat_g|zinc_mg
+746,748,0.12789296589697638,14,True,group:040201,0.14951323847651662,False,"Beef, round, raw","Beef, sirloin steak, raw",sat_fat_g
+746,767,0.1665292045499416,13,True,group:040201,0.17735764772906717,False,"Beef, round, raw","Veal, foot, raw",sat_fat_g|zinc_mg
+748,762,0.19222079919756713,14,True,group:040201,0.18590928429091808,False,"Beef, sirloin steak, raw","Veal, loin, raw",sat_fat_g
+753,763,0.16618483571643106,14,True,group:040201,0.16054980425802676,False,"Beef, bolar-blade, raw","Veal, escalope, raw",vitamin_c_mg
+754,763,0.18755217349574813,14,True,group:040201,0.1811926137129048,False,"Beef, rump steak, raw","Veal, escalope, raw",vitamin_c_mg
+754,768,0.1909224948152112,12,True,group:040201,0.21043612628220124,False,"Beef, rump steak, raw","Veal, knuckle or shank, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+756,763,0.16824207520005227,14,True,group:040201,0.1625372864189795,False,"Beef, minced steak, 5% fat, raw","Veal, escalope, raw",vitamin_c_mg
+757,767,0.14101597734725232,13,True,group:040201,0.1486720350399449,False,"Beef, minced steak, 10% fat, raw","Veal, foot, raw",sat_fat_g|zinc_mg
+758,767,0.10468667427894315,13,True,group:040201,0.17551659211956405,False,"Beef, minced steak, 15% fat, raw","Veal, foot, raw",sat_fat_g|zinc_mg
+763,764,0.1534926889632343,14,True,group:040201,0.1482880255701268,False,"Veal, escalope, raw","Veal, tenderloin, raw",vitamin_c_mg
+763,768,0.1904426001869514,12,True,group:040201,0.18076353479131377,False,"Veal, escalope, raw","Veal, knuckle or shank, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+764,768,0.16659375216319317,12,True,group:040201,0.17044208382043935,False,"Veal, tenderloin, raw","Veal, knuckle or shank, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+766,768,0.12396069313564888,12,True,group:040201,0.11949849800660328,False,"Veal, shoulder, raw","Veal, knuckle or shank, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+769,772,0.20907839685958046,12,True,group:040202,0.20419224184262752,False,"Pork, shoulder, raw","Pork, rack, raw",calcium_mg|magnesium_mg|vitamin_c_mg
+769,775,0.1964485655346776,14,True,group:040202,0.1987564456407516,False,"Pork, shoulder, raw","Pork, loin, raw",vitamin_c_mg
+770,775,0.15187540252567383,14,True,group:040202,0.14672557843191403,False,"Pork, belly, raw","Pork, loin, raw",vitamin_c_mg
+771,772,0.15024597845406004,12,True,group:040202,0.13541670481957338,False,"Pork, chop, raw","Pork, rack, raw",calcium_mg|magnesium_mg|vitamin_c_mg
+772,773,0.10220944735994773,12,True,group:040202,0.12212667484351643,False,"Pork, rack, raw","Pork, filet mignon, raw",calcium_mg|magnesium_mg|vitamin_c_mg
+772,774,0.05381006290804912,12,True,group:040202,0.09653719077969322,False,"Pork, rack, raw","Pork, roast, raw",calcium_mg|magnesium_mg|vitamin_c_mg
+772,777,0.06448474046705766,12,True,group:040202,0.09366412358256496,False,"Pork, rack, raw","Pork, ham escalope, raw",calcium_mg|magnesium_mg|vitamin_c_mg
+775,776,0.1570863839107681,14,True,group:040202,0.15175986472983277,False,"Pork, loin, raw","Pork, spare-ribs, raw",vitamin_c_mg
+778,787,0.16193201356802545,12,True,group:040203,0.22548072029609909,False,"Hen, meat and skin, raw","Chicken, eviscerated without offal, raw",sugars_g|sat_fat_g|zinc_mg
+778,797,0.16196685788625634,14,True,group:040203,0.1564748505350843,False,"Hen, meat and skin, raw","Turkey, wing, raw",sugars_g
+779,782,0.11247241642149866,13,True,group:040203,0.23858265789096508,True,"Hen, meat, raw","Chicken, free-range, meat and skin, raw",vitamin_c_mg|vitamin_b12_ug
+780,787,0.17945722241335021,12,True,group:040203,0.1960791969148218,False,"Chicken, leg, meat and skin, raw","Chicken, eviscerated without offal, raw",sugars_g|sat_fat_g|zinc_mg
+781,782,0.13516725849025968,13,True,group:040203,0.20957967276986844,False,"Chicken, meat, raw","Chicken, free-range, meat and skin, raw",vitamin_c_mg|vitamin_b12_ug
+782,786,0.11011950197982638,13,True,group:040203,0.1130051999399853,False,"Chicken, free-range, meat and skin, raw","Chicken high leg, meat, raw",vitamin_c_mg|vitamin_b12_ug
+782,790,0.13967706776764716,13,True,group:040203,0.24282219749261616,True,"Chicken, free-range, meat and skin, raw","Chicken, leg, meat, raw",vitamin_c_mg|vitamin_b12_ug
+782,792,0.12370370825705174,13,True,group:040203,0.20343294978587084,False,"Chicken, free-range, meat and skin, raw","Turkey, meat and skin, raw",vitamin_c_mg|vitamin_b12_ug
+787,791,0.1956776285946539,12,True,group:040203,0.21617168258236383,False,"Chicken, eviscerated without offal, raw","Chicken, breast, meat and skin, raw",sugars_g|sat_fat_g|zinc_mg
+787,797,0.18301255584083936,12,True,group:040203,0.1868827571122127,False,"Chicken, eviscerated without offal, raw","Turkey, wing, raw",sugars_g|sat_fat_g|zinc_mg
+788,797,0.165514339155672,14,True,group:040203,0.1599020430400945,False,"Chicken, drumstick, raw","Turkey, wing, raw",sugars_g
+791,797,0.1748240361647666,14,True,group:040203,0.16889606482353867,False,"Chicken, breast, meat and skin, raw","Turkey, wing, raw",sugars_g
+798,802,0.23583045988699636,12,True,group:040205,0.2109331757889445,False,"Mutton, meat, raw","Mutton, leg, raw",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+798,804,0.1386947725969847,12,True,group:040205,0.22627877166164825,False,"Mutton, meat, raw","Lamb, leg, raw",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+798,805,0.15953510913089894,12,True,group:040205,0.17772885164259883,False,"Mutton, meat, raw","Lamb, shoulder, raw",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+798,806,0.10890156519499881,12,True,group:040205,0.20230409308218233,False,"Mutton, meat, raw","Lamb, shoulder, lean, raw",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+799,800,0.12655564407534511,12,True,group:040205,0.14120817179967884,False,"Mutton, shoulder, raw","Sheep, foot, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+799,801,0.12655564407534511,12,True,group:040205,0.14120817179967884,False,"Mutton, shoulder, raw","Sheep, head, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+799,802,0.178544536785603,12,True,group:040205,0.21663141178687315,False,"Mutton, shoulder, raw","Mutton, leg, raw",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+800,801,0.0,12,True,group:040205,0.0,False,"Sheep, foot, raw","Sheep, head, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+800,805,0.1568237891878859,12,True,group:040205,0.1732833830981506,False,"Sheep, foot, raw","Lamb, shoulder, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+800,806,0.2062115287145327,12,True,group:040205,0.2588485503170434,True,"Sheep, foot, raw","Lamb, shoulder, lean, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+800,807,0.16902195578395435,12,True,group:040205,0.17288700581489025,False,"Sheep, foot, raw","Lamb, saddle, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+801,805,0.1568237891878859,12,True,group:040205,0.1732833830981506,False,"Sheep, head, raw","Lamb, shoulder, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+801,806,0.2062115287145327,12,True,group:040205,0.2588485503170434,True,"Sheep, head, raw","Lamb, shoulder, lean, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+801,807,0.16902195578395435,12,True,group:040205,0.17288700581489025,False,"Sheep, head, raw","Lamb, saddle, raw",sat_fat_g|zinc_mg|vitamin_c_mg
+803,808,0.1991075083533597,12,True,group:040205,0.21040798775978792,False,"Lamb, cutlet, raw","Lamb, chop fillet, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+803,809,0.16304831115935683,12,True,group:040205,0.18391379182788672,False,"Lamb, cutlet, raw","Lamb, rib chop, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+807,808,0.06065529879991491,12,True,group:040205,0.09647920631423289,False,"Lamb, saddle, raw","Lamb, chop fillet, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+807,809,0.09949772199298848,12,True,group:040205,0.11951912975944047,False,"Lamb, saddle, raw","Lamb, rib chop, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+808,809,0.08657706583683611,12,True,group:040205,0.07743688180145611,False,"Lamb, chop fillet, raw","Lamb, rib chop, raw",magnesium_mg|potassium_mg|vitamin_c_mg
+810,812,0.05530656384957067,12,True,group:040207,0.24616846105550075,True,"Kid meat, raw","Rabbit, wild, meat, raw",magnesium_mg|zinc_mg|vitamin_b12_ug
+810,820,0.2182366103246484,13,True,group:040207,0.2537309809926967,True,"Kid meat, raw","Guinea fowl, leg, raw",magnesium_mg|vitamin_b12_ug
+812,820,0.17908114777748307,12,True,group:040207,0.1893841805047265,False,"Rabbit, wild, meat, raw","Guinea fowl, leg, raw",magnesium_mg|zinc_mg|vitamin_b12_ug
+821,823,0.06780799457277152,14,True,group:040208,0.06550874638384006,False,"Brain, lamb, raw","Brain, calf, raw",sugars_g
+827,829,0.15742657320454395,14,True,group:040208,0.15257258812709876,False,"Heart, lamb, raw","Heart, calf, raw",sugars_g
+829,833,0.20840942201372276,13,True,group:040208,0.26840613882659936,True,"Heart, calf, raw","Liver, rabbit, raw",sugars_g|vitamin_b12_ug
+829,844,0.1899623016520676,14,True,group:040208,0.18352101872089308,False,"Heart, calf, raw","Kidney, beef, raw",sugars_g
+829,845,0.1985131382864976,14,True,group:040208,0.19178191173186931,False,"Heart, calf, raw","Kidney, pork, raw",sugars_g
+829,847,0.21408611392153945,14,True,group:040208,0.20682683553097733,False,"Heart, calf, raw","Kidney, calf, raw",sugars_g
+837,838,0.18346127619934907,14,True,group:040208,0.17724043144943236,False,"Liver, goose, raw","Liver, duck, raw",sugars_g
+839,840,0.11194862555257536,14,True,group:040208,0.1095329939265334,False,"Tongue, beef, raw","Tongue, calf, raw",sugars_g
+840,841,0.1734270695398194,14,True,group:040208,0.16754646684594118,False,"Tongue, calf, raw","Tongue, pork, raw",sugars_g
+844,847,0.2145501706423851,14,True,group:040208,0.20727515691586904,False,"Kidney, beef, raw","Kidney, calf, raw",sugars_g
+846,847,0.14138790733886059,14,True,group:040208,0.13735614276610236,False,"Kidney, lamb, raw","Kidney, calf, raw",sugars_g
+851,855,0.13065738113811762,14,True,group:040301|role:deli_alt,0.422371881784765,True,"Pork ham, to cook / roast / bake",Braised ham on the bone,vitamin_c_mg
+851,856,0.22756536399217234,14,True,group:040301|role:deli_alt,0.4591278041996812,True,"Pork ham, to cook / roast / bake","Cooked ham, superior quality, rind less defatted",vitamin_c_mg
+852,856,0.22152507962900728,14,True,group:040301|role:deli_alt,0.26495639582602226,True,"Bacon, back","Cooked ham, superior quality, rind less defatted",vitamin_c_mg
+854,856,0.09371987959993633,14,True,group:040301|role:deli_alt,0.090558838578696,False,"Cooked ham, superior quality","Cooked ham, superior quality, rind less defatted",vitamin_c_mg
+870,874,0.17754349831126923,14,True,group:040304:ready|role:deli_alt,0.20200979875619615,False,"Morteaux sausage, boiled/cooked in water",Frankfurter sausage,vitamin_c_mg
+874,877,0.15953960554698707,14,True,group:040304:ready|role:deli_alt,0.2686774252642609,True,Frankfurter sausage,"Strasbourg sausage, to cook",vitamin_c_mg
+879,883,0.19619504964920026,14,True,group:040305|role:deli_alt,0.19048622889192637,False,Country-style pâté or terrine,Pork liver mousse,vitamin_c_mg
+882,883,0.20688132581368335,14,True,group:040305|role:deli_alt,0.23257839020471777,False,Pork liver pâté,Pork liver mousse,vitamin_c_mg
+886,888,0.1427609099560217,13,True,group:040306|role:deli_alt,0.13293465344901348,False,"Rillettes, pure pork",Rillettes of goose,sugars_g|vitamin_c_mg
+889,890,0.19665052888798928,13,True,group:040307:raw|role:deli_alt,0.1830716793417334,False,"Fish quenelle, raw","Quenelle, plain, raw",vitamin_c_mg|vitamin_b12_ug
+893,898,0.20947950819708724,13,True,group:040308:ready|role:deli_alt,0.196610012267974,False,"Lardoons, plain, cooked","Lardoons, smoked, cooked",sugars_g|vitamin_c_mg
+896,907,0.1728164523606049,12,True,group:040308:ready|role:deli_alt,0.15570219115848755,False,"Pork belly, brined","Mortadella, pure pork",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+904,912,0.20349912430417796,14,True,group:040308:ready|role:deli_alt,0.3736562949170083,True,"Sausage in a brioche crust, cooked","Ham, in a pastry crust",vitamin_c_mg
+906,907,0.14666410985202558,12,True,group:040308:ready|role:deli_alt,0.20405532737285617,False,Mortadella,"Mortadella, pure pork",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+907,908,0.15843178784108086,13,True,group:040308:ready|role:deli_alt,0.19559877944917403,False,"Mortadella, pure pork","Mortadella, pork and beef",magnesium_mg|vitamin_b12_ug
+914,917,0.2270543122112091,14,True,group:040308:ready|role:deli_alt,0.22165623716530444,False,"Chitterling sausage, reheated in a frying pan","Chitterling sausage from Troyes, to cook",vitamin_c_mg
+915,916,0.22788943747862175,14,True,group:040308:ready|role:deli_alt,0.22245469986836564,False,"Chitterling sausage, to cook","Chitterling sausage, grilled/pan-fried",vitamin_c_mg
+915,917,0.14529039946932756,14,True,group:040308:ready|role:deli_alt,0.14036386108762586,False,"Chitterling sausage, to cook","Chitterling sausage from Troyes, to cook",vitamin_c_mg
+916,917,0.1884707351394132,14,True,group:040308:ready|role:deli_alt,0.1848455417293448,False,"Chitterling sausage, grilled/pan-fried","Chitterling sausage from Troyes, to cook",vitamin_c_mg
+926,950,0.17678136281297338,14,True,group:0405|role:protein_main,0.17418840179445008,False,"Haddock, steamed","Spiny scorpionfish, steamed",vitamin_c_mg
+931,946,0.17364113570214262,14,True,group:0405|role:protein_main,0.1712149336505475,False,"Whiting, fried","European hake, braised",vitamin_c_mg
+931,950,0.14586016233945095,14,True,group:0405|role:protein_main,0.14091430431475574,False,"Whiting, fried","Spiny scorpionfish, steamed",vitamin_c_mg
+933,950,0.1477391676661007,14,True,group:0405|role:protein_main,0.1506649788062476,False,"Cod, roasted/baked","Spiny scorpionfish, steamed",vitamin_c_mg
+935,950,0.17738557053042686,14,True,group:0405|role:protein_main,0.1747607612932744,False,"Cod, steamed","Spiny scorpionfish, steamed",vitamin_c_mg
+938,951,0.1371772862042306,12,True,group:0405|role:protein_main,0.19004199734248062,False,"Salmon, steamed","Salmon, microwaved, farmed",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+938,952,0.13232837429668035,12,True,group:0405|role:protein_main,0.1872712294743519,False,"Salmon, steamed","Salmon, boiled/cooked in water, farmed",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+938,953,0.13788260413139308,14,True,group:0405|role:protein_main,0.13754113609442192,False,"Salmon, steamed","Salmon, grilled/pan-fried without added fat",vitamin_c_mg
+938,963,0.17451286865681664,14,True,group:0405|role:protein_main,0.17204016295408864,False,"Salmon, steamed","European bass, roasted/baked",vitamin_c_mg
+939,949,0.2285676240418661,14,True,group:0405|role:protein_main,0.23863131587001812,True,"Tuna, roasted/baked","Snapper, cooked",vitamin_c_mg
+940,941,0.20602688636389332,14,True,group:0405|role:protein_main,0.20196699022870224,False,"Common sole, steamed","Common sole, roasted/baked",vitamin_c_mg
+940,942,0.13764011195658704,12,True,group:0405|role:protein_main,0.1677417124340055,False,"Common sole, steamed","Common sole, boiled/cooked in water",zinc_mg|vitamin_c_mg|vitamin_b12_ug
+944,953,0.14727635675373676,14,True,group:0405|role:protein_main,0.146347859586798,False,"Swordfish, roasted/baked","Salmon, grilled/pan-fried without added fat",vitamin_c_mg
+947,950,0.196334070590532,14,True,group:0405|role:protein_main,0.19274505238932838,False,"Haddock, grilled/pan-fried without added fat","Spiny scorpionfish, steamed",vitamin_c_mg
+951,952,0.07083285451214935,12,True,group:0405|role:protein_main,0.06335483109180746,False,"Salmon, microwaved, farmed","Salmon, boiled/cooked in water, farmed",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+951,953,0.05667261562982387,12,True,group:0405|role:protein_main,0.17998653290336558,False,"Salmon, microwaved, farmed","Salmon, grilled/pan-fried without added fat",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+951,954,0.09820304087468146,12,True,group:0405|role:protein_main,0.2514558662158859,True,"Salmon, microwaved, farmed","Salmon, farmed, roasted/baked",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+951,963,0.13408697804194095,12,True,group:0405|role:protein_main,0.17613754692465608,False,"Salmon, microwaved, farmed","European bass, roasted/baked",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+952,953,0.107924784979373,12,True,group:0405|role:protein_main,0.19784825272665113,False,"Salmon, boiled/cooked in water, farmed","Salmon, grilled/pan-fried without added fat",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+952,954,0.11603696353905806,12,True,group:0405|role:protein_main,0.2574619280411101,True,"Salmon, boiled/cooked in water, farmed","Salmon, farmed, roasted/baked",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+952,963,0.13632335433877002,12,True,group:0405|role:protein_main,0.17750556848402965,False,"Salmon, boiled/cooked in water, farmed","European bass, roasted/baked",sat_fat_g|vitamin_c_mg|vitamin_b12_ug
+953,954,0.09228403767268521,14,True,group:0405|role:protein_main,0.2146879388539269,False,"Salmon, grilled/pan-fried without added fat","Salmon, farmed, roasted/baked",vitamin_c_mg
+954,963,0.17255912688471506,14,True,group:0405|role:protein_main,0.2567759058801785,True,"Salmon, farmed, roasted/baked","European bass, roasted/baked",vitamin_c_mg
+967,1021,0.231684196934334,12,True,group:0406,0.4308989662240734,True,"Atlantic herring, raw","European sprat, raw",sodium_mg|calcium_mg|vitamin_b12_ug
+971,1030,0.11732078935612407,14,True,group:0406,0.14019213001715036,False,"Cod, raw","Grenadier, from any fishing spot, raw",vitamin_c_mg
+971,1042,0.08676586935316276,14,True,group:0406,0.11761677271367628,False,"Cod, raw","Nile perch, raw",vitamin_c_mg
+972,1001,0.11263965928981987,13,True,group:0406,0.19037404810714126,False,"European hake, raw","Common dentex, raw",magnesium_mg|vitamin_b12_ug
+973,991,0.16761618053193747,12,True,group:0406,0.15193615790236764,False,"Saithe, frozen, raw","Pond smelt, raw",calcium_mg|iron_mg|zinc_mg
+975,1021,0.20682536217272865,12,True,group:0406,0.2613144389890637,True,"Mackerel, raw","European sprat, raw",sodium_mg|calcium_mg|vitamin_b12_ug
+976,1024,0.13876231558729366,14,True,group:0406,0.1340571328899405,False,"Ray, raw","Blue ling, raw",vitamin_c_mg
+978,1022,0.23195393354795335,14,True,group:0406,0.2244568880883197,False,"European plaice, raw","Turbot, raw",zinc_mg
+981,987,0.1088141140436728,14,True,group:0406,0.2098655242058008,False,"Yellowfin tuna, raw","Albacore, raw",vitamin_c_mg
+983,989,0.19667450149266796,14,True,group:0406,0.19214494217920997,False,"Skipjack tuna, raw","Gilthead seabream, wild, raw",vitamin_b12_ug
+984,991,0.1142461457172298,12,True,group:0406,0.13642427381542732,False,"European bass, raw","Pond smelt, raw",calcium_mg|iron_mg|zinc_mg
+984,1027,0.11829524385375118,14,True,group:0406,0.12717754380862767,False,"European bass, raw","Mediterranean bass, raw, wild",vitamin_c_mg
+986,991,0.15546012791808184,12,True,group:0406,0.16348215742765884,False,"Atlantic bass, raw","Pond smelt, raw",calcium_mg|iron_mg|zinc_mg
+986,1020,0.12466491868883603,14,True,group:0406,0.13945710019016586,False,"Atlantic bass, raw","Spotted wolffish, raw",zinc_mg
+987,1010,0.1882929776282672,14,True,group:0406,0.18190829849820264,False,"Albacore, raw","Saithe, raw",vitamin_c_mg
+989,995,0.19824491181003812,14,True,group:0406,0.2513050012115543,True,"Gilthead seabream, wild, raw","Sea trout, raw",vitamin_b12_ug
+989,1036,0.18093154610332568,14,True,group:0406,0.18881064227871897,False,"Gilthead seabream, wild, raw","Carp, raw, farmed",vitamin_b12_ug
+990,1019,0.13844944311188762,14,True,group:0406,0.13553962023385852,False,"Swordfish, raw","Arctic char, raw",vitamin_b12_ug
+990,1037,0.15669760640274683,14,True,group:0406,0.15727354292677256,False,"Swordfish, raw","Trout, raw, farmed",vitamin_c_mg
+991,1010,0.13545509707553627,12,True,group:0406,0.1956633069254528,False,"Pond smelt, raw","Saithe, raw",calcium_mg|iron_mg|zinc_mg
+992,1033,0.18909783283801435,14,True,group:0406,0.18268586250290791,False,"Surmullet or red mullet, raw","Horse mackerel, oily (autumn, winter), raw",vitamin_c_mg
+993,1019,0.1527938500653433,14,True,group:0406,0.163967107872249,False,"Gilthead seabream, raw, farmed","Arctic char, raw",vitamin_b12_ug
+993,1027,0.15325211301170547,14,True,group:0406,0.1480556071201483,False,"Gilthead seabream, raw, farmed","Mediterranean bass, raw, wild",vitamin_c_mg
+993,1028,0.07935836182642454,14,True,group:0406,0.07666746127914242,False,"Gilthead seabream, raw, farmed","Mediterranean bass, raw, farmed",vitamin_c_mg
+993,1037,0.13241986857599583,14,True,group:0406,0.12792974694770984,False,"Gilthead seabream, raw, farmed","Trout, raw, farmed",vitamin_c_mg
+994,1019,0.16329232595992205,14,True,group:0406,0.24229888360560184,True,"Mullet, raw","Arctic char, raw",vitamin_b12_ug
+994,1027,0.1719981989526526,14,True,group:0406,0.19255764664414216,False,"Mullet, raw","Mediterranean bass, raw, wild",vitamin_c_mg
+994,1032,0.1571114099401917,14,True,group:0406,0.1802933378105611,False,"Mullet, raw","Horse mackerel, lean (spring, summer), raw",vitamin_c_mg
+994,1033,0.18009739840742128,14,True,group:0406,0.19934900782284104,False,"Mullet, raw","Horse mackerel, oily (autumn, winter), raw",vitamin_c_mg
+995,1034,0.19371412231539972,14,True,group:0406,0.19290456059008554,False,"Sea trout, raw","Atlantic herring, lean, raw",vitamin_c_mg
+997,1017,0.1566668725763059,14,True,group:0406,0.19200179598437148,False,"Black seabream, raw","Garfish, raw",vitamin_c_mg
+997,1018,0.18811321902857908,13,True,group:0406,0.1789030952619678,False,"Black seabream, raw","Freshwater bream, raw",vitamin_c_mg|vitamin_b12_ug
+997,1039,0.23457771064166522,14,True,group:0406,0.29961577347698953,True,"Black seabream, raw","European perch, raw",vitamin_c_mg
+998,1005,0.2143849384609976,14,True,group:0406,0.2071155274631303,False,"Bogue, raw","Conger, raw",sat_fat_g
+1000,1028,0.14060928210062335,14,True,group:0406,0.18441505639902064,False,"Atlantic chub mackerel, raw","Mediterranean bass, raw, farmed",vitamin_c_mg
+1000,1037,0.09571258594480393,14,True,group:0406,0.1552616501125874,False,"Atlantic chub mackerel, raw","Trout, raw, farmed",vitamin_c_mg
+1001,1014,0.11899406778992103,12,True,group:0406,0.30308945595577863,True,"Common dentex, raw","Crevalle jack, raw",sat_fat_g|magnesium_mg|vitamin_b12_ug
+1001,1016,0.05948686381247108,13,True,group:0406,0.13325447728186446,False,"Common dentex, raw","Shark, raw",magnesium_mg|vitamin_b12_ug
+1001,1020,0.10752314757744989,12,True,group:0406,0.10062370033134228,False,"Common dentex, raw","Spotted wolffish, raw",magnesium_mg|zinc_mg|vitamin_b12_ug
+1001,1032,0.10478857782457636,12,True,group:0406,0.25200193579466174,True,"Common dentex, raw","Horse mackerel, lean (spring, summer), raw",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1003,1028,0.13648206729129783,14,True,group:0406,0.24629218271192058,True,"Surmullet or red mullet, steamed","Mediterranean bass, raw, farmed",vitamin_c_mg
+1003,1037,0.14022184106890315,14,True,group:0406,0.2482451650101945,True,"Surmullet or red mullet, steamed","Trout, raw, farmed",vitamin_c_mg
+1004,1024,0.11017477309272038,14,True,group:0406,0.10643894298750306,False,"Haddock, raw","Blue ling, raw",vitamin_c_mg
+1004,1030,0.10582744122414563,14,True,group:0406,0.10223902139095424,False,"Haddock, raw","Grenadier, from any fishing spot, raw",vitamin_c_mg
+1004,1042,0.053094222109603906,14,True,group:0406,0.05129389170907541,False,"Haddock, raw","Nile perch, raw",vitamin_c_mg
+1006,1024,0.13889413167245818,14,True,group:0406,0.13418447932669564,False,"Roundnose grenadier, raw","Blue ling, raw",vitamin_c_mg
+1010,1032,0.15057328281178328,14,True,group:0406,0.1454676112757388,False,"Saithe, raw","Horse mackerel, lean (spring, summer), raw",vitamin_c_mg
+1013,1021,0.22392505098257937,12,True,group:0406,0.2705846535813782,True,"Greenland halibut, raw","European sprat, raw",sodium_mg|calcium_mg|vitamin_b12_ug
+1014,1018,0.1411772723032509,13,True,group:0406,0.3126418045084109,True,"Crevalle jack, raw","Freshwater bream, raw",sat_fat_g|vitamin_b12_ug
+1014,1032,0.1668567102013696,13,True,group:0406,0.1561003411973615,False,"Crevalle jack, raw","Horse mackerel, lean (spring, summer), raw",sat_fat_g|vitamin_c_mg
+1014,1034,0.150852538780963,13,True,group:0406,0.14366043166556147,False,"Crevalle jack, raw","Atlantic herring, lean, raw",sat_fat_g|vitamin_c_mg
+1015,1023,0.20262719866781143,12,True,group:0406,0.2989325547778728,True,"Bigeye scad, raw","Grouper, raw",sat_fat_g|zinc_mg|vitamin_b12_ug
+1016,1020,0.18931712490852223,14,True,group:0406,0.18291656938703932,False,"Shark, raw","Spotted wolffish, raw",zinc_mg
+1018,1038,0.13522793697608557,14,True,group:0406,0.18715158906570126,False,"Freshwater bream, raw","Rainbow trout, raw, farmed",vitamin_b12_ug
+1018,1041,0.15027719704852205,14,True,group:0406,0.209010245597644,False,"Freshwater bream, raw","Salmon trout, raw",vitamin_b12_ug
+1019,1028,0.14143355469874785,13,True,group:0406,0.18786844427867608,False,"Arctic char, raw","Mediterranean bass, raw, farmed",vitamin_c_mg|vitamin_b12_ug
+1019,1037,0.1554862395805277,13,True,group:0406,0.14747542155081136,False,"Arctic char, raw","Trout, raw, farmed",vitamin_c_mg|vitamin_b12_ug
+1020,1036,0.19094748342892148,14,True,group:0406,0.18772816332188788,False,"Spotted wolffish, raw","Carp, raw, farmed",zinc_mg
+1024,1042,0.11868470704531947,14,True,group:0406,0.11466032025365656,False,"Blue ling, raw","Nile perch, raw",vitamin_c_mg
+1026,1030,0.13538132210675743,14,True,group:0406,0.1307907828697498,False,"Turbot, farmed, raw","Grenadier, from any fishing spot, raw",vitamin_c_mg
+1027,1028,0.12180115932831245,14,True,group:0406,0.1176710991966148,False,"Mediterranean bass, raw, wild","Mediterranean bass, raw, farmed",vitamin_c_mg
+1029,1030,0.11038211193546278,14,True,group:0406,0.10663925133978966,False,"Golden redfish, raw","Grenadier, from any fishing spot, raw",vitamin_c_mg
+1029,1042,0.10897459392687414,14,True,group:0406,0.10527945975715605,False,"Golden redfish, raw","Nile perch, raw",vitamin_c_mg
+1030,1042,0.08383651293065107,14,True,group:0406,0.08099376626432314,False,"Grenadier, from any fishing spot, raw","Nile perch, raw",vitamin_c_mg
+1032,1034,0.11016155618716506,14,True,group:0406,0.10642617424364834,False,"Horse mackerel, lean (spring, summer), raw","Atlantic herring, lean, raw",vitamin_c_mg
+1033,1034,0.18861069962393034,14,True,group:0406,0.18221524710751635,False,"Horse mackerel, oily (autumn, winter), raw","Atlantic herring, lean, raw",vitamin_c_mg
+1064,1091,0.21442815043013239,13,True,group:0409|role:protein_main,0.31840284400420854,True,"Salmon carpaccio, with marinade, home-made","Tuna, whole slice, in sunflower oil, canned, drained",sugars_g|vitamin_c_mg
+1064,1096,0.1800442976086674,13,True,group:0409|role:protein_main,0.2994920158811087,True,"Salmon carpaccio, with marinade, home-made","Tuna, flaked, in sunflower oil, canned, drained",sugars_g|vitamin_c_mg
+1068,1094,0.12752378537195427,14,True,group:0409|role:protein_main,0.12319968119501275,False,"Atlantic herring, smoked, canned in brine","Atlantic herring, smoked, in oil",vitamin_c_mg
+1076,1091,0.2253888100589489,13,True,group:0409|role:protein_main,0.21040509808999175,False,"Tuna, canned in brine, drained","Tuna, whole slice, in sunflower oil, canned, drained",sugars_g|vitamin_c_mg
+1076,1092,0.1657353211348673,14,True,group:0409|role:protein_main,0.1601155319144037,False,"Tuna, canned in brine, drained","Yellowfin tuna, canned in brine, drained",vitamin_c_mg
+1083,1087,0.17877042386404948,14,True,group:0409|role:protein_main,0.17404307929124188,False,"Mackerel, fillet, in mustard sauce, canned, drained","Mackerel, fillet (grilled or not grilled), canned in brine, drained",vitamin_c_mg
+1083,1096,0.23292470557216577,14,True,group:0409|role:protein_main,0.22502664412943366,False,"Mackerel, fillet, in mustard sauce, canned, drained","Tuna, flaked, in sunflower oil, canned, drained",vitamin_c_mg
+1090,1091,0.22652236999742334,13,True,group:0409|role:protein_main,0.21145749279021755,False,"Albacore, in olive oil, canned, drained","Tuna, whole slice, in sunflower oil, canned, drained",sugars_g|vitamin_c_mg
+1091,1096,0.12114623198730685,13,True,group:0409|role:protein_main,0.11309142176757622,False,"Tuna, whole slice, in sunflower oil, canned, drained","Tuna, flaked, in sunflower oil, canned, drained",sugars_g|vitamin_c_mg
+1098,1099,0.21080422625472253,14,True,group:0409|role:protein_main,0.20478911181247686,False,"Rillette, fish, prepacked","Rillettes, salmon, prepacked",vitamin_c_mg
+1098,1100,0.22266119715948135,14,True,group:0409|role:protein_main,0.21618401444835889,False,"Rillette, fish, prepacked","Rillettes, tuna, prepacked",vitamin_c_mg
+1099,1100,0.12799753037306313,14,True,group:0409|role:protein_main,0.1236573623478589,False,"Rillettes, salmon, prepacked","Rillettes, tuna, prepacked",vitamin_c_mg
+1099,1101,0.22372695330124076,14,True,group:0409|role:protein_main,0.21720854715021287,False,"Rillettes, salmon, prepacked","Seafood terrine, with or without fish, prepacked",vitamin_c_mg
+1121,1122,0.1541138186235044,14,True,group:041003:ready,0.14888809383114057,False,"Omelette with mushrooms, homemade","Omelette with herbs, homemade",vitamin_c_mg
+1124,1133,0.1068700898216657,13,True,group:050101|role:milk_alt,0.10040099481555081,False,"Milk, whole, UHT","Goat milk, whole, raw",potassium_mg|vitamin_b12_ug
+1125,1133,0.14089292849827495,13,True,group:050101|role:milk_alt,0.1410525834471041,False,"Milk, whole, pasteurised","Goat milk, whole, raw",potassium_mg|vitamin_b12_ug
+1126,1133,0.1282262211454739,13,True,group:050101|role:milk_alt,0.1196227279683566,False,"Milk, semi-skimmed, UHT, fortified with vitamin D","Goat milk, whole, raw",potassium_mg|vitamin_b12_ug
+1131,1133,0.1105318746893291,13,True,group:050101|role:milk_alt,0.12135065569801068,False,"Goat milk, whole, UHT","Goat milk, whole, raw",potassium_mg|vitamin_b12_ug
+1132,1133,0.11166500786655437,13,True,group:050101|role:milk_alt,0.12835469287028553,False,"Goat milk, half skimmed, UHT","Goat milk, whole, raw",potassium_mg|vitamin_b12_ug
+1135,1138,0.11388641487468162,13,True,group:050103,0.13350051509575492,False,"Milk powder, whole","Milk powder, semi-skimmed",zinc_mg|vitamin_c_mg
+1172,1174,0.1280497561420246,13,True,group:050203,0.12396868727416112,False,"Flan with eggs, refrigerated","Milk jelly, flavoured, refrigerated",vitamin_c_mg|vitamin_b12_ug
+1172,1178,0.13107185491625756,13,True,group:050203,0.14699571505176898,False,"Flan with eggs, refrigerated","Milkshake, from fast food",vitamin_c_mg|vitamin_b12_ug
+1172,1186,0.13472361305655167,13,True,group:050203,0.15117434381471564,False,"Flan with eggs, refrigerated","Floating island (meringue poached in milk and served in a light custard cream), refrigerated",vitamin_c_mg|vitamin_b12_ug
+1172,1187,0.11518294347474554,13,True,group:050203,0.12125697533686661,False,"Flan with eggs, refrigerated","Semolina pudding, refrigerated",vitamin_c_mg|vitamin_b12_ug
+1172,1188,0.13649291626964957,13,True,group:050203,0.13599420903137377,False,"Flan with eggs, refrigerated","Custard dessert, vanilla, refrigerated",vitamin_c_mg|vitamin_b12_ug
+1200,1201,0.10917309435129967,14,True,group:050301|role:cheese_alt,0.10764246463223971,False,"Camembert cheese, from cow's milk","Camembert cheese, from cow's milk, from raw milk or thermised milk",vitamin_c_mg
+1200,1203,0.0800151316119105,13,True,group:050301|role:cheese_alt,0.08727545736251999,False,"Camembert cheese, from cow's milk","Coulommiers cheese, from cow's milk",vitamin_c_mg|vitamin_b12_ug
+1201,1203,0.08460808908924242,13,True,group:050301|role:cheese_alt,0.08999083978711683,False,"Camembert cheese, from cow's milk, from raw milk or thermised milk","Coulommiers cheese, from cow's milk",vitamin_c_mg|vitamin_b12_ug
+1201,1205,0.12137137922582343,14,True,group:050301|role:cheese_alt,0.11725589217106917,False,"Camembert cheese, from cow's milk, from raw milk or thermised milk","Brie de Meaux cheese, from cow's milk",vitamin_c_mg
+1201,1228,0.15942575559720817,14,True,group:050301|role:cheese_alt,0.15551480125196793,False,"Camembert cheese, from cow's milk, from raw milk or thermised milk","Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese",vitamin_c_mg
+1203,1204,0.1417102864588976,13,True,group:050301|role:cheese_alt,0.16303549150969385,False,"Coulommiers cheese, from cow's milk","Brie cheese, from cow's milk",vitamin_c_mg|vitamin_b12_ug
+1203,1214,0.1303746645343292,13,True,group:050301|role:cheese_alt,0.1260045423417804,False,"Coulommiers cheese, from cow's milk","Munster cheese, from cow's milk",vitamin_c_mg|vitamin_b12_ug
+1203,1228,0.12218813516985393,13,True,group:050301|role:cheese_alt,0.14390802104239625,False,"Coulommiers cheese, from cow's milk","Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese",vitamin_c_mg|vitamin_b12_ug
+1206,1225,0.12382644758227467,13,True,group:050301|role:cheese_alt,0.13724467151759684,False,"Brie de Melun cheese, from cow's milk","Cheese, buche, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1207,1217,0.10567194460640501,12,True,group:050301|role:cheese_alt,0.09798175436576634,False,"Carré de l'Est cheese, from cow's milk","Reblochon cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1207,1219,0.1613293273847851,12,True,group:050301|role:cheese_alt,0.14429733711867915,False,"Carré de l'Est cheese, from cow's milk","Vacherin cheese or Mont d'or cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1208,1213,0.07162872499937514,14,True,group:050301|role:cheese_alt,0.06919992265434288,False,"Chaource cheese, from cow's milk","Époisses cheese, from cow's milk",vitamin_c_mg
+1213,1220,0.11229376880440585,14,True,group:050301|role:cheese_alt,0.10848608733294267,False,"Époisses cheese, from cow's milk","Saint-Felicien cheese, from cow's milk",vitamin_c_mg
+1213,1222,0.10117001789648417,13,True,group:050301|role:cheese_alt,0.10855851916235908,False,"Époisses cheese, from cow's milk","Cheese, lactic, matured, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1213,1223,0.10527320381772234,13,True,group:050301|role:cheese_alt,0.11188871114108889,False,"Époisses cheese, from cow's milk","Cheese, from goat's milk, from raw milk",vitamin_c_mg|vitamin_b12_ug
+1218,1225,0.11343584770599505,13,True,group:050301|role:cheese_alt,0.12572419548821384,False,"Saint-Marcellin cheese, from cow's milk","Cheese, buche, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1220,1237,0.13024849762633173,12,True,group:050301|role:cheese_alt,0.11826184250242437,False,"Saint-Felicien cheese, from cow's milk","Chevrot cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1222,1223,0.04603580262626923,13,True,group:050301|role:cheese_alt,0.04285699989871948,False,"Cheese, lactic, matured, from goat's milk","Cheese, from goat's milk, from raw milk",vitamin_c_mg|vitamin_b12_ug
+1222,1234,0.07866062581672517,12,True,group:050301|role:cheese_alt,0.07202497701306206,False,"Cheese, lactic, matured, from goat's milk","Picodon cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1222,1235,0.06922121127796181,12,True,group:050301|role:cheese_alt,0.06380331451625079,False,"Cheese, lactic, matured, from goat's milk","Pouligny Saint-Pierre cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1222,1239,0.051121621816488785,13,True,group:050301|role:cheese_alt,0.04759163989814831,False,"Cheese, lactic, matured, from goat's milk","Valençay cheese, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1223,1234,0.08079832261446071,12,True,group:050301|role:cheese_alt,0.07539456599695214,False,"Cheese, from goat's milk, from raw milk","Picodon cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1223,1235,0.0608011203601141,12,True,group:050301|role:cheese_alt,0.05847278359764019,False,"Cheese, from goat's milk, from raw milk","Pouligny Saint-Pierre cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1223,1239,0.05692586395715655,13,True,group:050301|role:cheese_alt,0.052995095266444574,False,"Cheese, from goat's milk, from raw milk","Valençay cheese, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1225,1236,0.09799653945878771,12,True,group:050301|role:cheese_alt,0.3120701513952304,True,"Cheese, buche, from goat's milk","Sainte Maure cheese, from goat's milk",zinc_mg|vitamin_c_mg|vitamin_b12_ug
+1229,1232,0.09576694549427216,13,True,group:050301|role:cheese_alt,0.3109956180995635,True,"Chabichou cheese, from goat's milk","Crottin cheese, from goat's milk",vitamin_c_mg|vitamin_b12_ug
+1229,1234,0.10256957295178931,12,True,group:050301|role:cheese_alt,0.16276172897610344,False,"Chabichou cheese, from goat's milk","Picodon cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1229,1235,0.08655804903620413,12,True,group:050301|role:cheese_alt,0.15514123650804046,False,"Chabichou cheese, from goat's milk","Pouligny Saint-Pierre cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1230,1231,0.08421904164398746,12,True,group:050301|role:cheese_alt,0.07532780084633664,False,"Pélardon cheese, from goat's milk","Crottin cheese, from goat's milk, from raw milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1230,1233,0.11588059546859171,12,True,group:050301|role:cheese_alt,0.23123737059059818,False,"Pélardon cheese, from goat's milk","Crottin de Chavignol cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1231,1232,0.14132333853086795,12,True,group:050301|role:cheese_alt,0.35046055850564584,True,"Crottin cheese, from goat's milk, from raw milk","Crottin cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1231,1233,0.13562003007122486,12,True,group:050301|role:cheese_alt,0.23967124499602632,True,"Crottin cheese, from goat's milk, from raw milk","Crottin de Chavignol cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1233,1234,0.05535374567066371,12,True,group:050301|role:cheese_alt,0.2125542315752555,False,"Crottin de Chavignol cheese, from goat's milk","Picodon cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1234,1239,0.060460795283709824,12,True,group:050301|role:cheese_alt,0.05547193508799897,False,"Picodon cheese, from goat's milk","Valençay cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1235,1238,0.09253605701499859,12,True,group:050301|role:cheese_alt,0.08721693378451637,False,"Pouligny Saint-Pierre cheese, from goat's milk","Rocamadour cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1235,1239,0.0793225803181836,12,True,group:050301|role:cheese_alt,0.0720165728704441,False,"Pouligny Saint-Pierre cheese, from goat's milk","Valençay cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1236,1239,0.09110753197880836,12,True,group:050301|role:cheese_alt,0.3121073882288518,True,"Sainte Maure cheese, from goat's milk","Valençay cheese, from goat's milk",zinc_mg|vitamin_c_mg|vitamin_b12_ug
+1237,1238,0.08236360442971205,12,True,group:050301|role:cheese_alt,0.07863502227499858,False,"Chevrot cheese, from goat's milk","Rocamadour cheese, from goat's milk",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+1240,1244,0.13001628565488385,12,True,group:050302|role:cheese_alt,0.12374294315263419,False,"Roquefort cheese, from ewe's milk","Causses blue cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1241,1242,0.11453840942800732,14,True,group:050302|role:cheese_alt,0.11065461619537002,False,"Blue cheese, from cow's milk","Auvergne blue cheese, from cow's milk",vitamin_c_mg
+1242,1243,0.10254229825729602,14,True,group:050302|role:cheese_alt,0.09906527176444009,False,"Auvergne blue cheese, from cow's milk","Fourme d'Ambert cheese, from cow's milk",vitamin_c_mg
+1242,1245,0.13545606620949882,14,True,group:050302|role:cheese_alt,0.1326191644470601,False,"Auvergne blue cheese, from cow's milk","Gorgonzola cheese, from cow's milk",vitamin_c_mg
+1243,1245,0.1367744844661401,14,True,group:050302|role:cheese_alt,0.13387617011549974,False,"Fourme d'Ambert cheese, from cow's milk","Gorgonzola cheese, from cow's milk",vitamin_c_mg
+1246,1247,0.08935766451860712,12,True,group:050303|role:cheese_alt,0.15715108328667382,False,"Beaufort cheese, from cow's milk","Comté cheese, from cow's milk",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1246,1249,0.07570257551063064,12,True,group:050303|role:cheese_alt,0.0684348158608855,False,"Beaufort cheese, from cow's milk","Gruyere cheese, France, Protected Geographical Indication, from cow's milk",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1246,1250,0.08791494167543462,12,True,group:050303|role:cheese_alt,0.09771600598620274,False,"Beaufort cheese, from cow's milk","Gruyere cheese, from cow's milk",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1246,1255,0.09624885934042789,12,True,group:050303|role:cheese_alt,0.14858001761030903,False,"Beaufort cheese, from cow's milk","Parmesan cheese, from cow's milk",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1247,1251,0.1480845167615415,14,True,group:050303|role:cheese_alt,0.1430632348445935,False,"Comté cheese, from cow's milk","Emmental cheese, from cow's milk",vitamin_c_mg
+1247,1255,0.1287301893339161,14,True,group:050303|role:cheese_alt,0.12621179620026493,False,"Comté cheese, from cow's milk","Parmesan cheese, from cow's milk",vitamin_c_mg
+1249,1250,0.1015709418697345,14,True,group:050303|role:cheese_alt,0.09812685233997533,False,"Gruyere cheese, France, Protected Geographical Indication, from cow's milk","Gruyere cheese, from cow's milk",vitamin_c_mg
+1249,1253,0.10589029808955065,14,True,group:050303|role:cheese_alt,0.10453687472885036,False,"Gruyere cheese, France, Protected Geographical Indication, from cow's milk","Emmental cheese, grated, from cow's milk",vitamin_c_mg
+1249,1261,0.1032261592662524,14,True,group:050303|role:cheese_alt,0.09972594426596117,False,"Gruyere cheese, France, Protected Geographical Indication, from cow's milk","Cheddar cheese, from cow's milk",vitamin_c_mg
+1249,1266,0.1060444897794758,14,True,group:050303|role:cheese_alt,0.10244871021678795,False,"Gruyere cheese, France, Protected Geographical Indication, from cow's milk","Firm cheese, Maasdam-type, from cow's milk",vitamin_c_mg
+1254,1268,0.07734359062525067,12,True,group:050303|role:cheese_alt,0.12991811320764807,False,"Ossau-Iraty cheese, from ewe's milk","Pyrénées firm cheese, from ewe's milk",potassium_mg|zinc_mg|vitamin_c_mg
+1259,1268,0.12139519950680663,12,True,group:050303|role:cheese_alt,0.13346822020158913,False,"Provolone cheese, from cow's milk","Pyrénées firm cheese, from ewe's milk",potassium_mg|zinc_mg|vitamin_c_mg
+1259,1272,0.1296279705246391,13,True,group:050303|role:cheese_alt,0.13180834407214245,False,"Provolone cheese, from cow's milk","Asiago cheese, from cow's milk",magnesium_mg|vitamin_b12_ug
+1260,1269,0.07533005384017968,12,True,group:050303|role:cheese_alt,0.07815389951946754,False,"Salers cheese, from cow's milk","Raclette cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1261,1268,0.07002266302520846,12,True,group:050303|role:cheese_alt,0.06806387951714342,False,"Cheddar cheese, from cow's milk","Pyrénées firm cheese, from ewe's milk",potassium_mg|zinc_mg|vitamin_c_mg
+1263,1268,0.07942353064541878,12,True,group:050303|role:cheese_alt,0.0888730952734346,False,"Gouda cheese, from cow's milk","Pyrénées firm cheese, from ewe's milk",potassium_mg|zinc_mg|vitamin_c_mg
+1265,1272,0.10750767077490306,13,True,group:050303|role:cheese_alt,0.20926840142473513,False,"Mimolette cheese, from cow's milk","Asiago cheese, from cow's milk",magnesium_mg|vitamin_b12_ug
+1267,1269,0.04815583289174416,12,True,group:050303|role:cheese_alt,0.05905041171746763,False,"Morbier cheese, from cow's milk","Raclette cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1269,1270,0.05342262197531093,12,True,group:050303|role:cheese_alt,0.09500909724774971,False,"Raclette cheese, from cow's milk","Saint-Nectaire cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1269,1271,0.03964553915437532,12,True,group:050303|role:cheese_alt,0.21378669163955916,False,"Raclette cheese, from cow's milk","Saint-Paulin, firm cheese, from cow's milk (semi-hard cheese)",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1276,1277,0.1124155725426215,14,True,group:050305|role:cheese_alt,0.10860376092358115,False,"Feta-type cheese, 100% from cow's milk","Feta-type cheese, 100% from cow's milk, in oil and spices",vitamin_c_mg
+1288,1289,0.07140062557474276,13,True,group:0601,0.06647036498673171,False,"Water, municipal","Spring water, bottled",vitamin_c_mg|vitamin_b12_ug
+1305,1312,0.1033279250865557,14,True,group:060202|role:fruit_or_juice,0.1110897992293585,False,Apricot nectar,Orange nectar,iron_mg
+1307,1312,0.08177709684201165,14,True,group:060202|role:fruit_or_juice,0.07904860030966038,False,"Multifruit nectar, multivitamin",Orange nectar,iron_mg
+1308,1312,0.05462257382417865,14,True,group:060202|role:fruit_or_juice,0.07362556666993832,False,"Multifruit nectar, standard",Orange nectar,iron_mg
+1336,1339,0.23452660897674255,14,True,group:060205|role:milk_alt,0.22657422984588202,False,"Soy drink, plain, not fortified, prepacked","Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",vitamin_b12_ug
+1337,1339,0.2026633636003731,13,True,group:060205|role:milk_alt,0.18866932382621568,False,"Soy drink, plain, fortified with calcium, prepacked","Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",vitamin_c_mg|vitamin_b12_ug
+1338,1339,0.21736773722089675,14,True,group:060205|role:milk_alt,0.2100753435086049,False,"Soy drink, flavoured, with sugar(s), not fortified, prepacked","Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",vitamin_b12_ug
+1340,1341,0.22624091837600843,14,True,group:060205|role:milk_alt,0.21856949223937544,False,"Rice drink, plain, prepacked","Coconut drink, plain, prepacked",vitamin_b12_ug
+1343,1353,0.07701088711999836,12,True,group:060206,0.06888090484295892,False,"Tea, brewed, no added sugars","Green tea, brewed, no added sugars",sugars_g|sat_fat_g|vitamin_b12_ug
+1344,1353,0.11093389004945155,12,True,group:060206,0.09922247745939677,False,"Infusion, brewed, no added sugars","Green tea, brewed, no added sugars",sugars_g|sat_fat_g|vitamin_b12_ug
+1345,1354,0.20926990406207144,13,True,group:060206,0.19486859209612117,False,"Decaffeinated non instant coffee, no added sugars, ready-to-drink","Mix of chicory and coffee, instant, no added sugars, ready-to-drink (reconstituted with water)",sat_fat_g|vitamin_b12_ug
+1347,1353,0.04768926162893905,12,True,group:060206,0.042654682694413054,False,"Decaffeinated instant coffee, no added sugars, ready-to-drink","Green tea, brewed, no added sugars",sugars_g|sat_fat_g|vitamin_b12_ug
+1348,1353,0.058179999001323285,12,True,group:060206,0.052037773079131495,False,"Instant coffee, no added sugars, ready-to-drink","Green tea, brewed, no added sugars",sugars_g|sat_fat_g|vitamin_b12_ug
+1352,1353,0.05638720096038305,12,True,group:060206,0.050434245763343176,False,"Black tea, brewed, no added sugars","Green tea, brewed, no added sugars",sugars_g|sat_fat_g|vitamin_b12_ug
+1360,1361,0.20622145461169156,13,True,group:060301,0.19198172629152419,False,"Wine, sweet",Sparkling fruit wine,vitamin_c_mg|vitamin_b12_ug
+1360,1364,0.1761358433842321,13,True,group:060301,0.1665058328776131,False,"Wine, sweet","Wine, white, sparkling, flavoured",magnesium_mg|vitamin_b12_ug
+1361,1364,0.19415303527329447,12,True,group:060301,0.18312736425760154,False,Sparkling fruit wine,"Wine, white, sparkling, flavoured",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+1362,1364,0.1867858526162416,13,True,group:060301,0.177438450991234,False,"Wine, white, sparkling","Wine, white, sparkling, flavoured",magnesium_mg|vitamin_b12_ug
+1364,1367,0.19984150362587785,13,True,group:060301,0.18611454105801506,False,"Wine, white, sparkling, flavoured","Wine, rose",magnesium_mg|vitamin_b12_ug
+1368,1370,0.07845924472345393,13,True,group:060302,0.10531363199166767,False,"Beer, dark","Beer, strong (>8° alcohol)",sugars_g|vitamin_b12_ug
+1368,1372,0.19526368804208058,14,True,group:060302,0.18864264455121302,False,"Beer, dark","Cider, sweet",vitamin_b12_ug
+1368,1378,0.19677317250546922,14,True,group:060302,0.19010094508797865,False,"Beer, dark","Cider, fruit-flavoured",vitamin_b12_ug
+1368,1379,0.10895495261783479,13,True,group:060302,0.10153316403732106,False,"Beer, dark","Beer, alcohol-free (<1,2° alcohol), without added sugars, flavoured or unflavoured",vitamin_c_mg|vitamin_b12_ug
+1369,1370,0.07722127072146623,14,True,group:060302,0.1381850847463712,False,"Beer, regular (4-5° alcohol)","Beer, strong (>8° alcohol)",sugars_g
+1369,1374,0.0629511557873951,14,True,group:060302,0.06081659434154708,False,"Beer, regular (4-5° alcohol)","Beer, special (5-6° alcohol)",vitamin_b12_ug
+1369,1379,0.17812671647993114,14,True,group:060302,0.17208675713815688,False,"Beer, regular (4-5° alcohol)","Beer, alcohol-free (<1,2° alcohol), without added sugars, flavoured or unflavoured",vitamin_c_mg
+1370,1373,0.09282271744566031,14,True,group:060302,0.10010455294676622,False,"Beer, strong (>8° alcohol)","Beer, low alcohol-content (3° alcohol)",sugars_g
+1370,1374,0.038560165103431424,13,True,group:060302,0.12449773318577965,False,"Beer, strong (>8° alcohol)","Beer, special (5-6° alcohol)",sugars_g|vitamin_b12_ug
+1370,1375,0.05765604846143731,14,True,group:060302,0.11864560786020543,False,"Beer, strong (>8° alcohol)","Beer, from an abbey or brewery (variable alcohol content)",sugars_g
+1371,1376,0.058742379526827974,14,True,group:060302,0.056750530179393965,False,"Cider, dry","Cider, traditionnal",vitamin_b12_ug
+1372,1377,0.08194840695286425,14,True,group:060302,0.07916968259360038,False,"Cider, sweet","Cider, half-dry",vitamin_b12_ug
+1372,1378,0.02524219851366252,14,True,group:060302,0.024386280570905774,False,"Cider, sweet","Cider, fruit-flavoured",vitamin_b12_ug
+1373,1374,0.11260608660855494,14,True,group:060302,0.10878781499724047,False,"Beer, low alcohol-content (3° alcohol)","Beer, special (5-6° alcohol)",vitamin_b12_ug
+1373,1379,0.10206245012071406,14,True,group:060302,0.09860169442256235,False,"Beer, low alcohol-content (3° alcohol)","Beer, alcohol-free (<1,2° alcohol), without added sugars, flavoured or unflavoured",vitamin_c_mg
+1374,1375,0.04802507747370428,14,True,group:060302,0.046396632729092294,False,"Beer, special (5-6° alcohol)","Beer, from an abbey or brewery (variable alcohol content)",vitamin_b12_ug
+1375,1379,0.17122495716395997,14,True,group:060302,0.16541902417420615,False,"Beer, from an abbey or brewery (variable alcohol content)","Beer, alcohol-free (<1,2° alcohol), without added sugars, flavoured or unflavoured",vitamin_c_mg
+1377,1378,0.10371914232613172,14,True,group:060302,0.10020221114930787,False,"Cider, half-dry","Cider, fruit-flavoured",vitamin_b12_ug
+1380,1382,0.04861054354486584,14,True,group:060303,0.048899433266080865,False,Pastis (anise-flavoured spirit),Gin,iron_mg
+1381,1391,0.017997293597150698,14,True,group:060303,0.017387037461872912,False,Fruit brandy or eau-de-vie,"Brandy, Armagnac or Cognac type",magnesium_mg
+1382,1391,0.044495517629764544,14,True,group:060303,0.042986753965975476,False,Gin,"Brandy, Armagnac or Cognac type",magnesium_mg
+1383,1386,0.22673919305995371,14,True,group:060303,0.2190508713172514,False,Liqueur,Wine-based aperitif,vitamin_c_mg
+1383,1389,0.1866697786132305,13,True,group:060303,0.1821507722070525,False,Liqueur,Marsala wine,magnesium_mg|vitamin_b12_ug
+1384,1391,0.042682715292707375,14,True,group:060303,0.0412354205237976,False,Rum,"Brandy, Armagnac or Cognac type",magnesium_mg
+1385,1391,0.03319583818771802,14,True,group:060303,0.03207022650558428,False,Whisky,"Brandy, Armagnac or Cognac type",magnesium_mg
+1387,1391,0.03301620464207636,14,True,group:060303,0.03189668401317448,False,Vodka,"Brandy, Armagnac or Cognac type",magnesium_mg
+1395,1399,0.18132668653541933,14,True,group:060304,0.17517822191841811,False,Sangria,"Cocktail, alcohol-free (juices and syrup-based cocktail)",sat_fat_g
+1397,1399,0.22686379789500974,14,True,group:060304,0.21917125102737184,False,Kir royal (champagne with blackcurrant liqueur),"Cocktail, alcohol-free (juices and syrup-based cocktail)",sat_fat_g
+1413,1423,0.1734399751539999,12,True,group:0702:ready|role:sweet_snack,0.25639674298276144,True,"Dark chocolate, 50% cocoa, bar","Dark chocolate, with fruits (orange, raspberries, pear), bar",potassium_mg|zinc_mg|vitamin_b12_ug
+1413,1431,0.23253125564230057,14,True,group:0702:ready|role:sweet_snack,0.2646185373272289,True,"Dark chocolate, 50% cocoa, bar","Dark chocolate, more than 40% cocoa, for cooking, bar",vitamin_b12_ug
+1419,1421,0.1958773760945491,13,True,group:0702:ready|role:sweet_snack,0.31257869005305977,True,Chocolate spread with hazelnuts,Chocolate-coated peanut,vitamin_c_mg|vitamin_b12_ug
+1421,1422,0.18287115012289723,13,True,group:0702:ready|role:sweet_snack,0.17483772624662572,False,Chocolate-coated peanut,"Chocolate and nut confectionery, filled with praliné",vitamin_c_mg|vitamin_b12_ug
+1423,1429,0.22421802974942096,12,True,group:0702:ready|role:sweet_snack,0.21583300670269576,False,"Dark chocolate, with fruits (orange, raspberries, pear), bar","Dark chocolate, filled with praliné, bar",potassium_mg|zinc_mg|vitamin_b12_ug
+1423,1431,0.16605708668168542,12,True,group:0702:ready|role:sweet_snack,0.16165614797960848,False,"Dark chocolate, with fruits (orange, raspberries, pear), bar","Dark chocolate, more than 40% cocoa, for cooking, bar",potassium_mg|zinc_mg|vitamin_b12_ug
+1429,1431,0.21793325002855365,14,True,group:0702:ready|role:sweet_snack,0.21120755900673102,False,"Dark chocolate, filled with praliné, bar","Dark chocolate, more than 40% cocoa, for cooking, bar",vitamin_b12_ug
+1493,1494,0.20992409574237958,12,True,group:0706|role:sweet_snack,0.30051639181904205,True,"Biscuit (cookie), snack with fruits filling",Wafer biscuit without filling,iron_mg|magnesium_mg|zinc_mg
+1505,1506,0.16460373276907156,14,True,group:0706|role:sweet_snack,0.20692451422452204,False,"Biscuit sponge cake with fruits covering, pre-packed","Soft cake, filled with orange paste and sugar icing coating",calcium_mg
+1544,1548,0.23158681484213403,14,True,group:0709,0.32059225774032407,True,Chou pastry with praline flavoured custard,Sponge sandwich cake filled and topped with strawberries or raspberries,vitamin_c_mg
+1544,1567,0.1611932736717234,14,True,group:0709,0.2985422519161396,True,Chou pastry with praline flavoured custard,"Strawberries tart, from bakery",vitamin_c_mg
+1548,1596,0.2189460507109909,14,True,group:0709,0.3121922292680782,True,Sponge sandwich cake filled and topped with strawberries or raspberries,Mille-feuille pastry,vitamin_c_mg
+1561,1571,0.1968143372151102,14,True,group:0709,0.19014071397571566,False,Chou pastry filled with custard cream,Flan tart with eggs,vitamin_c_mg
+1561,1576,0.213425126104053,14,True,group:0709,0.20618826063178816,False,Chou pastry filled with custard cream,"Crepe, plain, prepacked, refrigerated",vitamin_c_mg
+1561,1596,0.2159885527729353,14,True,group:0709,0.20866476607312168,False,Chou pastry filled with custard cream,Mille-feuille pastry,vitamin_c_mg
+1571,1596,0.20797536092602595,14,True,group:0709,0.20092328727358455,False,Flan tart with eggs,Mille-feuille pastry,vitamin_c_mg
+1574,1580,0.2310655082254277,12,True,group:0709,0.31751091067206527,True,"Soft cake, plain, sponge cake type, prepacked","Crepe filled with jam, home-made",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1574,1585,0.21163817862536105,12,True,group:0709,0.24208142545162614,True,"Soft cake, plain, sponge cake type, prepacked","Doughnut filled with fruit filling (e.g. jam), prepacked-> ARCHIVE",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1574,1593,0.21012021342826284,12,True,group:0709,0.19434634361744227,False,"Soft cake, plain, sponge cake type, prepacked","Madeleine cake, prepacked",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1576,1596,0.23064510848436517,14,True,group:0709,0.22282434411417798,False,"Crepe, plain, prepacked, refrigerated",Mille-feuille pastry,vitamin_c_mg
+1580,1596,0.23139091247978336,14,True,group:0709,0.3280560742860259,True,"Crepe filled with jam, home-made",Mille-feuille pastry,vitamin_c_mg
+1586,1592,0.2101228043510088,14,True,group:0709,0.20299791472108814,False,"Doughnut filled or covered with chocolate or with chocolate and hazelut paste, prepacked","Madeleine cake, with chocolate, prepacked",vitamin_c_mg
+1588,1592,0.09960866595201193,14,True,group:0709,0.09623111369972916,False,"Marble cake, prepacked","Madeleine cake, with chocolate, prepacked",vitamin_c_mg
+1599,1601,0.16728454498230838,14,True,group:0801,0.16750739557029784,False,"Ice cream, cone (normal size)","Ice cream, gourmet, in cup",vitamin_c_mg
+1602,1604,0.135527931676101,14,True,group:0802,0.1309324211700134,False,"Sorbet, stick",Ice lolly,vitamin_b12_ug
+1618,1622,0.02953825430353956,14,True,group:0902|role:fat_spread,0.02960932550301482,False,Cocoa butter,"Palm oil, refined",zinc_mg
+1621,1627,0.022420055195909446,14,True,group:0902|role:fat_spread,0.02165983110095239,False,Frying oil,Linseed oil,vitamin_c_mg
+1621,1629,0.02802612963172387,14,True,group:0902|role:fat_spread,0.02707581354872361,False,Frying oil,Hazelnut oil,vitamin_c_mg
+1621,1631,0.02216207754522787,14,True,group:0902|role:fat_spread,0.021410601012410813,False,Frying oil,Grapeseed oil,vitamin_c_mg
+1621,1634,0.0228149954430116,14,True,group:0902|role:fat_spread,0.022041379628485087,False,Frying oil,Sunflower oil,vitamin_c_mg
+1621,1635,0.013972457370251668,14,True,group:0902|role:fat_spread,0.013498676254825885,False,Frying oil,Combined oil (blended vegetable oils),vitamin_c_mg
+1637,1639,0.0,14,True,group:0904,0.0,False,Cod liver oil,Salmon oil,sat_fat_g
+1638,1639,0.0,14,True,group:0904,0.041483953038302095,False,Sardine oil,Salmon oil,sat_fat_g
+1639,1640,0.0,14,True,group:0904,0.0087741783265221,False,Salmon oil,Herring oil,sat_fat_g
+1648,1658,0.20780202802631165,14,True,group:100101,0.21648832411394675,False,"Tartare sauce, prepacked","Salad dressing, prepacked",vitamin_b12_ug
+1663,1677,0.23443065588837567,14,True,group:100102,0.32857662651608877,True,"Hollandaise sauce, prepacked","Pepper sauce, warm, prepacked",vitamin_c_mg
+1669,1677,0.23556820258464908,14,True,group:100102,0.2585586647509562,True,Cream sauce,"Pepper sauce, warm, prepacked",vitamin_c_mg
+1670,1671,0.20416148913714954,14,True,group:100102,0.19748714863682937,False,"Mushroom sauce, prepacked",Cream sauce with spices,sat_fat_g
+1671,1677,0.22634132281151037,14,True,group:100102,0.23414088430461144,False,Cream sauce with spices,"Pepper sauce, warm, prepacked",vitamin_c_mg
+1672,1677,0.22913277870218585,14,True,group:100102,0.2240123147843573,False,Cream sauce with herbs,"Pepper sauce, warm, prepacked",vitamin_c_mg
+1690,1693,0.08612198434214205,12,True,group:1003:ready,0.27592923673186903,True,"Vanilla, aqueous extract",Syrup for canned fruits,sat_fat_g|potassium_mg|vitamin_b12_ug
+1707,1716,0.15114158588501653,14,True,group:1005:ready,0.18669506597632216,False,"Coriander, seed","Caraway, seed",sugars_g
+1707,1717,0.2095412444163018,14,True,group:1005:ready,0.29955825304621697,True,"Coriander, seed","Fennel, seed",sugars_g
+1738,1743,0.1969793250227844,14,True,group:100602,0.1927616860424527,False,"Marjoram, dried","Herbes de Provence, dried",sugars_g
+1741,1744,0.22350753765890286,14,True,group:100602,0.22687616644926903,False,"Sage, dried","Savory, dried",sugars_g
+1756,1759,0.18119095942409422,13,True,group:1007,0.16867960341059002,False,"Toothed wrack or bladder wrack (Fucus serratus et vesiculosus), dried or dehydrated","North Atlantic rockweed (Ascophyllum nodosum), dried or dehydrated",sugars_g|vitamin_b12_ug
+1773,1774,0.1844974345275465,14,True,group:1101,0.18108532588906034,False,"Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months","Dairy and cereal-based beverage for baby's snack, with fruits, from 4/6 months",potassium_mg
+1773,1778,0.0928335570447974,14,True,group:1101,0.08968573665500185,False,"Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months",Dairy and cereal-based beverage for baby's breakfast,potassium_mg
+1773,1779,0.18194010465571572,14,True,group:1101,0.1757708401204741,False,"Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months","Baby milk, growing-up milk, ready to drink",potassium_mg
+1773,1780,0.23292898855445346,14,True,group:1101,0.22804223571865526,False,"Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months","Baby milk, infant formula, ready to drink",potassium_mg
+1773,1781,0.15470191680477535,14,True,group:1101,0.15245913650947604,False,"Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months","Baby milk, follow-on formula, ready to drink",potassium_mg
+1774,1778,0.1843242945130481,14,True,group:1101,0.18092068604631148,False,"Dairy and cereal-based beverage for baby's snack, with fruits, from 4/6 months",Dairy and cereal-based beverage for baby's breakfast,potassium_mg
+1778,1779,0.15870124875217678,14,True,group:1101,0.15331997238390135,False,Dairy and cereal-based beverage for baby's breakfast,"Baby milk, growing-up milk, ready to drink",potassium_mg
+1778,1780,0.19696850284876172,14,True,group:1101,0.1938415852786648,False,Dairy and cereal-based beverage for baby's breakfast,"Baby milk, infant formula, ready to drink",potassium_mg
+1778,1781,0.15801232990549172,14,True,group:1101,0.15559558933883488,False,Dairy and cereal-based beverage for baby's breakfast,"Baby milk, follow-on formula, ready to drink",potassium_mg
+1782,1783,0.07669495156868107,12,True,group:1101,0.58211467551088,True,"Baby milk, infant formula, powder","Baby milk, follow-on formula, powder",sat_fat_g|potassium_mg|vitamin_c_mg
+1204,1242,0.11157738551003668,14,False,role:cheese_alt,0.10779399531871732,False,"Brie cheese, from cow's milk","Auvergne blue cheese, from cow's milk",vitamin_c_mg
+1205,1277,0.14278407819787994,14,False,role:cheese_alt,0.13960967045628128,False,"Brie de Meaux cheese, from cow's milk","Feta-type cheese, 100% from cow's milk, in oil and spices",vitamin_c_mg
+1211,1269,0.07165614669887525,12,False,role:cheese_alt,0.11748821305964643,False,"Maroilles cheese, from cow's milk","Raclette cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1217,1270,0.1317934467488925,13,False,role:cheese_alt,0.13085036467039216,False,"Reblochon cheese, from cow's milk","Saint-Nectaire cheese, from cow's milk",vitamin_c_mg|vitamin_b12_ug
+1221,1240,0.12109867748461843,13,False,role:cheese_alt,0.12474317387774382,False,"Corsica soft ripened cheese, from ewe's milk","Roquefort cheese, from ewe's milk",sat_fat_g|vitamin_c_mg
+1221,1254,0.15478201363530414,13,False,role:cheese_alt,0.1525588764973472,False,"Corsica soft ripened cheese, from ewe's milk","Ossau-Iraty cheese, from ewe's milk",sat_fat_g|vitamin_c_mg
+1243,1270,0.08733644168376152,14,False,role:cheese_alt,0.0843750186740661,False,"Fourme d'Ambert cheese, from cow's milk","Saint-Nectaire cheese, from cow's milk",vitamin_c_mg
+1243,1271,0.127586872800335,14,False,role:cheese_alt,0.12326062944118696,False,"Fourme d'Ambert cheese, from cow's milk","Saint-Paulin, firm cheese, from cow's milk (semi-hard cheese)",vitamin_c_mg
+1244,1259,0.13402447327377628,12,False,role:cheese_alt,0.19823594523392077,False,"Causses blue cheese, from cow's milk","Provolone cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1244,1262,0.15236537663784946,12,False,role:cheese_alt,0.1903131750411918,False,"Causses blue cheese, from cow's milk","Edam cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+1244,1265,0.14036880793746442,12,False,role:cheese_alt,0.16276889330578478,False,"Causses blue cheese, from cow's milk","Mimolette cheese, from cow's milk",iron_mg|vitamin_c_mg|vitamin_b12_ug
+861,893,0.20463043155930882,13,False,role:deli_alt,0.4649138222098577,True,Pancetta,"Lardoons, plain, cooked",sugars_g|vitamin_c_mg
+862,899,0.19973543532168542,14,False,role:deli_alt,0.3257914362022316,True,Dry sausage,"Spicy pork sausage with red pepper, dry",vitamin_c_mg
+862,900,0.17217076003069406,14,False,role:deli_alt,0.3107603867237417,True,Dry sausage,"Spicy pork sausage with red pepper, in slices",vitamin_c_mg
+863,899,0.19877696931184208,14,False,role:deli_alt,0.3252438521294344,True,"Dry sausage, pure pork","Spicy pork sausage with red pepper, dry",vitamin_c_mg
+863,900,0.18202742394593657,14,False,role:deli_alt,0.3159596222910135,True,"Dry sausage, pure pork","Spicy pork sausage with red pepper, in slices",vitamin_c_mg
+864,899,0.22263688941583548,14,False,role:deli_alt,0.33936431399695044,True,"Dry sausage, pure pork, superior quality","Spicy pork sausage with red pepper, dry",vitamin_c_mg
+864,900,0.17844843297992266,14,False,role:deli_alt,0.31404832813634975,True,"Dry sausage, pure pork, superior quality","Spicy pork sausage with red pepper, in slices",vitamin_c_mg
+865,900,0.20016028932803384,14,False,role:deli_alt,0.24805029697737327,True,Rosette dry sausage,"Spicy pork sausage with red pepper, in slices",vitamin_c_mg
+866,871,0.13075147528056238,12,False,role:deli_alt,0.3618752288201944,True,"Chipolata sausage, cooked","Toulouse sausage, raw",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+866,896,0.18920179384371044,14,False,role:deli_alt,0.4244474030926358,True,"Chipolata sausage, cooked","Pork belly, brined",vitamin_c_mg
+866,906,0.17877994631351415,14,False,role:deli_alt,0.4202097314138761,True,"Chipolata sausage, cooked",Mortadella,vitamin_c_mg
+867,871,0.1683772323940102,12,False,role:deli_alt,0.2773006626772871,True,"Toulouse sausage, cooked","Toulouse sausage, raw",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+867,893,0.21006861568030488,13,False,role:deli_alt,0.1982224875630548,False,"Toulouse sausage, cooked","Lardoons, plain, cooked",sugars_g|vitamin_c_mg
+869,871,0.1361764028957881,12,False,role:deli_alt,0.13484844379704386,False,Montbeliard sausage to cook,"Toulouse sausage, raw",potassium_mg|vitamin_c_mg|vitamin_b12_ug
+869,906,0.11032464141765677,14,False,role:deli_alt,0.10712252906674259,False,Montbeliard sausage to cook,Mortadella,vitamin_c_mg
+870,888,0.16714541771920463,13,False,role:deli_alt,0.15705792307499777,False,"Morteaux sausage, boiled/cooked in water",Rillettes of goose,sugars_g|vitamin_c_mg
+870,896,0.15166937600755964,14,False,role:deli_alt,0.14994920407961881,False,"Morteaux sausage, boiled/cooked in water","Pork belly, brined",vitamin_c_mg
+870,907,0.15257634092792288,13,False,role:deli_alt,0.1616564661042307,False,"Morteaux sausage, boiled/cooked in water","Mortadella, pure pork",magnesium_mg|vitamin_b12_ug
+871,878,0.17597894478640022,12,False,role:deli_alt,0.3477762655408876,True,"Toulouse sausage, raw",Cocktail sausage,potassium_mg|vitamin_c_mg|vitamin_b12_ug
+871,906,0.12993143313276528,12,False,role:deli_alt,0.1544379210428934,False,"Toulouse sausage, raw",Mortadella,potassium_mg|vitamin_c_mg|vitamin_b12_ug
+872,891,0.13161962965365195,14,False,role:deli_alt,0.12740716265355906,False,"Chipolata sausage, raw","Lardoons, plain, raw",vitamin_c_mg
+872,897,0.21241587218789867,14,False,role:deli_alt,0.2058215929480693,False,"Chipolata sausage, raw","Lardoons, smoked, raw",vitamin_c_mg
+872,898,0.18400376757698647,14,False,role:deli_alt,0.1873102126425002,False,"Chipolata sausage, raw","Lardoons, smoked, cooked",vitamin_c_mg
+874,888,0.2076806070337847,13,False,role:deli_alt,0.23798714483269326,True,Frankfurter sausage,Rillettes of goose,sugars_g|vitamin_c_mg
+874,905,0.20694516314888053,14,False,role:deli_alt,0.3794311904985326,True,Frankfurter sausage,Saveloy or cervelat,vitamin_c_mg
+874,907,0.13230969045137841,12,False,role:deli_alt,0.21975251959411776,False,Frankfurter sausage,"Mortadella, pure pork",magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+875,900,0.2222901385479233,14,False,role:deli_alt,0.21710239398979791,False,"Merguez sausage, beef and mutton, cooked","Spicy pork sausage with red pepper, in slices",vitamin_c_mg
+876,883,0.21462740554977602,12,False,role:deli_alt,0.39516683278486764,True,Liver sausage,Pork liver mousse,magnesium_mg|vitamin_c_mg|vitamin_b12_ug
+878,896,0.20109369820688133,14,False,role:deli_alt,0.39892853245243753,True,Cocktail sausage,"Pork belly, brined",vitamin_c_mg
+878,906,0.13629984490105912,14,False,role:deli_alt,0.3724786545769022,True,Cocktail sausage,Mortadella,vitamin_c_mg
+883,903,0.20466341296729262,12,False,role:deli_alt,0.32198131944010694,True,Pork liver mousse,Garlic sausage,zinc_mg|vitamin_c_mg|vitamin_b12_ug
+885,889,0.21527694411829723,13,False,role:deli_alt,0.34269112437845883,True,Pâté in crust,"Fish quenelle, raw",vitamin_c_mg|vitamin_b12_ug
+885,904,0.21478137308589587,14,False,role:deli_alt,0.3225705433927525,True,Pâté in crust,"Sausage in a brioche crust, cooked",vitamin_c_mg
+888,896,0.191414158752828,13,False,role:deli_alt,0.18129676887386334,False,Rillettes of goose,"Pork belly, brined",sugars_g|vitamin_c_mg
+888,908,0.20527447784883174,13,False,role:deli_alt,0.19232877028853418,False,Rillettes of goose,"Mortadella, pork and beef",sugars_g|vitamin_c_mg
+891,893,0.196394610149255,13,False,role:deli_alt,0.19194320397452452,False,"Lardoons, plain, raw","Lardoons, plain, cooked",sugars_g|vitamin_c_mg
+893,897,0.20938585266227566,13,False,role:deli_alt,0.2053658196845279,False,"Lardoons, plain, cooked","Lardoons, smoked, raw",sugars_g|vitamin_c_mg
+1611,1642,0.19028243342209264,14,False,role:fat_spread,0.1838302953934169,False,"Butter, 80% fat minimum, unsalted","Pork fat, raw",vitamin_c_mg
+1612,1622,0.04680802687540635,14,False,role:fat_spread,0.04546836947685144,False,Butter oil or concentrated butter,"Palm oil, refined",zinc_mg
+1622,1641,0.03532130867625855,14,False,role:fat_spread,0.0433257083297958,False,"Palm oil, refined",Lard or pork fat,zinc_mg
+441,494,0.12390891102325965,14,False,role:fruit_or_juice,0.11970753810561886,False,"Cherry, flesh and skin, pitted, raw","Pineapple, in pineapple juice, canned, drained",sat_fat_g
+456,488,0.1256688676242392,14,False,role:fruit_or_juice,0.12143189148243312,False,"Blueberry, raw","Fruit cocktail or salad, canned in light syrup, drained",sat_fat_g
+460,495,0.12924438609365047,14,False,role:fruit_or_juice,0.12486209023563716,False,"Watermelon, flesh without skin, without seeds, raw","Pineapple, in pineapple juice, canned, solids and liquids",sat_fat_g
+462,494,0.11783953255786488,14,False,role:fruit_or_juice,0.1139430134890001,False,"Apple, flesh and skin, raw","Pineapple, in pineapple juice, canned, drained",sat_fat_g
+462,495,0.12044234938470394,14,False,role:fruit_or_juice,0.11645543128316828,False,"Apple, flesh and skin, raw","Pineapple, in pineapple juice, canned, solids and liquids",sat_fat_g
+462,498,0.10195615052730855,14,False,role:fruit_or_juice,0.09861364733165905,False,"Apple, flesh and skin, raw","Peach, pitted, canned in light syrup, drained",sat_fat_g
+466,490,0.14921330936524957,14,False,role:fruit_or_juice,0.14415388274115437,False,"Grape, white, raw","Apricot, canned in light syrup, drained",sat_fat_g
+466,492,0.14505994197703984,14,False,role:fruit_or_juice,0.14014135237570957,False,"Grape, white, raw","Apricot, in syrup, canned, drained",sat_fat_g
+474,498,0.12368245204060282,14,False,role:fruit_or_juice,0.11949053123481787,False,"Apple, Canada, flesh without skin, raw","Peach, pitted, canned in light syrup, drained",sat_fat_g
+477,1295,0.1729812947154224,13,False,role:fruit_or_juice,0.16135269583065853,False,"Pummelo, flesh without skin, without seeds, raw","Orange juice, fresh",sugars_g|sat_fat_g
+478,487,0.1447285063717296,14,False,role:fruit_or_juice,0.13982115546853097,False,"Apple, var. Golden, flesh and skin,, raw","Fruit cocktail or salad, canned in syrup, solids and liquids",sat_fat_g
+478,492,0.1123371286952103,14,False,role:fruit_or_juice,0.10852815048788682,False,"Apple, var. Golden, flesh and skin,, raw","Apricot, in syrup, canned, drained",sat_fat_g
+478,493,0.10941195595666509,14,False,role:fruit_or_juice,0.10570216978022945,False,"Apple, var. Golden, flesh and skin,, raw","Apricot, in syrup, canned, solids and liquids",sat_fat_g
+479,1300,0.21294561417178626,12,False,role:fruit_or_juice,0.1919055198558963,False,"Melon, honeydew, flesh without skin, without seeds, raw","Tomato juice, pure juice (average)",iron_mg|zinc_mg|vitamin_c_mg
+493,1296,0.14452540737212796,13,False,role:fruit_or_juice,0.4865622503878283,True,"Apricot, in syrup, canned, solids and liquids","Grape juice, pure juice",sat_fat_g|vitamin_c_mg
+1296,1305,0.09746128842207247,14,False,role:fruit_or_juice,0.0966158948062495,False,"Grape juice, pure juice",Apricot nectar,vitamin_c_mg
+1297,1312,0.09514028755801214,14,False,role:fruit_or_juice,0.09253146439485516,False,"Grapefruit juice, pure juice",Orange nectar,iron_mg
+1303,1312,0.10926967503581131,14,False,role:fruit_or_juice,0.10938824904517479,False,"Apple juice, pure juice",Orange nectar,iron_mg
+125,1070,0.19228982683876214,14,False,role:protein_main,0.3812715859991268,True,"Wheat-based nuggets, breaded croquette (wo soybean), prepacked","Fish nuggets, breaded croquette, prepacked",vitamin_b12_ug
+674,711,0.2253299098584739,13,False,role:protein_main,0.22046437193170026,False,"Beef, steak or beef steak, grilled/pan-fried","Kid meat, cooked",magnesium_mg|vitamin_c_mg
+675,711,0.16809015517043147,14,False,role:protein_main,0.171379244466714,False,"Beef, rump steak, grilled/pan-fried","Kid meat, cooked",magnesium_mg
+676,711,0.08794080531968039,13,False,role:protein_main,0.12921391905195767,False,"Beef, roast beef, roasted/baked","Kid meat, cooked",magnesium_mg|vitamin_c_mg
+683,694,0.21404950609650716,13,False,role:protein_main,0.2581646385385021,True,"Veal, escalope, cooked","Pork, ham escalope, cooked",potassium_mg|vitamin_c_mg
+683,710,0.17341358538254775,13,False,role:protein_main,0.1862459902480273,False,"Veal, escalope, cooked","Lamb, saddle, lean, roasted/baked",potassium_mg|vitamin_c_mg
+684,693,0.19990120047973822,14,False,role:protein_main,0.20763622712196625,False,"Veal fillet, roasted/baked","Pork, loin, roasted/baked",sat_fat_g
+685,689,0.20482987858486096,14,False,role:protein_main,0.22380571367625368,False,"Veal, roast, cooked","Pork, tenderloin roast, cooked",sat_fat_g
+685,690,0.17534042272072595,14,False,role:protein_main,0.1764112848799381,False,"Veal, roast, cooked","Pork, filet mignon, cooked",vitamin_c_mg
+685,694,0.18221474855459238,14,False,role:protein_main,0.18279778116959125,False,"Veal, roast, cooked","Pork, ham escalope, cooked",vitamin_c_mg
+686,721,0.1951144423585196,13,False,role:protein_main,0.19332310263869845,False,"Pork, shoulder, cooked","Goose, meat, roasted/baked",sugars_g|sat_fat_g
+688,695,0.1647442101513106,12,False,role:protein_main,0.22017736443460964,False,"Pork, rack, cooked","Chicken, leg, meat and skin, roasted/baked",calcium_mg|magnesium_mg|vitamin_c_mg
+688,696,0.19356318916371246,12,False,role:protein_main,0.22366636675383966,False,"Pork, rack, cooked","Chicken, meat and skin, roasted/baked",calcium_mg|magnesium_mg|vitamin_c_mg
+689,703,0.21397659582847461,14,False,role:protein_main,0.2348629851020216,False,"Pork, tenderloin roast, cooked","Turkey, meat, roasted/baked",sat_fat_g
+690,699,0.1830141862177487,13,False,role:protein_main,0.2045794534629288,False,"Pork, filet mignon, cooked","Chicken leg, meat, boiled/cooked in water",sat_fat_g|vitamin_c_mg
+694,703,0.17890248091523892,14,False,role:protein_main,0.17971826010421313,False,"Pork, ham escalope, cooked","Turkey, meat, roasted/baked",vitamin_c_mg
+697,715,0.1416720957994782,14,False,role:protein_main,0.13686824764349872,False,"Chicken leg, meat, roasted/baked","Capon, meat and skin, roasted/baked",sugars_g
+698,1079,0.1935648409385349,13,False,role:protein_main,0.5010371512310132,True,"Chicken, breast, without skin, grilled/pan-fried","Albacore, steamed under pressure",vitamin_c_mg|vitamin_b12_ug
+699,720,0.19062540598331293,14,False,role:protein_main,0.1991035477293032,False,"Chicken leg, meat, boiled/cooked in water","Pheasant, meat, roasted/baked",sat_fat_g
+700,715,0.12756679902587348,14,False,role:protein_main,0.12337700211372667,False,"Chicken, leg, meat and skin, boiled/cooked in water","Capon, meat and skin, roasted/baked",sugars_g
+701,715,0.15637462295247173,14,False,role:protein_main,0.151072238316506,False,"Chicken, breast, meat and skin, roasted/baked","Capon, meat and skin, roasted/baked",sugars_g
+702,715,0.18013228850281787,14,False,role:protein_main,0.17402432378984145,False,"Chicken, wing, meat and skin, roasted/baked","Capon, meat and skin, roasted/baked",sugars_g
+704,943,0.22387755096773929,14,False,role:protein_main,0.2162862624058492,False,"Turkey, escalope, grilled/pan-fried","Anglerfish, grilled/pan-fried without added fat",sugars_g
+927,1093,0.1878067412746448,14,False,role:protein_main,0.19080051268312317,False,"Atlantic herring, grilled/pan-fried without added fat","European pilchard or sardine, fillets without fishbone, in olive oil, canned, drained",vitamin_c_mg
+939,1079,0.2339760514476117,13,False,role:protein_main,0.22664444987730725,False,"Tuna, roasted/baked","Albacore, steamed under pressure",vitamin_c_mg|vitamin_b12_ug
+948,1093,0.15089574363364736,14,False,role:protein_main,0.1457791380261067,False,"European pilchard or sardine, grilled/pan-fried without added fat","European pilchard or sardine, fillets without fishbone, in olive oil, canned, drained",vitamin_c_mg
+1421,1489,0.20311381828313682,13,False,role:sweet_snack,0.19156442912594257,False,Chocolate-coated peanut,Florentine biscuit (chocolate biscuit or cookie with almonds),vitamin_c_mg|vitamin_b12_ug
+1147,1168,0.16777234806798963,14,False,role:yoghurt_alt,0.17461985420729378,False,"Yogurt, Greek-style, on a fruit layer, with sugar(s)","Quark or dairy specialty, with fruits, 7-8% fat, with sugar(s)",zinc_mg
+1150,1168,0.17851924188093793,14,False,role:yoghurt_alt,0.1757647890394557,False,"Yogurt or fermented milk, flavoured, with cream, with sugar(s)","Quark or dairy specialty, with fruits, 7-8% fat, with sugar(s)",zinc_mg

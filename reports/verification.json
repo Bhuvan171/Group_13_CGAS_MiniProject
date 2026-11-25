@@ -1,0 +1,50 @@
+{
+  "raw_checksums_verified": true,
+  "matrix_rows": 2272,
+  "matrix_rows_match_join": true,
+  "notebooks": {
+    "00_data_audit": "ok",
+    "01_sustainable_food_matrix": "ok",
+    "02_tradeoff_analysis": "ok",
+    "03_substitution_network": "ok",
+    "04_basket_optimization": "ok",
+    "05_robustness_counterexamples": "ok"
+  },
+  "acceptance": {
+    "D1": {
+      "criteria": 6,
+      "met": 6
+    },
+    "D2": {
+      "criteria": 5,
+      "met": 5
+    },
+    "D3": {
+      "criteria": 5,
+      "met": 5
+    },
+    "D4": {
+      "criteria": 8,
+      "met": 8
+    },
+    "D5": {
+      "criteria": 9,
+      "met": 9
+    }
+  },
+  "figures": {
+    "D1": 4,
+    "D2": 7,
+    "D3": 6,
+    "D4": 6,
+    "D5": 6
+  },
+  "figures_meet_minimum": true,
+  "tables": 65,
+  "claims": {
+    "robust": 6,
+    "conditional": 3
+  },
+  "report_pages": 17,
+  "ALL_CHECKS_PASSED": true
+}

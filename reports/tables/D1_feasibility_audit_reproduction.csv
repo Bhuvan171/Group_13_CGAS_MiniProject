@@ -1,0 +1,6 @@
+quantity,recomputed,proposal,reproduced
+CIQUAL 2025 foods,3484.0,3484.0,True
+AGRIBALYSE 3.1 API rows,2451.0,2451.0,True
+AGRIBALYSE 3.1 unique CIQUAL codes,2425.0,2425.0,True
+Exact shared codes,2272.0,2272.0,True
+% of 3.1 unique codes matched,93.69,93.69,True

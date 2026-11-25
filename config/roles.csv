@@ -1,0 +1,54 @@
+role,group_code,state_filter,protein_min_g,description
+protein_main,040101,,5,cooked beef and veal
+protein_main,040102,,5,cooked pork
+protein_main,040103,,5,cooked poultry
+protein_main,040104,,5,cooked turkey
+protein_main,040105,,5,cooked lamb and mutton
+protein_main,040106,,5,cooked game
+protein_main,040107,,5,other cooked meats
+protein_main,040108,,5,cooked offal
+protein_main,0405,,5,cooked fish
+protein_main,0407,,5,cooked seafood
+protein_main,0409,prepared|as_sold,5,fish products (canned/smoked/breaded)
+protein_main,041001,prepared,5,cooked eggs
+protein_main,020301,,5,cooked legumes
+protein_main,1009,,5,tofu / tempeh / seitan / textured soy (protein >= 5 g)
+protein_main,010309,,5,plant-based burgers / nuggets / steaks (protein >= 5 g)
+milk_alt,050101,,,liquid cow milk
+milk_alt,050102,,,liquid milk of other species
+milk_alt,060205,,,plant-based drinks
+milk_alt,060204,,,dairy beverages
+yoghurt_alt,050201,,,yoghurts and fermented milks
+yoghurt_alt,050202,,,fromages blancs / quark
+yoghurt_alt,050205,,,plant-based (soy) desserts
+cheese_alt,050301,,,soft cheeses
+cheese_alt,050302,,,blue cheeses
+cheese_alt,050303,,,hard or pressed cheeses
+cheese_alt,050304,,,processed cheeses
+cheese_alt,050305,,,uncured cheeses
+cheese_alt,050306,,,plant-based alternatives to cheese
+deli_alt,040301,,,cooked ham
+deli_alt,040302,,,raw and cured ham
+deli_alt,040303,,,dry sausages
+deli_alt,040304,,,sausages
+deli_alt,040305,,,pates and terrines
+deli_alt,040306,,,rillettes
+deli_alt,040307,,,quenelles
+deli_alt,040308,,,other delicatessen
+deli_alt,040309,,,plant-based alternatives to delicatessen
+fat_spread,0901,,,butters
+fat_spread,0902,,,vegetable oils
+fat_spread,0905,,,other fats (margarines etc.)
+fat_spread,1010,,,plant-based spreads
+starchy_side,030101,,,"pasta, rice and grains, cooked"
+starchy_side,0202,prepared,,"potatoes and other tubers, prepared"
+veg_cooked,020102,,,"vegetables, cooked"
+bread,030201,,,breads
+sweet_spread,0704,,,jams
+fruit_or_juice,020401,,,fresh fruits
+fruit_or_juice,020403,,,canned fruits
+fruit_or_juice,060201,,,fruit juices
+fruit_or_juice,060202,,,nectars
+sweet_snack,0702,,,chocolate and chocolate products
+sweet_snack,0706,,,sweet biscuits
+sweet_snack,0708,,,cereal bars

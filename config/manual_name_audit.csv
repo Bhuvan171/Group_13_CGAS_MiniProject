@@ -1,0 +1,26 @@
+ciqual_code,verdict,comment
+20914,consistent,synonym: soy-based burger/steak = soy patty or vegetable escalope
+20065,consistent,synonym: kohlrabi = turnip cabbage
+13023,consistent,spelling variant: lithchi = lychee
+21801,consistent,synonym: kid meat = young goat (cooked)
+21800,consistent,synonym: kid meat = young goat (raw)
+28540,consistent,synonym: brined pig's trotter = salt-cured pork trotters
+31050,consistent,same product (singular/plural)
+31092,consistent,the LCI name describes what a calisson is
+31073,proxy - acceptable,AGRIBALYSE models this soft chocolate-milk cake with a dairy-filled chocolate snack-bar LCI (same product family)
+9683,consistent,same product (couscous grain cooked unsalted)
+9901,consistent,rice vermicelli = rice noodle; corrected packaging row kept
+25224,proxy - acceptable,AGRIBALYSE uses a soy-based sliced product LCI for this soy-wheat burger (same composition family; form differs)
+13024,consistent,clementine-or-mandarin food; reference variant = mandarin (clementine variant tested in D5 duplicate-rule sensitivity)
+9871,consistent,translation: wholewheat = wholemeal
+25606,consistent,same product (home-made potato salad)
+40303,consistent,identical names
+13742,consistent,same product (pulp = flesh)
+13010,consistent,identical names
+36304,consistent,identical names
+11053,consistent,identical names
+12528,consistent,same product with fat content detail
+13011,consistent,same product (pulp and peel = flesh and skin)
+5008,consistent,identical names
+20015,consistent,same product (cooked = boiled in water)
+11158,consistent,same product (word order)

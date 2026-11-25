@@ -1,0 +1,39 @@
+category,case,evidence
+C1 greener but nutritionally non-equivalent,"Kid meat, cooked -> Haricot bean, boiled/cooked in water","climate -99%; distance 0.96 > tau 0.24; fails protein, iron_mg, zinc_mg, vitamin_b12_ug"
+C1 greener but nutritionally non-equivalent,"Lamb, rib chop, grilled/pan-fried -> Haricot bean, boiled/cooked in water","climate -99%; distance 0.93 > tau 0.24; fails protein, energy, zinc_mg, vitamin_b12_ug"
+C1 greener but nutritionally non-equivalent,"Beef, chuck, braised or boiled -> Haricot bean, boiled/cooked in water","climate -99%; distance 1.11 > tau 0.24; fails protein, energy, zinc_mg, vitamin_b12_ug"
+C1 greener but nutritionally non-equivalent,"Lobster, boiled/cooked in water -> Haricot bean, boiled/cooked in water","climate -99%; distance 0.87 > tau 0.24; fails protein, zinc_mg, vitamin_b12_ug"
+C1 greener but nutritionally non-equivalent,"Sweetbread, calf, braised or grilled/pan-fried -> Haricot bean, boiled/cooked in water","climate -99%; distance 1.17 > tau 0.24; fails protein, energy, vitamin_c_mg, vitamin_b12_ug"
+C1 greener but nutritionally non-equivalent,"Pangasius, filets, cooked -> Haricot bean, boiled/cooked in water","climate -98%; distance 0.90 > tau 0.24; fails protein, vitamin_b12_ug"
+C2 ranking reverses with the functional unit,"Avocado, flesh without skin, pitted, raw vs Radish, raw",A/B climate ratio 4.04 per 100 g but 0.22 per 100 kcal
+C2 ranking reverses with the functional unit,Tomato sauce for pizza vs Soy lecithin,A/B climate ratio 0.17 per 100 g but 3.27 per 100 kcal
+C2 ranking reverses with the functional unit,"Avocado, flesh without skin, pitted, raw vs Spinach, young leaves for salad, raw",A/B climate ratio 3.66 per 100 g but 0.31 per 100 kcal
+C2 ranking reverses with the functional unit,"Avocado, flesh without skin, pitted, raw vs Courgette or zucchini, flesh and skin, raw",A/B climate ratio 3.11 per 100 g but 0.26 per 100 kcal
+C2 ranking reverses with the functional unit,"Anchovy, fillets, salted, in oil, semi-preserved, drained vs Taramasalata, with cod eggs, prepacked",A/B climate ratio 3.45 per 100 kcal but 0.33 per 10 g protein
+C3 equivalence edge driven by missing values,"Baby milk, infant formula, powder -- Baby milk, follow-on formula, powder",distance 0.08 on 12 nutrients; 0.58 with group-median fill (missing: sat_fat_g|potassium_mg|vitamin_c_mg)
+C3 equivalence edge driven by missing values,"Chicken, breast, without skin, grilled/pan-fried -- Albacore, steamed under pressure",distance 0.19 on 13 nutrients; 0.50 with group-median fill (missing: vitamin_c_mg|vitamin_b12_ug)
+C3 equivalence edge driven by missing values,"Apricot, in syrup, canned, solids and liquids -- Grape juice, pure juice",distance 0.14 on 13 nutrients; 0.49 with group-median fill (missing: sat_fat_g|vitamin_c_mg)
+C3 equivalence edge driven by missing values,"Pancetta -- Lardoons, plain, cooked",distance 0.20 on 13 nutrients; 0.46 with group-median fill (missing: sugars_g|vitamin_c_mg)
+C4 optimiser shifts burden to another indicator,"S1 operating point (D <= 0.10, change <= 50%)","climate -38% but water +45%, land -28%"
+C4b climate-only optimum violates nutrition,S1 without nutrition constraints,climate -67% with 8 violated nutrient constraints
+C4b climate-only optimum violates nutrition,S2 without nutrition constraints,climate -93% with 8 violated nutrient constraints
+C4 optimiser shifts burden to another indicator,"S3 operating point (D <= 0.10, change <= 50%)","climate -41% but water +33%, land -36%"
+C4b climate-only optimum violates nutrition,S3 without nutrition constraints,climate -68% with 8 violated nutrient constraints
+C4b climate-only optimum violates nutrition,S4 without nutrition constraints,climate -84% with 4 violated nutrient constraints
+C4 optimiser shifts burden to another indicator,"S5 operating point (D <= 0.10, change <= 50%)","climate -74% but water +8%, land -71%"
+C4b climate-only optimum violates nutrition,S5 without nutrition constraints,climate -88% with 6 violated nutrient constraints
+C5 conclusion changes after removing DQR > 3 records,"Chicory, raw",dominated per 100 g only by competitors with DQR > 3
+C5 conclusion changes after removing DQR > 3 records,"Clementine or Mandarin orange, flesh without skin, without seeds, raw",dominated per 100 g only by competitors with DQR > 3
+C5 conclusion changes after removing DQR > 3 records,"Mango, flesh without skin, pitted, raw",dominated per 100 g only by competitors with DQR > 3
+C5 conclusion changes after removing DQR > 3 records,"Pear, flesh and skin, raw",dominated per 100 g only by competitors with DQR > 3
+C6 efficient position rests on a known data error,"Quinoa, boiled/cooked in water, no added salt","Pareto-efficient per 100 g; AGRIBALYSE 3.2 flags quinoa impacts as OVER-estimated, so the food may be better than shown"
+C6 efficient position rests on a known data error,"Egg, raw","Pareto-efficient per 100 g; AGRIBALYSE 3.2 flags egg impacts as UNDER-estimated, so this position may be too favourable"
+C6 efficient position rests on a known data error,"Egg white, raw","Pareto-efficient per 100 g; AGRIBALYSE 3.2 flags egg impacts as UNDER-estimated, so this position may be too favourable"
+C6 efficient position rests on a known data error,"Egg white, cooked","Pareto-efficient per 100 g; AGRIBALYSE 3.2 flags egg impacts as UNDER-estimated, so this position may be too favourable"
+C7 feasible but culturally implausible optimum,"S1: Fermented milk, yogurt type with bifidus, plain",13 g (11% of slot 'yoghurt') - a nutrient patch rather than a food people would serve
+C7 feasible but culturally implausible optimum,"S2: Prickly pear, flesh and skin, with seeds, raw",5 g (4% of slot 'fruit') - a nutrient patch rather than a food people would serve
+C7 feasible but culturally implausible optimum,"S4: Liver, turkey, cooked",1 g (1% of slot 'protein') - a nutrient patch rather than a food people would serve
+C7 feasible but culturally implausible optimum,"S5: Liver, turkey, cooked",9 g (8% of slot 'S2.protein') - a nutrient patch rather than a food people would serve
+C8 variant choice changes the impact,"Mango, pulp, raw vs Mango, pulp, raw (Brazil by plane)",0.73 vs 11.60 kg CO2e/kg (15.9x); reference rule keeps the French consumption mix
+C8 variant choice changes the impact,"French bean, raw vs French bean, raw (Kenya by plane)",0.45 vs 7.08 kg CO2e/kg (15.8x); reference rule keeps the French consumption mix
+C8 variant choice changes the impact,"Tomato, raw vs Tomato, off season, raw",0.75 vs 2.11 kg CO2e/kg (2.8x); reference rule keeps the French consumption mix

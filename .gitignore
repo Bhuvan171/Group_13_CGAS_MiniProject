@@ -1,0 +1,35 @@
+# Environments and caches
+.venv/
+venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+/tmp/
+/data/interim/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.fls
+*.fdb_latexmk
+*.xdv
+*.synctex.gz
+
+# Third-party reference PDFs (course material, papers, manuals) - not redistributed
+/references/
+
+# Personal presentation-prep material (kept locally, not part of the submission)
+/D3_D4_talking_points.md
+/related_work_*.md
+/Sustainome_Detailed_Report.pdf
+/Sustainome_Report_Simple.pdf
+/Sustainome_Slides_with_dividers.*
+
+# Submission archive
+/Group_13_Mini_Project.zip

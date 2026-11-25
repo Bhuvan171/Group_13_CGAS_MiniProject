@@ -1,0 +1,16 @@
+dimension,applies to,alternatives,reference
+nutrient weights,D3 graph / D2 NR9,200 Dirichlet(1) draws,equal weights
+nutrient feature subsets,D3 graph,"drop-one (x15), macro-only, micro-only, extended (+5)",15 frozen nutrients
+normalisation,D2,"mass / energy / protein; energy floor [5.0, 10.0, 20.0, 40.0]; protein floor [1.0, 2.0, 5.0]","10 kcal, 2 g"
+graph k and tau,D3,"k [3, 5, 8, 12] x quantile [0.5, 0.7, 0.85, 1.0]","k=5, q=0.7"
+graph basis,D3,per 100 kcal profiles (calorie-for-calorie),per 100 g
+DQR filtering,"D2, D3, D4","keep DQR <= [2.0, 2.5, 3.0, 3.5]",all foods
+duplicate-resolution rule,D1 -> all,mean / max / min over AGB variants,reference variant
+'< x' parser policy,D1 -> all,0 and x (bounds),x / 2
+B12 structural zeros,D1 -> all,rule switched off,on
+NR9 missing components,D2,available-case (>= 7 of 9),complete case
+environmental indicator set,D2,climate only / 7 indicators / EF single score,"climate, land, water"
+optimisation tolerances,D4,"energy [0.02, 0.05, 0.1] x micro [0.8, 0.9, 1.0] x protein [0.9, 0.95, 1.0]","5 %, 90 %, 95 %"
+publisher-flagged errors,D4,eggs/quinoa included as candidates,excluded
+bootstrap resampling,D2,"1000 resamples (ratios, rho); 500 (Pareto membership)",-
+impact perturbation stress test,D4,"climate x U(1 - 0.1 DQR, 1 + 0.1 DQR), 100 draws",none

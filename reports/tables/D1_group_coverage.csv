@@ -1,0 +1,13 @@
+ciqual_group_code,ciqual_group,ciqual_foods,matched_foods,coverage_pct
+00,,1,0,0.0
+01,starters and dishes,407,309,75.9
+02,"fruits, vegetables, legumes and nuts",653,382,58.5
+03,cereal products,214,155,72.4
+04,"meat, egg and fish",791,616,77.9
+05,milk and milk products,356,195,54.8
+06,beverages,325,132,40.6
+07,sugar and confectionery,361,228,63.2
+08,ice cream and sorbet,30,25,83.3
+09,fats and oils,72,38,52.8
+10,miscellaneous,235,159,67.7
+11,baby food,39,33,84.6

@@ -1,0 +1,425 @@
+constraint,value,lower,upper,violation,relative_violation,satisfied,scenario,solution
+mass[bread],60.0,45.0,75.0,0.0,0.0,True,S1,original
+mass[spread],10.0,7.5,12.5,0.0,0.0,True,S1,original
+mass[jam],20.0,15.0,25.0,0.0,0.0,True,S1,original
+mass[milk],200.0,150.0,250.0,0.0,0.0,True,S1,original
+mass[juice],150.0,112.5,187.5,0.0,0.0,True,S1,original
+mass[yoghurt],125.0,93.75,156.25,0.0,0.0,True,S1,original
+energy,522.325,496.20875,548.4412500000001,0.0,0.0,True,S1,original
+protein,17.8735,16.979824999999998,inf,0.0,0.0,True,S1,original
+fibre_g,2.06,1.854,inf,0.0,0.0,True,S1,original
+calcium_mg,445.98,401.382,inf,0.0,0.0,True,S1,original
+iron_mg,1.13775,1.023975,inf,0.0,0.0,True,S1,original
+magnesium_mg,71.90299999999999,64.7127,inf,0.0,0.0,True,S1,original
+potassium_mg,968.01,871.2090000000001,inf,0.0,0.0,True,S1,original
+zinc_mg,2.0035,1.8031499999999998,inf,0.0,0.0,True,S1,original
+vitamin_c_mg,80.68,72.61200000000001,inf,0.0,0.0,True,S1,original
+vitamin_b12_ug,0.5175000000000001,0.46575000000000005,inf,0.0,0.0,True,S1,original
+sat_fat_g,9.617999999999999,-inf,9.617999999999999,0.0,0.0,True,S1,original
+sugars_g,40.991,-inf,40.991,0.0,0.0,True,S1,original
+sodium_mg,423.63249999999994,-inf,423.63249999999994,0.0,0.0,True,S1,original
+mass[bread],57.588301366006725,45.0,75.0,0.0,0.0,True,S1,operating point
+mass[spread],7.500000000000005,7.5,12.5,0.0,0.0,True,S1,operating point
+mass[jam],25.0,15.0,25.0,0.0,0.0,True,S1,operating point
+mass[milk],170.16768429289613,150.0,250.0,0.0,0.0,True,S1,operating point
+mass[juice],112.5,112.5,187.5,0.0,0.0,True,S1,operating point
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S1,operating point
+energy,521.2911767416412,496.20875,548.4412500000001,0.0,0.0,True,S1,operating point
+protein,17.8735,16.979824999999998,inf,0.0,0.0,True,S1,operating point
+fibre_g,4.059611384453946,1.854,inf,0.0,0.0,True,S1,operating point
+calcium_mg,401.38199999999995,401.382,inf,5.684341886080802e-14,1.4161925263416898e-16,True,S1,operating point
+iron_mg,1.2672636407430258,1.023975,inf,0.0,0.0,True,S1,operating point
+magnesium_mg,64.7127,64.7127,inf,0.0,0.0,True,S1,operating point
+potassium_mg,871.2090000000001,871.2090000000001,inf,0.0,0.0,True,S1,operating point
+zinc_mg,1.857629510641491,1.8031499999999998,inf,0.0,0.0,True,S1,operating point
+vitamin_c_mg,80.68000000000005,72.61200000000001,inf,0.0,0.0,True,S1,operating point
+vitamin_b12_ug,0.5174999999999998,0.46575000000000005,inf,0.0,0.0,True,S1,operating point
+sat_fat_g,9.617999999999997,-inf,9.617999999999999,0.0,0.0,True,S1,operating point
+sugars_g,39.322886360956446,-inf,40.991,0.0,0.0,True,S1,operating point
+sodium_mg,423.6324999999999,-inf,423.63249999999994,0.0,0.0,True,S1,operating point
+mass[bread],62.67784926641069,45.0,75.0,0.0,0.0,True,S1,climate optimum
+mass[spread],7.5,7.5,12.5,0.0,0.0,True,S1,climate optimum
+mass[jam],15.0,15.0,25.0,0.0,0.0,True,S1,climate optimum
+mass[milk],153.64106774170284,150.0,250.0,0.0,0.0,True,S1,climate optimum
+mass[juice],112.5,112.5,187.5,0.0,0.0,True,S1,climate optimum
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S1,climate optimum
+energy,496.20875000000007,496.20875,548.4412500000001,0.0,0.0,True,S1,climate optimum
+protein,16.979824999999995,16.979824999999998,inf,3.552713678800501e-15,2.0923146609582262e-16,True,S1,climate optimum
+fibre_g,10.697678257064467,1.854,inf,0.0,0.0,True,S1,climate optimum
+calcium_mg,401.3820000000001,401.382,inf,0.0,0.0,True,S1,climate optimum
+iron_mg,2.7345767888564096,1.023975,inf,0.0,0.0,True,S1,climate optimum
+magnesium_mg,121.54244870264358,64.7127,inf,0.0,0.0,True,S1,climate optimum
+potassium_mg,871.2090000000001,871.2090000000001,inf,0.0,0.0,True,S1,climate optimum
+zinc_mg,1.9170796024780123,1.8031499999999998,inf,0.0,0.0,True,S1,climate optimum
+vitamin_c_mg,72.61200000000002,72.61200000000001,inf,0.0,0.0,True,S1,climate optimum
+vitamin_b12_ug,0.46575000000000005,0.46575000000000005,inf,0.0,0.0,True,S1,climate optimum
+sat_fat_g,3.0860477250589264,-inf,9.617999999999999,0.0,0.0,True,S1,climate optimum
+sugars_g,35.64080783783181,-inf,40.991,0.0,0.0,True,S1,climate optimum
+sodium_mg,423.6325,-inf,423.63249999999994,5.684341886080802e-14,1.3418096784549822e-16,True,S1,climate optimum
+mass[bread],45.0,45.0,75.0,0.0,0.0,True,S1,climate-only (no constraints)
+mass[spread],7.5,7.5,12.5,0.0,0.0,True,S1,climate-only (no constraints)
+mass[jam],15.0,15.0,25.0,0.0,0.0,True,S1,climate-only (no constraints)
+mass[milk],150.0,150.0,250.0,0.0,0.0,True,S1,climate-only (no constraints)
+mass[juice],112.5,112.5,187.5,0.0,0.0,True,S1,climate-only (no constraints)
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S1,climate-only (no constraints)
+energy,429.26250000000005,496.20875,548.4412500000001,66.94624999999996,0.12206640182517262,False,S1,climate-only (no constraints)
+protein,11.536499999999998,16.979824999999998,inf,5.443325,0.32057603656103645,False,S1,climate-only (no constraints)
+fibre_g,6.811875,1.854,inf,0.0,0.0,True,S1,climate-only (no constraints)
+calcium_mg,133.8375,401.382,inf,267.54449999999997,0.6665582911042348,False,S1,climate-only (no constraints)
+iron_mg,1.863,1.023975,inf,0.0,0.0,True,S1,climate-only (no constraints)
+magnesium_mg,63.178125,64.7127,inf,1.5345749999999967,0.02371366053340375,False,S1,climate-only (no constraints)
+potassium_mg,555.79875,871.2090000000001,inf,315.41025,0.36203741008185175,False,S1,climate-only (no constraints)
+zinc_mg,1.073625,1.8031499999999998,inf,0.7295249999999998,0.4045836452874136,False,S1,climate-only (no constraints)
+vitamin_c_mg,8.022375,72.61200000000001,inf,64.58962500000001,0.8895172285572633,False,S1,climate-only (no constraints)
+vitamin_b12_ug,0.0,0.46575000000000005,inf,0.46575000000000005,0.46575000000000005,False,S1,climate-only (no constraints)
+sat_fat_g,2.541,-inf,9.617999999999999,0.0,0.0,True,S1,climate-only (no constraints)
+sugars_g,32.25375,-inf,40.991,0.0,0.0,True,S1,climate-only (no constraints)
+sodium_mg,263.3625,-inf,423.63249999999994,0.0,0.0,True,S1,climate-only (no constraints)
+mass[protein],120.0,90.0,150.0,0.0,0.0,True,S2,original
+mass[starch],200.0,150.0,250.0,0.0,0.0,True,S2,original
+mass[vegetable],150.0,112.5,187.5,0.0,0.0,True,S2,original
+mass[cheese],30.0,22.5,37.5,0.0,0.0,True,S2,original
+mass[oil],10.0,7.5,12.5,0.0,0.0,True,S2,original
+mass[fruit],150.0,112.5,187.5,0.0,0.0,True,S2,original
+energy,826.5,785.175,867.825,0.0,0.0,True,S2,original
+protein,58.76999999999999,55.83149999999999,inf,0.0,0.0,True,S2,original
+fibre_g,12.5,11.25,inf,0.0,0.0,True,S2,original
+calcium_mg,427.366,384.6294,inf,0.0,0.0,True,S2,original
+iron_mg,5.5760000000000005,5.018400000000001,inf,0.0,0.0,True,S2,original
+magnesium_mg,134.86749999999998,121.38074999999998,inf,0.0,0.0,True,S2,original
+potassium_mg,1060.135,954.1215,inf,0.0,0.0,True,S2,original
+zinc_mg,8.173,7.355700000000001,inf,0.0,0.0,True,S2,original
+vitamin_c_mg,17.599999999999998,15.839999999999998,inf,0.0,0.0,True,S2,original
+vitamin_b12_ug,2.74,2.466,inf,0.0,0.0,True,S2,original
+sat_fat_g,8.951999999999998,-inf,8.951999999999998,0.0,0.0,True,S2,original
+sugars_g,17.64,-inf,17.64,0.0,0.0,True,S2,original
+sodium_mg,198.3,-inf,198.3,0.0,0.0,True,S2,original
+mass[protein],149.48105198861555,90.0,150.0,0.0,0.0,True,S2,operating point
+mass[starch],217.18105135106015,150.0,250.0,0.0,0.0,True,S2,operating point
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S2,operating point
+mass[cheese],28.787800811686232,22.5,37.5,0.0,0.0,True,S2,operating point
+mass[oil],7.5,7.5,12.5,0.0,0.0,True,S2,operating point
+mass[fruit],112.5,112.5,187.5,0.0,0.0,True,S2,operating point
+energy,823.5490571349173,785.175,867.825,0.0,0.0,True,S2,operating point
+protein,55.83150000000003,55.83149999999999,inf,0.0,0.0,True,S2,operating point
+fibre_g,15.777393019076417,11.25,inf,0.0,0.0,True,S2,operating point
+calcium_mg,427.3660000000001,384.6294,inf,0.0,0.0,True,S2,operating point
+iron_mg,6.164819872171376,5.018400000000001,inf,0.0,0.0,True,S2,operating point
+magnesium_mg,221.91508462713455,121.38074999999998,inf,0.0,0.0,True,S2,operating point
+potassium_mg,1413.3812854928594,954.1215,inf,0.0,0.0,True,S2,operating point
+zinc_mg,7.355699999999991,7.355700000000001,inf,9.769962616701378e-15,1.328216569014693e-15,True,S2,operating point
+vitamin_c_mg,17.599999999999998,15.839999999999998,inf,0.0,0.0,True,S2,operating point
+vitamin_b12_ug,2.74,2.466,inf,0.0,0.0,True,S2,operating point
+sat_fat_g,8.951999999999998,-inf,8.951999999999998,0.0,0.0,True,S2,operating point
+sugars_g,17.64,-inf,17.64,0.0,0.0,True,S2,operating point
+sodium_mg,198.3,-inf,198.3,0.0,0.0,True,S2,operating point
+mass[protein],150.0,90.0,150.0,0.0,0.0,True,S2,climate optimum
+mass[starch],250.0,150.0,250.0,0.0,0.0,True,S2,climate optimum
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S2,climate optimum
+mass[cheese],22.5,22.5,37.5,0.0,0.0,True,S2,climate optimum
+mass[oil],7.5,7.5,12.5,0.0,0.0,True,S2,climate optimum
+mass[fruit],112.5,112.5,187.5,0.0,0.0,True,S2,climate optimum
+energy,832.5870201219282,785.175,867.825,0.0,0.0,True,S2,climate optimum
+protein,55.831500000000005,55.83149999999999,inf,0.0,0.0,True,S2,climate optimum
+fibre_g,17.820420733228676,11.25,inf,0.0,0.0,True,S2,climate optimum
+calcium_mg,384.6294,384.6294,inf,0.0,0.0,True,S2,climate optimum
+iron_mg,7.4113074875351295,5.018400000000001,inf,0.0,0.0,True,S2,climate optimum
+magnesium_mg,266.76861178394245,121.38074999999998,inf,0.0,0.0,True,S2,climate optimum
+potassium_mg,1335.0722945797093,954.1215,inf,0.0,0.0,True,S2,climate optimum
+zinc_mg,8.79915185513371,7.355700000000001,inf,0.0,0.0,True,S2,climate optimum
+vitamin_c_mg,43.15193510397664,15.839999999999998,inf,0.0,0.0,True,S2,climate optimum
+vitamin_b12_ug,18.912095172026532,2.466,inf,0.0,0.0,True,S2,climate optimum
+sat_fat_g,8.040574073381856,-inf,8.951999999999998,0.0,0.0,True,S2,climate optimum
+sugars_g,17.64,-inf,17.64,0.0,0.0,True,S2,climate optimum
+sodium_mg,198.3,-inf,198.3,0.0,0.0,True,S2,climate optimum
+mass[protein],90.0,90.0,150.0,0.0,0.0,True,S2,climate-only (no constraints)
+mass[starch],150.0,150.0,250.0,0.0,0.0,True,S2,climate-only (no constraints)
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S2,climate-only (no constraints)
+mass[cheese],22.5,22.5,37.5,0.0,0.0,True,S2,climate-only (no constraints)
+mass[oil],7.5,7.5,12.5,0.0,0.0,True,S2,climate-only (no constraints)
+mass[fruit],112.5,112.5,187.5,0.0,0.0,True,S2,climate-only (no constraints)
+energy,510.52500000000003,785.175,867.825,274.6499999999999,0.31648085731570297,False,S2,climate-only (no constraints)
+protein,17.16375,55.83149999999999,inf,38.66774999999999,0.6925794578329437,False,S2,climate-only (no constraints)
+fibre_g,19.4325,11.25,inf,0.0,0.0,True,S2,climate-only (no constraints)
+calcium_mg,276.7125,384.6294,inf,107.9169,0.2805737158937928,False,S2,climate-only (no constraints)
+iron_mg,3.331875,5.018400000000001,inf,1.6865250000000005,0.33606826877092305,False,S2,climate-only (no constraints)
+magnesium_mg,143.210625,121.38074999999998,inf,0.0,0.0,True,S2,climate-only (no constraints)
+potassium_mg,1390.36125,954.1215,inf,0.0,0.0,True,S2,climate-only (no constraints)
+zinc_mg,2.9610000000000003,7.355700000000001,inf,4.3947,0.5974550348709164,False,S2,climate-only (no constraints)
+vitamin_c_mg,15.1875,15.839999999999998,inf,0.6524999999999981,0.041193181818181705,False,S2,climate-only (no constraints)
+vitamin_b12_ug,0.5129999999999999,2.466,inf,1.9530000000000003,0.7919708029197081,False,S2,climate-only (no constraints)
+sat_fat_g,4.386375,-inf,8.951999999999998,0.0,0.0,True,S2,climate-only (no constraints)
+sugars_g,15.30375,-inf,17.64,0.0,0.0,True,S2,climate-only (no constraints)
+sodium_mg,256.5825,-inf,198.3,58.28249999999997,0.2939107413010588,False,S2,climate-only (no constraints)
+mass[cheese],40.0,30.0,50.0,0.0,0.0,True,S3,original
+mass[milk],250.0,187.5,312.5,0.0,0.0,True,S3,original
+mass[yoghurt],125.0,93.75,156.25,0.0,0.0,True,S3,original
+mass[chocolate],30.0,22.5,37.5,0.0,0.0,True,S3,original
+mass[biscuit],30.0,22.5,37.5,0.0,0.0,True,S3,original
+energy,677.625,643.74375,711.50625,0.0,0.0,True,S3,original
+protein,24.6715,23.437925,inf,0.0,0.0,True,S3,original
+fibre_g,2.3819999999999997,2.1437999999999997,inf,0.0,0.0,True,S3,original
+calcium_mg,691.8,622.6200000000001,inf,0.0,0.0,True,S3,original
+iron_mg,1.6852500000000001,1.516725,inf,0.0,0.0,True,S3,original
+magnesium_mg,72.57,65.313,inf,0.0,0.0,True,S3,original
+potassium_mg,810.95,729.8549999999999,inf,0.0,0.0,True,S3,original
+zinc_mg,2.7235,2.45115,inf,0.0,0.0,True,S3,original
+vitamin_c_mg,5.2989999999999995,4.7691,inf,0.0,0.0,True,S3,original
+vitamin_b12_ug,1.4641000000000002,1.3176900000000002,inf,0.0,0.0,True,S3,original
+sat_fat_g,22.113,-inf,22.113,0.0,0.0,True,S3,original
+sugars_g,45.989999999999995,-inf,45.989999999999995,0.0,0.0,True,S3,original
+sodium_mg,638.6,-inf,638.6,0.0,0.0,True,S3,original
+mass[cheese],30.8431127616491,30.0,50.0,0.0,0.0,True,S3,operating point
+mass[milk],240.365597123656,187.5,312.5,0.0,0.0,True,S3,operating point
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S3,operating point
+mass[chocolate],22.5,22.5,37.5,0.0,0.0,True,S3,operating point
+mass[biscuit],36.65493739049208,22.5,37.5,0.0,0.0,True,S3,operating point
+energy,643.7437499999999,643.74375,711.50625,1.1368683772161603e-13,1.5978332969192615e-16,True,S3,operating point
+protein,24.6715,23.437925,inf,0.0,0.0,True,S3,operating point
+fibre_g,2.8271754339859765,2.1437999999999997,inf,0.0,0.0,True,S3,operating point
+calcium_mg,622.62,622.6200000000001,inf,1.1368683772161603e-13,1.8259425929397708e-16,True,S3,operating point
+iron_mg,1.9967549945159737,1.516725,inf,0.0,0.0,True,S3,operating point
+magnesium_mg,83.28539468627875,65.313,inf,0.0,0.0,True,S3,operating point
+potassium_mg,729.8549999999999,729.8549999999999,inf,0.0,0.0,True,S3,operating point
+zinc_mg,2.599737199122104,2.45115,inf,0.0,0.0,True,S3,operating point
+vitamin_c_mg,5.380203342452855,4.7691,inf,0.0,0.0,True,S3,operating point
+vitamin_b12_ug,1.3797311980274307,1.3176900000000002,inf,0.0,0.0,True,S3,operating point
+sat_fat_g,16.10204989116203,-inf,22.113,0.0,0.0,True,S3,operating point
+sugars_g,45.989999999999995,-inf,45.989999999999995,0.0,0.0,True,S3,operating point
+sodium_mg,500.8518525532935,-inf,638.6,0.0,0.0,True,S3,operating point
+mass[cheese],34.53851023538327,30.0,50.0,0.0,0.0,True,S3,climate optimum
+mass[milk],193.34916901396358,187.5,312.5,0.0,0.0,True,S3,climate optimum
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S3,climate optimum
+mass[chocolate],37.5,22.5,37.5,0.0,0.0,True,S3,climate optimum
+mass[biscuit],35.25227669817618,22.5,37.5,0.0,0.0,True,S3,climate optimum
+energy,643.7437499999999,643.74375,711.50625,1.1368683772161603e-13,1.5978332969192615e-16,True,S3,climate optimum
+protein,23.437925,23.437925,inf,0.0,0.0,True,S3,climate optimum
+fibre_g,6.006388336208188,2.1437999999999997,inf,0.0,0.0,True,S3,climate optimum
+calcium_mg,622.6199999999999,622.6200000000001,inf,2.2737367544323206e-13,3.6518851858795416e-16,True,S3,climate optimum
+iron_mg,7.701904248803607,1.516725,inf,0.0,0.0,True,S3,climate optimum
+magnesium_mg,109.9150303878485,65.313,inf,0.0,0.0,True,S3,climate optimum
+potassium_mg,729.855,729.8549999999999,inf,0.0,0.0,True,S3,climate optimum
+zinc_mg,2.67674178034136,2.45115,inf,0.0,0.0,True,S3,climate optimum
+vitamin_c_mg,15.218386901305678,4.7691,inf,0.0,0.0,True,S3,climate optimum
+vitamin_b12_ug,1.31769,1.3176900000000002,inf,2.220446049250313e-16,1.6851050317224178e-16,True,S3,climate optimum
+sat_fat_g,11.374177887382645,-inf,22.113,0.0,0.0,True,S3,climate optimum
+sugars_g,45.736922715286966,-inf,45.989999999999995,0.0,0.0,True,S3,climate optimum
+sodium_mg,492.2607881601091,-inf,638.6,0.0,0.0,True,S3,climate optimum
+mass[cheese],30.0,30.0,50.0,0.0,0.0,True,S3,climate-only (no constraints)
+mass[milk],187.5,187.5,312.5,0.0,0.0,True,S3,climate-only (no constraints)
+mass[yoghurt],93.75,93.75,156.25,0.0,0.0,True,S3,climate-only (no constraints)
+mass[chocolate],22.5,22.5,37.5,0.0,0.0,True,S3,climate-only (no constraints)
+mass[biscuit],22.5,22.5,37.5,0.0,0.0,True,S3,climate-only (no constraints)
+energy,395.8125,643.74375,711.50625,247.93124999999998,0.3484596937834347,False,S3,climate-only (no constraints)
+protein,15.398999999999997,23.437925,inf,8.038925000000003,0.3429879138191629,False,S3,climate-only (no constraints)
+fibre_g,2.7356249999999998,2.1437999999999997,inf,0.0,0.0,True,S3,climate-only (no constraints)
+calcium_mg,348.7125,622.6200000000001,inf,273.90750000000014,0.4399272429411199,False,S3,climate-only (no constraints)
+iron_mg,1.804875,1.516725,inf,0.0,0.0,True,S3,climate-only (no constraints)
+magnesium_mg,60.989999999999995,65.313,inf,4.3230000000000075,0.06618896697441562,False,S3,climate-only (no constraints)
+potassium_mg,467.4375,729.8549999999999,inf,262.4174999999999,0.35954744435538555,False,S3,climate-only (no constraints)
+zinc_mg,1.6541249999999998,2.45115,inf,0.7970250000000003,0.325163698672052,False,S3,climate-only (no constraints)
+vitamin_c_mg,2.559375,4.7691,inf,2.2097249999999997,0.46334214002642005,False,S3,climate-only (no constraints)
+vitamin_b12_ug,0.7064999999999999,1.3176900000000002,inf,0.6111900000000003,0.4638344375384197,False,S3,climate-only (no constraints)
+sat_fat_g,5.9186250000000005,-inf,22.113,0.0,0.0,True,S3,climate-only (no constraints)
+sugars_g,26.16375,-inf,45.989999999999995,0.0,0.0,True,S3,climate-only (no constraints)
+sodium_mg,178.125,-inf,638.6,0.0,0.0,True,S3,climate-only (no constraints)
+mass[protein],120.0,90.0,150.0,0.0,0.0,True,S4,original
+mass[starch],180.0,135.0,225.0,0.0,0.0,True,S4,original
+mass[vegetable],150.0,112.5,187.5,0.0,0.0,True,S4,original
+mass[fat],10.0,7.5,12.5,0.0,0.0,True,S4,original
+mass[bread],40.0,30.0,50.0,0.0,0.0,True,S4,original
+mass[fruit],120.0,90.0,150.0,0.0,0.0,True,S4,original
+energy,745.47,708.1965,782.7435,0.0,0.0,True,S4,original
+protein,47.985,45.58575,inf,0.0,0.0,True,S4,original
+fibre_g,10.93,9.837,inf,0.0,0.0,True,S4,original
+calcium_mg,87.31000000000002,78.57900000000002,inf,0.0,0.0,True,S4,original
+iron_mg,2.238,2.0142,inf,0.0,0.0,True,S4,original
+magnesium_mg,149.647,134.6823,inf,0.0,0.0,True,S4,original
+potassium_mg,1406.4299999999998,1265.7869999999998,inf,0.0,0.0,True,S4,original
+zinc_mg,2.342,2.1078,inf,0.0,0.0,True,S4,original
+vitamin_c_mg,16.858,15.1722,inf,0.0,0.0,True,S4,original
+vitamin_b12_ug,0.2836,0.25524,inf,0.0,0.0,True,S4,original
+sat_fat_g,7.382,-inf,7.382,0.0,0.0,True,S4,original
+sugars_g,19.755000000000003,-inf,19.755000000000003,0.0,0.0,True,S4,original
+sodium_mg,350.5,-inf,350.5,0.0,0.0,True,S4,original
+mass[protein],144.1759139377061,90.0,150.0,0.0,0.0,True,S4,operating point
+mass[starch],147.9859753099783,135.0,225.0,0.0,0.0,True,S4,operating point
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S4,operating point
+mass[fat],7.5,7.5,12.5,0.0,0.0,True,S4,operating point
+mass[bread],30.0,30.0,50.0,0.0,0.0,True,S4,operating point
+mass[fruit],90.0,90.0,150.0,0.0,0.0,True,S4,operating point
+energy,708.1964999999998,708.1965,782.7435,2.2737367544323206e-13,2.904829940372958e-16,True,S4,operating point
+protein,45.58575,45.58575,inf,0.0,0.0,True,S4,operating point
+fibre_g,11.648664560825697,9.837,inf,0.0,0.0,True,S4,operating point
+calcium_mg,110.23867780844064,78.57900000000002,inf,0.0,0.0,True,S4,operating point
+iron_mg,3.7998069526755134,2.0142,inf,0.0,0.0,True,S4,operating point
+magnesium_mg,149.647,134.6823,inf,0.0,0.0,True,S4,operating point
+potassium_mg,1441.4005666904768,1265.7869999999998,inf,0.0,0.0,True,S4,operating point
+zinc_mg,2.9658112363186984,2.1078,inf,0.0,0.0,True,S4,operating point
+vitamin_c_mg,16.858,15.1722,inf,0.0,0.0,True,S4,operating point
+vitamin_b12_ug,0.2836,0.25524,inf,0.0,0.0,True,S4,operating point
+sat_fat_g,7.382,-inf,7.382,0.0,0.0,True,S4,operating point
+sugars_g,19.755000000000003,-inf,19.755000000000003,0.0,0.0,True,S4,operating point
+sodium_mg,350.5,-inf,350.5,0.0,0.0,True,S4,operating point
+mass[protein],150.0,90.0,150.0,0.0,0.0,True,S4,climate optimum
+mass[starch],225.0,135.0,225.0,0.0,0.0,True,S4,climate optimum
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S4,climate optimum
+mass[fat],7.5,7.5,12.5,0.0,0.0,True,S4,climate optimum
+mass[bread],41.60384114198915,30.0,50.0,0.0,0.0,True,S4,climate optimum
+mass[fruit],90.0,90.0,150.0,0.0,0.0,True,S4,climate optimum
+energy,775.4552262596451,708.1965,782.7435,0.0,0.0,True,S4,climate optimum
+protein,45.58575,45.58575,inf,0.0,0.0,True,S4,climate optimum
+fibre_g,23.395519725944904,9.837,inf,0.0,0.0,True,S4,climate optimum
+calcium_mg,228.19058626154072,78.57900000000002,inf,0.0,0.0,True,S4,climate optimum
+iron_mg,8.977076225292262,2.0142,inf,0.0,0.0,True,S4,climate optimum
+magnesium_mg,309.9184484250122,134.6823,inf,0.0,0.0,True,S4,climate optimum
+potassium_mg,1703.9828256950723,1265.7869999999998,inf,0.0,0.0,True,S4,climate optimum
+zinc_mg,6.566533420059665,2.1078,inf,0.0,0.0,True,S4,climate optimum
+vitamin_c_mg,16.75936960362154,15.1722,inf,0.0,0.0,True,S4,climate optimum
+vitamin_b12_ug,0.25524,0.25524,inf,0.0,0.0,True,S4,climate optimum
+sat_fat_g,2.586016707175361,-inf,7.382,0.0,0.0,True,S4,climate optimum
+sugars_g,19.755000000000003,-inf,19.755000000000003,0.0,0.0,True,S4,climate optimum
+sodium_mg,287.70900277120313,-inf,350.5,0.0,0.0,True,S4,climate optimum
+mass[protein],90.0,90.0,150.0,0.0,0.0,True,S4,climate-only (no constraints)
+mass[starch],135.0,135.0,225.0,0.0,0.0,True,S4,climate-only (no constraints)
+mass[vegetable],112.5,112.5,187.5,0.0,0.0,True,S4,climate-only (no constraints)
+mass[fat],7.5,7.5,12.5,0.0,0.0,True,S4,climate-only (no constraints)
+mass[bread],30.0,30.0,50.0,0.0,0.0,True,S4,climate-only (no constraints)
+mass[fruit],90.0,90.0,150.0,0.0,0.0,True,S4,climate-only (no constraints)
+energy,507.315,708.1965,782.7435,200.88150000000002,0.25663771082097775,False,S4,climate-only (no constraints)
+protein,15.32475,45.58575,inf,30.260999999999996,0.6638258666359552,False,S4,climate-only (no constraints)
+fibre_g,19.935000000000002,9.837,inf,0.0,0.0,True,S4,climate-only (no constraints)
+calcium_mg,150.159,78.57900000000002,inf,0.0,0.0,True,S4,climate-only (no constraints)
+iron_mg,3.4821750000000002,2.0142,inf,0.0,0.0,True,S4,climate-only (no constraints)
+magnesium_mg,138.358875,134.6823,inf,0.0,0.0,True,S4,climate-only (no constraints)
+potassium_mg,1385.26125,1265.7869999999998,inf,0.0,0.0,True,S4,climate-only (no constraints)
+zinc_mg,2.4036750000000002,2.1078,inf,0.0,0.0,True,S4,climate-only (no constraints)
+vitamin_c_mg,14.295,15.1722,inf,0.8772000000000002,0.05781626922924824,False,S4,climate-only (no constraints)
+vitamin_b12_ug,0.0,0.25524,inf,0.25524,0.25524,False,S4,climate-only (no constraints)
+sat_fat_g,1.8093,-inf,7.382,0.0,0.0,True,S4,climate-only (no constraints)
+sugars_g,13.653,-inf,19.755000000000003,0.0,0.0,True,S4,climate-only (no constraints)
+sodium_mg,336.8775,-inf,350.5,0.0,0.0,True,S4,climate-only (no constraints)
+mass[S1.bread],60.0,45.0,75.0,0.0,0.0,True,S5,original
+mass[S1.spread],10.0,7.5,12.5,0.0,0.0,True,S5,original
+mass[S1.jam],20.0,15.0,25.0,0.0,0.0,True,S5,original
+mass[S1.milk],200.0,150.0,250.0,0.0,0.0,True,S5,original
+mass[S1.juice],150.0,112.5,187.5,0.0,0.0,True,S5,original
+mass[S1.yoghurt],125.0,93.75,156.25,0.0,0.0,True,S5,original
+mass[S2.protein],120.0,90.0,150.0,0.0,0.0,True,S5,original
+mass[S2.starch],200.0,150.0,250.0,0.0,0.0,True,S5,original
+mass[S2.vegetable],150.0,112.5,187.5,0.0,0.0,True,S5,original
+mass[S2.cheese],30.0,22.5,37.5,0.0,0.0,True,S5,original
+mass[S2.oil],10.0,7.5,12.5,0.0,0.0,True,S5,original
+mass[S2.fruit],150.0,112.5,187.5,0.0,0.0,True,S5,original
+mass[S4.protein],120.0,90.0,150.0,0.0,0.0,True,S5,original
+mass[S4.starch],180.0,135.0,225.0,0.0,0.0,True,S5,original
+mass[S4.vegetable],150.0,112.5,187.5,0.0,0.0,True,S5,original
+mass[S4.fat],10.0,7.5,12.5,0.0,0.0,True,S5,original
+mass[S4.bread],40.0,30.0,50.0,0.0,0.0,True,S5,original
+mass[S4.fruit],120.0,90.0,150.0,0.0,0.0,True,S5,original
+energy,2094.295,1989.58025,2199.00975,0.0,0.0,True,S5,original
+protein,124.62849999999999,118.397075,inf,0.0,0.0,True,S5,original
+fibre_g,25.49,22.941,inf,0.0,0.0,True,S5,original
+calcium_mg,960.656,864.5903999999999,inf,0.0,0.0,True,S5,original
+iron_mg,8.951750000000002,8.056575000000002,inf,0.0,0.0,True,S5,original
+magnesium_mg,356.4175,320.77575,inf,0.0,0.0,True,S5,original
+potassium_mg,3434.5750000000003,3091.1175,inf,0.0,0.0,True,S5,original
+zinc_mg,12.518500000000001,11.266649999999998,inf,0.0,0.0,True,S5,original
+vitamin_c_mg,115.138,103.6242,inf,0.0,0.0,True,S5,original
+vitamin_b12_ug,3.5411000000000006,3.18699,inf,0.0,0.0,True,S5,original
+sat_fat_g,25.951999999999998,-inf,25.951999999999998,0.0,0.0,True,S5,original
+sugars_g,78.386,-inf,78.386,0.0,0.0,True,S5,original
+sodium_mg,972.4325,-inf,972.4325,0.0,0.0,True,S5,original
+mass[S1.bread],45.0,45.0,75.0,0.0,0.0,True,S5,operating point
+mass[S1.spread],7.5,7.5,12.5,0.0,0.0,True,S5,operating point
+mass[S1.jam],20.0,15.0,25.0,0.0,0.0,True,S5,operating point
+mass[S1.milk],150.0,150.0,250.0,0.0,0.0,True,S5,operating point
+mass[S1.juice],112.5,112.5,187.5,0.0,0.0,True,S5,operating point
+mass[S1.yoghurt],93.75,93.75,156.25,0.0,0.0,True,S5,operating point
+mass[S2.protein],150.0,90.0,150.0,0.0,0.0,True,S5,operating point
+mass[S2.starch],200.0,150.0,250.0,0.0,0.0,True,S5,operating point
+mass[S2.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,operating point
+mass[S2.cheese],24.5848692801777,22.5,37.5,0.0,0.0,True,S5,operating point
+mass[S2.oil],7.5,7.5,12.5,0.0,0.0,True,S5,operating point
+mass[S2.fruit],144.18692248800676,112.5,187.5,0.0,0.0,True,S5,operating point
+mass[S4.protein],150.0,90.0,150.0,0.0,0.0,True,S5,operating point
+mass[S4.starch],204.33213864659743,135.0,225.0,0.0,0.0,True,S5,operating point
+mass[S4.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,operating point
+mass[S4.fat],7.500000000000021,7.5,12.5,0.0,0.0,True,S5,operating point
+mass[S4.bread],30.0,30.0,50.0,0.0,0.0,True,S5,operating point
+mass[S4.fruit],90.0,90.0,150.0,0.0,0.0,True,S5,operating point
+energy,2107.9730966252746,1989.58025,2199.00975,0.0,0.0,True,S5,operating point
+protein,118.397075,118.397075,inf,0.0,0.0,True,S5,operating point
+fibre_g,39.25938901558385,22.941,inf,0.0,0.0,True,S5,operating point
+calcium_mg,960.656,864.5903999999999,inf,0.0,0.0,True,S5,operating point
+iron_mg,14.454259058601131,8.056575000000002,inf,0.0,0.0,True,S5,operating point
+magnesium_mg,450.65255515805313,320.77575,inf,0.0,0.0,True,S5,operating point
+potassium_mg,3455.897729557655,3091.1175,inf,0.0,0.0,True,S5,operating point
+zinc_mg,12.293263285956764,11.266649999999998,inf,0.0,0.0,True,S5,operating point
+vitamin_c_mg,115.13799999999995,103.6242,inf,0.0,0.0,True,S5,operating point
+vitamin_b12_ug,3.541100000000001,3.18699,inf,0.0,0.0,True,S5,operating point
+sat_fat_g,25.952000000000005,-inf,25.951999999999998,7.105427357601002e-15,2.7379112814430496e-16,True,S5,operating point
+sugars_g,78.386,-inf,78.386,0.0,0.0,True,S5,operating point
+sodium_mg,972.4324999999999,-inf,972.4325,0.0,0.0,True,S5,operating point
+mass[S1.bread],75.0,45.0,75.0,0.0,0.0,True,S5,climate optimum
+mass[S1.spread],7.5,7.5,12.5,0.0,0.0,True,S5,climate optimum
+mass[S1.jam],15.0,15.0,25.0,0.0,0.0,True,S5,climate optimum
+mass[S1.milk],202.58346633436616,150.0,250.0,0.0,0.0,True,S5,climate optimum
+mass[S1.juice],112.5,112.5,187.5,0.0,0.0,True,S5,climate optimum
+mass[S1.yoghurt],93.75,93.75,156.25,0.0,0.0,True,S5,climate optimum
+mass[S2.protein],150.0,90.0,150.0,0.0,0.0,True,S5,climate optimum
+mass[S2.starch],250.0,150.0,250.0,0.0,0.0,True,S5,climate optimum
+mass[S2.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,climate optimum
+mass[S2.cheese],22.5,22.5,37.5,0.0,0.0,True,S5,climate optimum
+mass[S2.oil],7.5,7.5,12.5,0.0,0.0,True,S5,climate optimum
+mass[S2.fruit],112.5,112.5,187.5,0.0,0.0,True,S5,climate optimum
+mass[S4.protein],150.0,90.0,150.0,0.0,0.0,True,S5,climate optimum
+mass[S4.starch],225.0,135.0,225.0,0.0,0.0,True,S5,climate optimum
+mass[S4.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,climate optimum
+mass[S4.fat],7.5,7.5,12.5,0.0,0.0,True,S5,climate optimum
+mass[S4.bread],50.0,30.0,50.0,0.0,0.0,True,S5,climate optimum
+mass[S4.fruit],89.99999999999991,90.0,150.0,8.526512829121202e-14,5.684341886080802e-16,True,S5,climate optimum
+energy,2115.1892044852857,1989.58025,2199.00975,0.0,0.0,True,S5,climate optimum
+protein,118.397075,118.397075,inf,0.0,0.0,True,S5,climate optimum
+fibre_g,53.431258365698135,22.941,inf,0.0,0.0,True,S5,climate optimum
+calcium_mg,864.5903999999998,864.5903999999999,inf,1.1368683772161603e-13,1.3149213514470672e-16,True,S5,climate optimum
+iron_mg,20.764685415783028,8.056575000000002,inf,0.0,0.0,True,S5,climate optimum
+magnesium_mg,727.7879664951388,320.77575,inf,0.0,0.0,True,S5,climate optimum
+potassium_mg,4391.617788651174,3091.1175,inf,0.0,0.0,True,S5,climate optimum
+zinc_mg,16.197033344329284,11.266649999999998,inf,0.0,0.0,True,S5,climate optimum
+vitamin_c_mg,103.62419999999997,103.6242,inf,2.842170943040401e-14,2.742767561091329e-16,True,S5,climate optimum
+vitamin_b12_ug,3.18699,3.18699,inf,0.0,0.0,True,S5,climate optimum
+sat_fat_g,11.603904843304404,-inf,25.951999999999998,0.0,0.0,True,S5,climate optimum
+sugars_g,78.38599999999998,-inf,78.386,0.0,0.0,True,S5,climate optimum
+sodium_mg,972.4325,-inf,972.4325,0.0,0.0,True,S5,climate optimum
+mass[S1.bread],45.0,45.0,75.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S1.spread],7.5,7.5,12.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S1.jam],15.0,15.0,25.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S1.milk],150.0,150.0,250.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S1.juice],112.5,112.5,187.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S1.yoghurt],93.75,93.75,156.25,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.protein],90.0,90.0,150.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.starch],150.0,150.0,250.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.cheese],22.5,22.5,37.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.oil],7.5,7.5,12.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S2.fruit],112.5,112.5,187.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.protein],90.0,90.0,150.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.starch],135.0,135.0,225.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.vegetable],112.5,112.5,187.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.fat],7.5,7.5,12.5,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.bread],30.0,30.0,50.0,0.0,0.0,True,S5,climate-only (no constraints)
+mass[S4.fruit],90.0,90.0,150.0,0.0,0.0,True,S5,climate-only (no constraints)
+energy,1449.7501388664941,1989.58025,2199.00975,539.8301111335059,0.24548782065814206,False,S5,climate-only (no constraints)
+protein,44.18631234206475,118.397075,inf,74.21076265793525,0.6267955746198565,False,S5,climate-only (no constraints)
+fibre_g,46.84476838630804,22.941,inf,0.0,0.0,True,S5,climate-only (no constraints)
+calcium_mg,597.9231027016847,864.5903999999999,inf,266.66729729831525,0.3084319433784082,False,S5,climate-only (no constraints)
+iron_mg,8.951750000000004,8.056575000000002,inf,0.0,0.0,True,S5,climate-only (no constraints)
+magnesium_mg,356.4175,320.77575,inf,0.0,0.0,True,S5,climate-only (no constraints)
+potassium_mg,3362.156471606928,3091.1175,inf,0.0,0.0,True,S5,climate-only (no constraints)
+zinc_mg,6.486513553615474,11.266649999999998,inf,4.780136446384525,0.4242730932783503,False,S5,climate-only (no constraints)
+vitamin_c_mg,38.45373733400265,103.6242,inf,65.17046266599735,0.6289116120172445,False,S5,climate-only (no constraints)
+vitamin_b12_ug,0.5129999999999999,3.18699,inf,2.6739900000000003,0.8390330688204231,False,S5,climate-only (no constraints)
+sat_fat_g,8.609889948736392,-inf,25.951999999999998,0.0,0.0,True,S5,climate-only (no constraints)
+sugars_g,60.586856942789346,-inf,78.386,0.0,0.0,True,S5,climate-only (no constraints)
+sodium_mg,865.9417787634253,-inf,972.4325,0.0,0.0,True,S5,climate-only (no constraints)

@@ -1,0 +1,225 @@
+ciqual_code,food_name,energy,mass,protein,analysis_group,climate_per_100g,dqr
+10028,"Mussel, canned in brine, drained",1.0,1.0,1.0,fish products,0.7030000000000001,2.24
+11053,"Bay, leaves",1.0,1.0,1.0,spices [ready],0.187,2.77
+11064,"Caraway, seed",1.0,1.0,1.0,spices [ready],0.9400000000000001,4.1
+11066,"Fennel, seed",1.0,1.0,1.0,spices [ready],0.213,2.55
+12036,"Maroilles cheese, from cow's milk",1.0,1.0,1.0,soft cheeses,0.544,2.22
+12037,"Livarot cheese, from cow's milk",1.0,1.0,1.0,soft cheeses,0.5309999999999999,2.22
+12116,"Hard cheese, emmental-type cheese, reduced fat, from cow's milk",1.0,1.0,1.0,hard or pressed cheeses,0.631,2.47
+12120,"Parmesan cheese, from cow's milk",1.0,1.0,1.0,hard or pressed cheeses,0.627,1.77
+12121,"Fontina cheese, from cow's milk",1.0,1.0,1.0,hard or pressed cheeses,0.54,2.24
+12705,"Firm cheese, Maasdam-type, reduced fat, from cow's milk",1.0,1.0,1.0,hard or pressed cheeses,0.5900000000000001,2.2
+12820,"Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese",1.0,1.0,1.0,soft cheeses,0.806,2.47
+15020,"Chestnut, boiled/cooked in water",1.0,1.0,1.0,nuts and seeds [ready],0.22799999999999998,3.52
+19050,"Milk, skimmed, UHT",1.0,1.0,1.0,"milk, liquid (cow and other species)",0.11499999999999999,1.26
+19051,"Milk, skimmed, pasteurised",1.0,1.0,1.0,"milk, liquid (cow and other species)",0.11499999999999999,1.25
+19250,"Sheep milk, whole",1.0,1.0,1.0,"milk, liquid (cow and other species)",0.21800000000000003,2.67
+19546,"Fermented milk, yogurt type with bifidus, plain",1.0,1.0,1.0,yoghurts,0.189,1.22
+19581,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s)",1.0,1.0,1.0,yoghurts,0.189,1.2
+19594,"Yogurt or fermented milk, plain, 0% fat",1.0,1.0,1.0,yoghurts,0.189,1.22
+19679,"Milk jelly, flavoured, covered with caramel sauce, refrigerated",1.0,1.0,1.0,dairy desserts,0.176,1.61
+19801,"Fermented milk drink, plain, skimmed milk",1.0,1.0,1.0,yoghurts,0.16599999999999998,1.24
+20022,"Watercress, raw",1.0,1.0,1.0,"vegetables, raw",0.0882,2.58
+20027,"Spinach, cooked",1.0,1.0,1.0,"vegetables, cooked",0.11399999999999999,2.52
+20030,"French bean, cooked",1.0,1.0,1.0,"vegetables, cooked",0.12,2.23
+20037,"Garden peas, cooked",1.0,1.0,1.0,"vegetables, cooked",0.144,3.01
+20058,"Brussels sprout, raw",1.0,1.0,1.0,"vegetables, raw",0.056299999999999996,3.56
+20059,"Spinach, raw",1.0,1.0,1.0,"vegetables, raw",0.0423,2.58
+20060,"Spinach, canned, drained",1.0,1.0,1.0,"vegetables, cooked",0.11000000000000001,2.94
+20077,"Brussels sprout, canned, drained",1.0,1.0,1.0,"vegetables, cooked",0.13,3.0
+20099,"Lamb's lettuce, raw",1.0,1.0,1.0,"vegetables, raw",0.0868,2.76
+20105,"Morel, raw",1.0,1.0,1.0,"vegetables, raw",0.617,2.88
+20124,"Garden peas, frozen, cooked",1.0,1.0,1.0,"vegetables, cooked",0.10900000000000001,2.08
+20183,"Mung bean, sprouted, raw",1.0,1.0,1.0,"vegetables, raw",0.0817,3.86
+20206,"Brussels sprout, frozen, raw",1.0,1.0,1.0,"vegetables, raw",0.07830000000000001,2.94
+20218,"Curly kale, raw",1.0,1.0,1.0,"vegetables, raw",0.0713,3.43
+20251,"Baby meal, vegetable with milk/cream and starchy food, from 12 months",1.0,1.0,1.0,baby dishes,0.121,1.65
+20254,"Baby meal, vegetable with milk/cream and starchy food, from 18 months",1.0,1.0,1.0,baby dishes,0.121,1.65
+20270,"Spinach, young leaves for salad, raw",1.0,1.0,1.0,"vegetables, raw",0.0423,2.76
+20500,"Broad bean, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.058499999999999996,3.03
+20502,"Haricot bean, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.0409,3.26
+20503,"Red kidney bean, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.058499999999999996,3.13
+20508,"Flageolet bean, canned, drained",1.0,1.0,1.0,"legumes, cooked",0.13999999999999999,3.01
+20513,"Flageolet bean, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.058499999999999996,3.13
+20524,"Red kidney bean, canned, drained",1.0,1.0,1.0,"legumes, cooked",0.145,2.99
+20540,"Flageolet bean, green, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.058499999999999996,3.31
+20542,"Broad bean, peeled, fresh, frozen, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.0573,3.19
+20543,"Broad bean, fresh, frozen, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.0573,3.19
+20587,"Lentil, green, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.0466,3.01
+20589,"Lentil, pink or red, boiled/cooked in water",1.0,1.0,1.0,"legumes, cooked",0.0466,3.01
+20901,"Soybean, seed, whole",1.0,1.0,1.0,nuts and seeds [ready],0.125,2.26
+20914,Plant-based burger or steak from soybean,1.0,1.0,1.0,other vegetarian dishes,0.217,1.96
+22000,"Egg, raw",1.0,1.0,1.0,"eggs, plain (raw or cooked)",0.188,2.44
+22060,"Duck egg, raw",1.0,1.0,1.0,"eggs, plain (raw or cooked)",0.188,3.56
+22070,"Goose egg, raw",1.0,1.0,1.0,"eggs, plain (raw or cooked)",0.188,3.56
+23467,"Chou pastry, sugar coated",1.0,1.0,1.0,Viennese pastries,0.187,1.29
+23480,Apple turnover,1.0,1.0,1.0,Viennese pastries,0.205,1.25
+23585,"Chocolate cake, prepacked",1.0,1.0,1.0,cakes and pastry,0.841,2.02
+23801,"Buckwheat crepe, plain, to be filled, prepacked",1.0,1.0,1.0,cakes and pastry,0.0824,2.48
+23885,"Doughnut filled or covered with chocolate or with chocolate and hazelut paste, prepacked",1.0,1.0,1.0,cakes and pastry,0.624,1.62
+23939,"Soft cake filled with chocolate, prepacked",1.0,1.0,1.0,cakes and pastry,1.01,1.61
+24004,"Biscuit (cookie) with fruits, low salt",1.0,1.0,1.0,sweet biscuits,0.305,1.46
+24034,"Breakfast biscuit (cookie), without chocolate, not fortified",1.0,1.0,1.0,sweet biscuits,0.359,1.4
+25001,"Veal stew in white sauce, prepacked",1.0,1.0,1.0,"meat dishes, no garnish [ready]",1.95,2.88
+25002,"White bean stew, canned",1.0,1.0,1.0,"meat dishes, with vegetables/legume",0.0601,1.96
+25089,"Veal escalope cordon bleu (escalope topped with a ham slice and cheese, breaded, prepacked",1.0,1.0,1.0,"meat dishes, no garnish [ready]",0.544,2.83
+25111,"Chili con carne, prepacked",1.0,1.0,1.0,"meat dishes, with vegetables/legume",1.9600000000000002,3.05
+25121,Cockerel in red wine sauce,1.0,1.0,1.0,"meat dishes, no garnish [ready]",0.641,2.83
+25124,Stewed lamb garnished with potatoes and other vegetables,1.0,1.0,1.0,"meat dishes, with vegetables/legume",2.63,2.91
+25151,"Fish or seafood in puff pastry, prepacked, to cook",1.0,1.0,1.0,savoury pastries and other starters,0.46900000000000003,2.36
+25155,"Fresh pasta, stuffed with cheese and vegetables (e.g. ravioli), cooked, prepacked",1.0,1.0,1.0,pasta or cereal dishes [ready],0.362,1.88
+25158,"Fresh pasta, stuffed with meat (e.g. bolognese-style ravioli), prepacked, cooked",1.0,1.0,1.0,pasta or cereal dishes [ready],1.51,3.02
+25159,"Mutton tagine, prepacked",1.0,1.0,1.0,"meat dishes, with vegetables/legume",2.7800000000000002,2.91
+25163,"Meat balls, beef, cooked",1.0,1.0,1.0,"meat dishes, no garnish [ready]",3.22,3.05
+25173,Milanese-style veal escalope or breaded veal escalope,1.0,1.0,1.0,"meat dishes, no garnish [ready]",2.31,2.88
+25192,"Ravioli filled with vegetables, in tomato sauce, canned",1.0,1.0,1.0,pasta or cereal dishes [ready],0.248,1.89
+25193,"Fresh pasta, stuffed with vegetables (e.g. ravioli), prepacked, cooked",1.0,1.0,1.0,pasta or cereal dishes [ready],0.265,2.12
+25224,"Soy and wheat burger or bite (not vegan), prepacked",1.0,1.0,1.0,other vegetarian dishes,0.191,1.95
+25404,"Pizza, cheese and tomato (Margherita), prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.184,1.71
+25413,"Hamburger, from fast food",1.0,1.0,1.0,sandwiches,1.86,3.04
+25415,"Cheeseburger, double, from fast food",1.0,1.0,1.0,sandwiches,1.41,3.01
+25416,"Fish burger, from fast food",1.0,1.0,1.0,sandwiches,0.71,3.05
+25419,Spring roll,1.0,1.0,1.0,savoury pastries and other starters,0.28700000000000003,2.79
+25431,"Sandwich, baguette, tuna, raw vegetables and mayonnaise, homemade",1.0,1.0,1.0,sandwiches,0.344,2.64
+25438,"Samosas or samoosas or filled filo pastry, home-made, cooked",1.0,1.0,1.0,savoury pastries and other starters,0.311,2.56
+25454,"Tart, Provence-style, prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.254,1.97
+25457,"Pizza, Bolognese-style with meat, prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.7929999999999999,3.01
+25459,Burritos with beef,1.0,1.0,1.0,"pizzas, crepe and pies",0.8710000000000001,3.02
+25460,"Fajitas, home-prepared from kit",1.0,1.0,1.0,"pizzas, crepe and pies",0.23700000000000002,2.74
+25464,"Pizza, salmon, prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.271,1.91
+25488,"Sandwich, baguette, smoked salmon and butter",1.0,1.0,1.0,sandwiches,0.264,2.47
+25503,"Vol-au-vent with fish and seafood, homemade",1.0,1.0,1.0,savoury pastries and other starters,0.881,3.07
+25506,Mixed meat on skewer,1.0,1.0,1.0,"meat dishes, no garnish [ready]",0.47400000000000003,2.85
+25513,"Large round sandwich with lettuce, tuna, anchovy and black olives",1.0,1.0,1.0,sandwiches,0.19,2.32
+25523,"Canapés (savoury toasts with various toppings), prepacked",1.0,1.0,1.0,sandwiches,0.176,1.54
+25531,"Sandwich, baguette, turkey, raw vegetables and mayonnaise",1.0,1.0,1.0,sandwiches,0.27799999999999997,2.59
+25532,"Sandwich, baguette, egg, raw vegetables and mayonnaise",1.0,1.0,1.0,sandwiches,0.24100000000000002,1.97
+25533,"Sandwich, baguette, pork, raw vegetables and mayonnaise",1.0,1.0,1.0,sandwiches,0.331,2.9
+25542,"Toasted ham and cheese sandwich, topped with a fried egg, homemade",1.0,1.0,1.0,sandwiches,0.414,2.88
+25547,"Toasted ham and cheese sandwich, prepacked",1.0,1.0,1.0,sandwiches,0.44699999999999995,2.85
+25551,"Meat, poultry or fish fritters, home-made, cooked",1.0,1.0,1.0,savoury pastries and other starters,0.388,2.79
+25553,"Tart, leek, prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.29,1.51
+25562,"Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked",1.0,1.0,1.0,"pizzas, crepe and pies",0.383,2.86
+25577,"Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked",1.0,1.0,1.0,sandwiches,0.308,2.74
+25584,"Egg roll or nem, with shrimp and/or crab, prepacked, cooked",1.0,1.0,1.0,savoury pastries and other starters,0.292,2.53
+25601,"Tuna salad, with vegetables, canned",1.0,1.0,1.0,mixed salads,0.45199999999999996,2.84
+25608,"Tabbouleh or couscous salad, with vegetables, prepacked",1.0,1.0,1.0,mixed salads,0.12,1.82
+25615,"Pasta salad, vegetarian, with sauce",1.0,1.0,1.0,mixed salads,0.29,1.97
+25628,"Caesar's salad (salad, chicken, croûtons, sauce), prepacked",1.0,1.0,1.0,mixed salads,0.394,2.62
+25998,"Atlantic herring, smoked",1.0,1.0,1.0,fish products,0.317,2.89
+26014,"Atlantic herring, grilled/pan-fried without added fat",1.0,1.0,1.0,"fish, cooked",0.33999999999999997,2.92
+26015,"Saithe, cooked",1.0,1.0,1.0,"fish, cooked",1.02,2.96
+26025,"Cod, steamed",1.0,1.0,1.0,"fish, cooked",1.48,3.09
+26031,"Ray, roasted/baked",1.0,1.0,1.0,"fish, cooked",1.48,3.09
+26034,"European pilchard or sardine, in oil, canned, drained",1.0,1.0,1.0,fish products,0.268,2.13
+26035,"European pilchard or sardine, in tomato sauce, canned, drained",1.0,1.0,1.0,fish products,0.27799999999999997,2.13
+26039,"Tuna, canned in brine, drained",1.0,1.0,1.0,fish products,0.588,2.97
+26040,"European pilchard or sardine, in olive oil, canned, drained",1.0,1.0,1.0,fish products,0.377,1.16
+26053,"Tuna, raw",1.0,1.0,1.0,"fish, raw",0.49800000000000005,2.9
+26064,"Yellowfin tuna, raw",1.0,1.0,1.0,"fish, raw",0.49800000000000005,2.9
+26065,"European pilchard or sardine, raw",1.0,1.0,1.0,"fish, raw",0.22799999999999998,2.72
+26081,"Anglerfish, grilled/pan-fried without added fat",1.0,1.0,1.0,"fish, cooked",1.48,3.22
+26086,"Mackerel, fillet, in tomato sauce, canned, drained",1.0,1.0,1.0,fish products,0.45499999999999996,2.83
+26087,"Mackerel, smoked",1.0,1.0,1.0,fish products,0.261,2.89
+26097,"Mackerel, fillet in white wine, canned, drained",1.0,1.0,1.0,fish products,0.454,1.13
+26098,"Cod, salted, dried",1.0,1.0,1.0,fish products,1.2,3.07
+26119,"Salmon, canned, drained",1.0,1.0,1.0,fish products,0.9099999999999999,2.59
+26120,"European hake, braised",1.0,1.0,1.0,"fish, cooked",0.9359999999999999,3.19
+26136,"European pilchard or sardine, grilled/pan-fried without added fat",1.0,1.0,1.0,"fish, cooked",0.28700000000000003,2.9
+26146,"Snapper, raw",1.0,1.0,1.0,"fish, raw",0.46900000000000003,3.08
+26147,"Snapper, cooked",1.0,1.0,1.0,"fish, cooked",0.5820000000000001,3.13
+26238,"Atlantic herring, oily, raw",1.0,1.0,1.0,"fish, raw",0.268,2.74
+27006,"Trout, roasted/baked",1.0,1.0,1.0,"fish, cooked",0.7030000000000001,2.97
+31012,"Chocolate confectionery or bar, with milk",1.0,1.0,1.0,chocolate and chocolate products [ready],0.725,2.26
+31032,Chocolate spread with hazelnuts,1.0,1.0,1.0,chocolate and chocolate products [ready],0.9109999999999999,1.56
+31074,"Dark chocolate, 70% cocoa, bar",1.0,1.0,1.0,chocolate and chocolate products [ready],1.9100000000000001,1.89
+31098,"Chocolate bar, milk chocolate, with nougat",1.0,1.0,1.0,chocolate and chocolate products [ready],0.532,2.29
+32023,"Cereal flakes with fruits, fortified with vitamins and minerals",1.0,1.0,1.0,breakfast cereals,0.33999999999999997,2.86
+32030,"Cereal flakes, plain, with sugar(s), fortified with vitamins and minerals",1.0,1.0,1.0,breakfast cereals,0.33999999999999997,2.86
+32113,"Muesli, with fruits, nuts and/or seeds, no added sugars, not fortified",1.0,1.0,1.0,breakfast cereals,0.255,3.3
+32116,"Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",1.0,1.0,1.0,breakfast cereals,0.33999999999999997,2.86
+32140,Oat flakes,1.0,1.0,1.0,breakfast cereals,0.156,3.93
+34004,"Rabbit, wild, meat, cooked",1.0,1.0,1.0,"other meats incl. game, cooked",0.775,2.34
+36016,"Chicken, meat and skin, raw",1.0,1.0,1.0,"poultry incl. turkey, raw",0.418,2.08
+36017,"Chicken, breast, without skin, raw",1.0,1.0,1.0,"poultry incl. turkey, raw",0.558,2.09
+36018,"Chicken, breast, without skin, grilled/pan-fried",1.0,1.0,1.0,"poultry incl. turkey, cooked",0.748,2.31
+36027,"Chicken nuggets, breaded croquette, prepacked",1.0,1.0,1.0,"meat dishes, no garnish [ready]",0.387,2.8
+36301,"Turkey, meat, raw",1.0,1.0,1.0,"poultry incl. turkey, raw",0.45599999999999996,2.13
+36302,"Turkey, meat, roasted/baked",1.0,1.0,1.0,"poultry incl. turkey, cooked",0.613,2.34
+36304,"Turkey, escalope, raw",1.0,1.0,1.0,"poultry incl. turkey, raw",0.558,2.13
+36307,"Turkey, leg, meat, raw",1.0,1.0,1.0,"poultry incl. turkey, raw",0.5780000000000001,2.12
+36308,"Turkey, escalope, roasted/baked",1.0,1.0,1.0,"poultry incl. turkey, cooked",0.748,2.34
+39001,"Milkshake, from fast food",1.0,1.0,1.0,dairy desserts,0.151,1.33
+39206,"Chocolate mousse (milk-based), refrigerated",1.0,1.0,1.0,dairy desserts,0.968,1.63
+39214,"Custard dessert, vanilla, canned",1.0,1.0,1.0,dairy desserts,0.183,1.21
+39215,"Floating island (meringue poached in milk and served in a light custard cream), refrigerated",1.0,1.0,1.0,dairy desserts,0.192,1.27
+39218,"Semolina pudding, refrigerated",1.0,1.0,1.0,dairy desserts,0.18,1.2
+39506,"Custard dessert, chocolate, canned",1.0,1.0,1.0,dairy desserts,0.362,1.24
+4004,"Potato, crisps, plain or flavoured, standard",1.0,1.0,1.0,potatoes and other tubers [ready],0.13999999999999999,1.77
+40052,"Heart, beef, raw",1.0,1.0,1.0,offals (raw meat),2.29,2.12
+40060,"Heart, pork, raw",1.0,1.0,1.0,offals (raw meat),0.279,2.31
+40102,"Liver, lamb, raw",1.0,1.0,1.0,offals (raw meat),2.16,2.26
+40104,"Liver, heifer, raw",1.0,1.0,1.0,offals (raw meat),2.29,2.12
+40106,"Liver, calf, raw",1.0,1.0,1.0,offals (raw meat),2.2600000000000002,2.48
+40111,"Liver, chicken, raw",1.0,1.0,1.0,offals (raw meat),0.15,2.15
+40115,"Liver, turkey, raw",1.0,1.0,1.0,offals (raw meat),0.15,2.16
+40119,"Liver, pork, raw",1.0,1.0,1.0,offals (raw meat),0.279,2.31
+4019,"Mashed potatoes, made from flakes, reconstituted with semi-skimmed milk and water, no added salt",1.0,1.0,1.0,potatoes and other tubers [ready],0.0744,1.77
+4022,"Potato flakes, dehydrated, plain",1.0,1.0,1.0,potatoes and other tubers [ready],0.259,2.64
+4026,"Potato, roasted/baked",1.0,1.0,1.0,potatoes and other tubers [ready],0.0852,2.55
+4030,"French fries or chips, frozen, roasted/baked",1.0,1.0,1.0,potatoes and other tubers [ready],0.11699999999999999,2.9
+40304,"Sweetbread, calf, raw",1.0,1.0,1.0,offals (raw meat),2.83,2.48
+4032,"French fries or chips, frozen, deep-fried",1.0,1.0,1.0,potatoes and other tubers [ready],0.146,2.1
+40700,"Gizzard, chicken, raw",1.0,1.0,1.0,offals (raw meat),0.15,2.15
+42603,"Baby meal, vegetables with meat/fish and starchy food, from 6-8 months",1.0,1.0,1.0,baby dishes,0.225,2.68
+6123,"Beef, short ribs, braised or boiled",1.0,1.0,1.0,beef and veal (cooked meat),3.6799999999999997,2.9
+6160,"Beef, topside, raw",1.0,1.0,1.0,beef and veal (raw meat),2.8899999999999997,2.85
+6202,"Beef, bolar-blade, raw",1.0,1.0,1.0,beef and veal (raw meat),2.8899999999999997,2.85
+6206,"Beef, rump steak, raw",1.0,1.0,1.0,beef and veal (raw meat),2.8899999999999997,2.85
+6207,"Beef, rump steak, grilled/pan-fried",1.0,1.0,1.0,beef and veal (cooked meat),3.66,2.86
+6212,"Beef, flank steak, raw",1.0,1.0,1.0,beef and veal (raw meat),2.8899999999999997,2.85
+6251,"Beef, minced steak, 5% fat, cooked",1.0,1.0,1.0,beef and veal (cooked meat),4.5200000000000005,2.9
+6271,"Beef, chuck, braised or boiled",1.0,1.0,1.0,beef and veal (cooked meat),4.6,2.86
+6511,"Veal, chop, grilled/pan-fried",1.0,1.0,1.0,beef and veal (cooked meat),2.96,2.94
+6522,"Veal, tenderloin, raw",1.0,1.0,1.0,beef and veal (raw meat),2.32,2.87
+6551,"Veal, roast, cooked",1.0,1.0,1.0,beef and veal (cooked meat),3.6799999999999997,2.88
+6560,"Veal, shoulder, raw",1.0,1.0,1.0,beef and veal (raw meat),1.86,2.94
+7004,"Bread, French bread, toasted",1.0,1.0,1.0,rusks,0.135,2.4
+7110,"Bread, French bread, wholemeal or integral bread (made with flour type 150)",1.0,1.0,1.0,breads,0.0779,2.34
+7125,Rye and wheat bread,1.0,1.0,1.0,breads,0.076,1.92
+7130,"Bread, French bread, gluten free, prepacked",1.0,1.0,1.0,breads,0.16999999999999998,1.99
+7225,"Brioche or Vienna bread, from bakery",1.0,1.0,1.0,Viennese pastries,0.19,1.27
+7256,"English muffin, whole wheat flour, prepacked",1.0,1.0,1.0,breads,0.10700000000000001,2.47
+7310,"Rusk, no added salt",1.0,1.0,1.0,rusks,0.144,2.24
+7340,"Rusk, wholemeal",1.0,1.0,1.0,rusks,0.144,2.24
+7353,Puffed cereals textured bread,1.0,1.0,1.0,rusks,0.10700000000000001,2.06
+7412,"Crispbread, extruded and grilled, chocolate filling",1.0,1.0,1.0,sweet biscuits,0.154,2.54
+7420,"Swedish toast, whole wheat",1.0,1.0,1.0,rusks,0.13999999999999999,2.55
+7425,"Rusk , slice, multigrain, prepacked",1.0,1.0,1.0,rusks,0.129,2.46
+7710,"Milk roll, from bakery",1.0,1.0,1.0,Viennese pastries,0.273,1.3
+7711,"Milk roll, prepacked",1.0,1.0,1.0,Viennese pastries,0.23199999999999998,1.25
+7712,"Milk roll filled with chocolate chips, prepacked",1.0,1.0,1.0,Viennese pastries,0.351,1.52
+7735,"Brioche, with chocolate chips or filled with chocolate, prepacked",1.0,1.0,1.0,Viennese pastries,0.367,1.51
+7739,"Brioche, filled with custard cream (Chinese brioche type), prepacked",1.0,1.0,1.0,Viennese pastries,0.246,1.25
+7812,"Fougasse, filled",1.0,1.0,1.0,sandwiches,0.11599999999999999,2.2
+8110,"Duck confit (conserved in rendered fat), canned",1.0,1.0,1.0,other delicatessen [ready],0.633,2.48
+8293,"Taramasalata, with cod eggs, prepacked",1.0,1.0,1.0,fish products,0.196,1.97
+8601,"Caen-style tripe, prepacked",1.0,1.0,1.0,"meat dishes, no garnish [ready]",2.5300000000000002,2.37
+8704,"Black pudding, grilled/pan-fried",1.0,1.0,1.0,other delicatessen [ready],0.211,2.15
+9003,"Khorasan wheat, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.0684,3.2
+9081,"Durum wheat pre-cooked, whole grain, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.0696,2.67
+9100,"Rice, white, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.20099999999999998,3.85
+9103,"Rice, wholegrain, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.11599999999999999,3.73
+9105,"Rice, white, parboiled, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.11599999999999999,4.06
+9108,"Rice, wild, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.20099999999999998,3.85
+9111,"Rice, wild, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.11599999999999999,3.73
+9320,"Barley, wholegrain, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.0586,2.64
+9322,"Pearled barley, boiled/cooked in water, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.04,2.33
+9331,"Millet, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.031,3.26
+9341,"Quinoa, boiled/cooked in water, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.273,3.86
+9345,"Amaranth, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.0949,4.1
+9360,"Sorghum, wholegrain, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.0427,3.79
+9390,"Rye, wholegrain, raw",1.0,1.0,1.0,"pasta, rice and grains, raw",0.0533,3.37
+9530,"Rye flour, type 170",1.0,1.0,1.0,flours,0.0716,3.57
+9532,"Rye flour, type 85",1.0,1.0,1.0,flours,0.0716,3.57
+9691,"Wheat bulgur, cooked, no added salt",1.0,1.0,1.0,"pasta, rice and grains, cooked",0.055700000000000006,3.16

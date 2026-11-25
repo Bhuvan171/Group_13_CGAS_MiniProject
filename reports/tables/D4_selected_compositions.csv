@@ -1,0 +1,82 @@
+slot,role,ciqual_code,food_name,is_original,x0,grams,dqr,scenario
+bread,bread,7001,"Bread, French bread, baguette",True,60.0,57.588301366006725,2.34,S1
+spread,fat_spread,16080,"Solid vegetal fat (margarine type), for frying",False,0.0,5.8242017234982,2.0,S1
+spread,fat_spread,17270,"Olive oil, extra virgin",False,0.0,1.6757982765018054,2.21,S1
+jam,sweet_spread,31040,Dulce de leche or confiture de lait,False,0.0,25.0,1.38,S1
+milk,milk_alt,19041,"Milk, semi-skimmed, UHT",True,200.0,126.36232386650441,1.24,S1
+milk,milk_alt,19051,"Milk, skimmed, pasteurised",False,0.0,11.123104261827642,1.25,S1
+milk,milk_alt,18902,"Soy drink, flavoured, with sugar(s), not fortified, prepacked",False,0.0,32.682256164564066,2.11,S1
+juice,fruit_or_juice,13024,"Clementine or Mandarin orange, flesh without skin, without seeds, raw",False,0.0,35.325571195710566,2.74,S1
+juice,fruit_or_juice,13044,"Grape, white, raw",False,0.0,35.23497785692432,2.7,S1
+juice,fruit_or_juice,13083,"Guava, flesh without skin, raw",False,0.0,23.12847827524097,3.44,S1
+juice,fruit_or_juice,2006,"Carrot juice, pure juice",False,0.0,3.838418872396321,2.81,S1
+juice,fruit_or_juice,2012,"Orange juice, from concentrate",False,0.0,14.972553799727837,2.82,S1
+yoghurt,yoghurt_alt,19577,"Yogurt or fermented milk, flavoured, with cream, with sugar(s)",False,0.0,12.098293410118705,1.23,S1
+yoghurt,yoghurt_alt,19593,"Yogurt or fermented milk, plain",True,125.0,49.302367596940556,1.22,S1
+yoghurt,yoghurt_alt,19594,"Yogurt or fermented milk, plain, 0% fat",False,0.0,8.483686249691456,1.22,S1
+yoghurt,yoghurt_alt,19644,"Quark, plain, 0% fat",False,0.0,23.865652743249278,1.55,S1
+protein,protein_main,20589,"Lentil, pink or red, boiled/cooked in water",False,0.0,7.2414102000314085,3.01,S2
+protein,protein_main,36302,"Turkey, meat, roasted/baked",False,0.0,54.009457090550356,2.34,S2
+protein,protein_main,40118,"Liver, turkey, cooked",False,0.0,6.01766581772302,2.26,S2
+protein,protein_main,20591,"Soy protein, textured, rehydrated",False,0.0,82.21251888031075,2.0,S2
+starch,starchy_side,9331,"Millet, cooked, no added salt",False,0.0,94.77091199682334,3.26,S2
+starch,starchy_side,9811,"Pasta, dry, regular, cooked, no added salt",True,200.0,122.4101393542368,3.12,S2
+vegetable,veg_cooked,20030,"French bean, cooked",True,150.0,72.25538613091133,2.23,S2
+vegetable,veg_cooked,20037,"Garden peas, cooked",False,0.0,11.459259914974778,3.01,S2
+vegetable,veg_cooked,20124,"Garden peas, frozen, cooked",False,0.0,26.985975701909,2.08,S2
+vegetable,veg_cooked,20275,"Sweet pepper, red, canned, drained",False,0.0,1.799378252204889,2.97,S2
+cheese,cheese_alt,12114,"Gruyere cheese, from cow's milk",False,0.0,9.603606950389777,1.77,S2
+cheese,cheese_alt,12118,"Emmental cheese, grated, from cow's milk",False,0.0,19.184193861296457,2.0,S2
+oil,fat_spread,16080,"Solid vegetal fat (margarine type), for frying",False,0.0,0.6905734094670253,2.0,S2
+oil,fat_spread,17270,"Olive oil, extra virgin",True,10.0,6.809426590532975,2.21,S2
+fruit,fruit_or_juice,13039,"Apple, flesh and skin, raw",True,150.0,112.5,2.01,S2
+cheese,cheese_alt,12120,"Parmesan cheese, from cow's milk",False,0.0,30.8431127616491,1.77,S3
+milk,milk_alt,19024,"Milk, whole, pasteurised",True,250.0,97.86931457622282,1.2,S3
+milk,milk_alt,18902,"Soy drink, flavoured, with sugar(s), not fortified, prepacked",False,0.0,142.49628254743317,2.11,S3
+yoghurt,yoghurt_alt,19587,"Yogurt or fermented milk, with fruits, with sugar(s)",True,125.0,93.75,1.2,S3
+chocolate,sweet_snack,24054,"Biscuit shortbread, with fruits",False,0.0,1.8821440703503087,1.47,S3
+chocolate,sweet_snack,24312,"Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",False,0.0,9.558928860598094,2.55,S3
+chocolate,sweet_snack,24520,Meringue,False,0.0,11.058927069051599,2.78,S3
+biscuit,sweet_snack,24015,Butter biscuit (cookie),True,30.0,20.43750906167573,1.24,S3
+biscuit,sweet_snack,24312,"Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",False,0.0,13.716990144643983,2.55,S3
+biscuit,sweet_snack,7413,"Crispbread, extruded and grilled, fruit filling",False,0.0,2.500438184172369,2.54,S3
+protein,protein_main,36018,"Chicken, breast, without skin, grilled/pan-fried",True,120.0,62.964448002312025,2.31,S4
+protein,protein_main,20591,"Soy protein, textured, rehydrated",False,0.0,57.851248468018596,2.0,S4
+protein,protein_main,25598,"Seitan, prepacked",False,0.0,22.890932124476794,2.17,S4
+starch,starchy_side,9081,"Durum wheat pre-cooked, whole grain, cooked, no added salt",False,0.0,57.63752656649253,2.67,S4
+starch,starchy_side,9104,"Rice, white, cooked, no added salt",True,180.0,90.34844874348578,3.73,S4
+vegetable,veg_cooked,20021,"Courgette or zucchini, flesh and skin, cooked",True,150.0,64.09491230130662,2.72,S4
+vegetable,veg_cooked,20049,"Corn, on the cob, cooked",False,0.0,14.796725340577774,3.01,S4
+vegetable,veg_cooked,20255,"Shallot, cooked",False,0.0,29.62429907711962,2.79,S4
+vegetable,veg_cooked,20275,"Sweet pepper, red, canned, drained",False,0.0,3.984063280995981,2.97,S4
+fat,fat_spread,16080,"Solid vegetal fat (margarine type), for frying",False,0.0,6.309381863795884,2.0,S4
+fat,fat_spread,17270,"Olive oil, extra virgin",False,0.0,1.1906181362041162,2.21,S4
+bread,bread,7001,"Bread, French bread, baguette",False,0.0,30.0,2.34,S4
+fruit,fruit_or_juice,13005,"Banana, flesh without skin, raw",True,120.0,48.673135576737806,2.61,S4
+fruit,fruit_or_juice,13044,"Grape, white, raw",False,0.0,41.326864423262194,2.7,S4
+S1.bread,bread,7001,"Bread, French bread, baguette",True,60.0,45.0,2.34,S5
+S1.spread,fat_spread,16080,"Solid vegetal fat (margarine type), for frying",False,0.0,7.5,2.0,S5
+S1.jam,sweet_spread,31024,"Jam, strawberry",True,20.0,20.0,2.95,S5
+S1.milk,milk_alt,19041,"Milk, semi-skimmed, UHT",True,200.0,150.0,1.24,S5
+S1.juice,fruit_or_juice,13024,"Clementine or Mandarin orange, flesh without skin, without seeds, raw",False,0.0,112.5,2.74,S5
+S1.yoghurt,yoghurt_alt,19644,"Quark, plain, 0% fat",False,0.0,54.24364599023029,1.55,S5
+S1.yoghurt,yoghurt_alt,19666,"Fresh cream cheese, petit-suisse type, plain, around 10% fat",False,0.0,39.50635400976971,1.39,S5
+S2.protein,protein_main,36302,"Turkey, meat, roasted/baked",False,0.0,28.389187911864994,2.34,S5
+S2.protein,protein_main,20591,"Soy protein, textured, rehydrated",False,0.0,61.62368288629577,2.0,S5
+S2.protein,protein_main,25598,"Seitan, prepacked",False,0.0,59.98712920183924,2.17,S5
+S2.starch,starchy_side,9811,"Pasta, dry, regular, cooked, no added salt",True,200.0,200.0,3.12,S5
+S2.vegetable,veg_cooked,20030,"French bean, cooked",True,150.0,112.5,2.23,S5
+S2.cheese,cheese_alt,12115,"Emmental cheese, from cow's milk",True,30.0,24.5848692801777,1.77,S5
+S2.oil,fat_spread,17270,"Olive oil, extra virgin",True,10.0,7.5,2.21,S5
+S2.fruit,fruit_or_juice,13039,"Apple, flesh and skin, raw",True,150.0,144.18692248800676,2.01,S5
+S4.protein,protein_main,40118,"Liver, turkey, cooked",False,0.0,7.924218036263835,2.26,S5
+S4.protein,protein_main,20591,"Soy protein, textured, rehydrated",False,0.0,142.07578196373618,2.0,S5
+S4.starch,starchy_side,9104,"Rice, white, cooked, no added salt",True,180.0,104.06659519313558,3.73,S5
+S4.starch,starchy_side,9683,"Couscous grain, cooked, no added salt",False,0.0,100.26554345346185,3.11,S5
+S4.vegetable,veg_cooked,20124,"Garden peas, frozen, cooked",False,0.0,112.5,2.08,S5
+S4.fat,fat_spread,16080,"Solid vegetal fat (margarine type), for frying",False,0.0,5.582661765925061,2.0,S5
+S4.fat,fat_spread,17270,"Olive oil, extra virgin",False,0.0,1.91733823407496,2.21,S5
+S4.bread,bread,7258,"Bread, bagel",False,0.0,30.0,2.1,S5
+S4.fruit,fruit_or_juice,13005,"Banana, flesh without skin, raw",True,120.0,23.08857824606718,2.61,S5
+S4.fruit,fruit_or_juice,13024,"Clementine or Mandarin orange, flesh without skin, without seeds, raw",False,0.0,47.08444058551739,2.74,S5
+S4.fruit,fruit_or_juice,2054,Pear nectar,False,0.0,19.826981168415426,2.09,S5

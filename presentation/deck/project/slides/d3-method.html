@@ -1,0 +1,20 @@
+<section id="d3-method" class="alt">
+<div class="head">
+<p class="eyebrow">D3 · Substitution network · method</p>
+<h2>Nutrients define equivalence; impacts score it</h2>
+</div>
+<div class="row" style="gap:40px">
+<div class="col" style="width:820px; gap:18px">
+<div class="row rise" style="--i:0; gap:20px"><p class="stepno">1</p><div class="col grow" style="gap:4px"><h3>Eligible pairs</h3><p class="cap">Same comparable group, or a shared declared role such as cooked protein mains</p></div></div>
+<div class="row rise" style="--i:1; gap:20px"><p class="stepno">2</p><div class="col grow" style="gap:4px"><h3>Nutrient distance</h3><p class="cap">Robust-scaled profile of 15 nutrients, using only values observed in both foods</p></div></div>
+<div class="row rise" style="--i:2; gap:20px"><p class="stepno">3</p><div class="col grow" style="gap:4px"><h3>Graph edges</h3><p class="cap">Mutual 5-nearest neighbours within the calibrated threshold τ = 0.236</p></div></div>
+<div class="row rise" style="--i:3; gap:20px"><p class="stepno">4</p><div class="col grow" style="gap:4px"><h3>Impacts attached afterwards</h3><p class="cap">A test shuffles every impact column: the edge set does not change (no leakage)</p></div></div>
+<div class="row rise" style="--i:4; gap:20px"><p class="stepno">5</p><div class="col grow" style="gap:4px"><h3>Classify every directed swap</h3><p class="cap">strong · equivalent but caveated · misleading · unverifiable</p></div></div>
+</div>
+<div class="col grow" style="gap:16px">
+<div class="fig fade" style="--i:1"><img src="/_blob/b0a93927d2679fdd77b93cf3d96abfca" alt="Threshold calibration curve: coverage rises and validity (graph edges passing independent retention checks) falls as tau increases; their product plateaus and the selected quantile 0.70 (tau 0.236) is the most conservative point within 5 % of the best score" style="width:770px; height:471px; object-fit:contain"></div>
+<p class="cap">τ is fixed by a rule set in advance: the most conservative value on the plateau of coverage × validity.</p>
+</div>
+</div>
+<div class="foot"><p class="foot-l">Sustainome · BIO544 Group 13</p><p class="pg"></p></div>
+</section>

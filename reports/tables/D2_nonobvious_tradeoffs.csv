@@ -1,0 +1,892 @@
+type,ciqual_code,food_name,analysis_group
+"efficient per 100 g, dominated per 100 kcal",10002,"Squid fritter, Roman-style, prepacked",fish products
+"efficient per 100 g, dominated per 100 kcal",11164,"Red wine sauce, homemade",warm sauces
+"efficient per 100 g, dominated per 100 kcal",12001,"Camembert cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 100 kcal",12021,"Brie de Meaux cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 100 kcal",12028,"Chaource cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 100 kcal",12040,"Langres cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 100 kcal",12049,"Saint-Marcellin cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 100 kcal",12112,"Abondance cheese, from cow's milk",hard or pressed cheeses
+"efficient per 100 g, dominated per 100 kcal",12716,"Provolone cheese, from cow's milk",hard or pressed cheeses
+"efficient per 100 g, dominated per 100 kcal",13021,"Kiwi fruit, flesh without skin, with seeds, raw",fresh fruits
+"efficient per 100 g, dominated per 100 kcal",13039,"Apple, flesh and skin, raw",fresh fruits
+"efficient per 100 g, dominated per 100 kcal",13159,"Baby fruit-based beverage, from 4/6 months",baby milk and beverages
+"efficient per 100 g, dominated per 100 kcal",13162,"Dairy and cereal-based beverage for baby's snack, with fruits, from 4/6 months",baby milk and beverages
+"efficient per 100 g, dominated per 100 kcal",15021,"Chestnut, grilled",nuts and seeds [ready]
+"efficient per 100 g, dominated per 100 kcal",15024,"Chestnut, raw",nuts and seeds [ready]
+"efficient per 100 g, dominated per 100 kcal",15029,"Alfalfa seeds, sprouted","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",19012,"Baby milk, growing-up milk, ready to drink",baby milk and beverages
+"efficient per 100 g, dominated per 100 kcal",19014,"Baby milk, follow-on formula, ready to drink",baby milk and beverages
+"efficient per 100 g, dominated per 100 kcal",20016,"Cauliflower, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20045,"Radish, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20064,"Turnip, peeled, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20065,"Kohlrabi, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20083,"Spinach, frozen, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20086,"Sweet pepper, green, cooked","vegetables, cooked"
+"efficient per 100 g, dominated per 100 kcal",20094,"Kohlrabi, boiled/cooked in water","vegetables, cooked"
+"efficient per 100 g, dominated per 100 kcal",20151,"Chili pepper, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20163,"Green endive, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",20261,"Carrots, puree","vegetables, cooked"
+"efficient per 100 g, dominated per 100 kcal",2027,"Grapefruit juice, pure juice",juices
+"efficient per 100 g, dominated per 100 kcal",20280,"Romanesco cauliflower or romanesco broccoli, raw","vegetables, raw"
+"efficient per 100 g, dominated per 100 kcal",22001,"Egg white, raw","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 100 kcal",22008,"Egg white, cooked","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 100 kcal",22010,"Egg, hard-boiled","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 100 kcal",22014,"Egg, soft-boiled","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 100 kcal",22505,"Egg, fried, without added fat","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 100 kcal",23032,"Brownie (chocolate cake), prepacked",cakes and pastry
+"efficient per 100 g, dominated per 100 kcal",23493,"Apple crumble, prepacked",cakes and pastry
+"efficient per 100 g, dominated per 100 kcal",23497,"Chocolate tart, from bakery",cakes and pastry
+"efficient per 100 g, dominated per 100 kcal",24037,Biscuit (cookie) filled with fruit paste or fruit puree,sweet biscuits
+"efficient per 100 g, dominated per 100 kcal",24312,"Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",sweet biscuits
+"efficient per 100 g, dominated per 100 kcal",24320,"Wafer biscuit, with fruit filling",sweet biscuits
+"efficient per 100 g, dominated per 100 kcal",24430,"Biscuit (cookie), sponge fingers or lady fingers",sweet biscuits
+"efficient per 100 g, dominated per 100 kcal",24686,"Biscuit sponge cake, filled with fruits and with chocolate covering",sweet biscuits
+"efficient per 100 g, dominated per 100 kcal",25010,"Salt-cured pork belly with lentils, prepacked","meat dishes, with vegetables/legume"
+"efficient per 100 g, dominated per 100 kcal",25033,"Burgundy-style beef stew, prepacked","meat dishes, no garnish [ready]"
+"efficient per 100 g, dominated per 100 kcal",25071,"Pork sausage stew with cabbage, carrots and potatoes","meat dishes, with vegetables/legume"
+"efficient per 100 g, dominated per 100 kcal",25110,"Dumplings, steamed, with shrimps, cooked",pasta or cereal dishes [ready]
+"efficient per 100 g, dominated per 100 kcal",25174,"Chicken with curry and coconut milk sauce, prepacked","meat dishes, no garnish [ready]"
+"efficient per 100 g, dominated per 100 kcal",25213,"Veal paupiette, prepacked, roasted/baked","meat dishes, no garnish [ready]"
+"efficient per 100 g, dominated per 100 kcal",25410,"Crepe or buckwheat pancake, filled with cheese, ham and béchamel sauce, prepacked","pizzas, crepe and pies"
+"efficient per 100 g, dominated per 100 kcal",25429,"Sandwich, baguette, kebab and raw vegetables",sandwiches
+"efficient per 100 g, dominated per 100 kcal",25511,Stuffed vegetables (excluding tomato),"meat dishes, with vegetables/legume"
+"efficient per 100 g, dominated per 100 kcal",25530,"Sandwich, baguette, raw vegetables and mayonnaise",sandwiches
+"efficient per 100 g, dominated per 100 kcal",25582,"Egg roll or nem, with chicken, prepacked, cooked",savoury pastries and other starters
+"efficient per 100 g, dominated per 100 kcal",25589,"Plant-based ball with wheat and/or soybean, prepacked",other vegetarian dishes
+"efficient per 100 g, dominated per 100 kcal",25595,"Plant-based burger or steak from soybean and cheese, prepacked",other vegetarian dishes
+"efficient per 100 g, dominated per 100 kcal",25905,"Soup, mixed vegetables, dehydrated and reconstituted",soups
+"efficient per 100 g, dominated per 100 kcal",25950,"Soup, chicken and vermicelli, dehydrated and reconstituted",soups
+"efficient per 100 g, dominated per 100 kcal",26001,"American bass, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26009,"Atlantic halibut, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26010,"Atlantic herring, marinated, or rollmops, prepacked",fish products
+"efficient per 100 g, dominated per 100 kcal",26029,"Fish, breaded, frozen, raw",fish products
+"efficient per 100 g, dominated per 100 kcal",26060,"Common sole, roasted/baked","fish, cooked"
+"efficient per 100 g, dominated per 100 kcal",26068,"Skipjack tuna, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26079,"Anchovy, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26102,"Atlantic chub mackerel, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26166,"Garfish, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",26178,"Grouper, raw","fish, raw"
+"efficient per 100 g, dominated per 100 kcal",28540,"Pig's trotter, brined",other delicatessen [ready]
+"efficient per 100 g, dominated per 100 kcal",31000,Chocolate bar with biscuit,chocolate and chocolate products [ready]
+"efficient per 100 g, dominated per 100 kcal",39229,"Custard dessert, vanilla, refrigerated",dairy desserts
+"efficient per 100 g, dominated per 100 kcal",4013,"Noisette potato, frozen, raw",potatoes and other tubers [raw]
+"efficient per 100 g, dominated per 100 kcal",40402,"Kidney, beef, raw",offals (raw meat)
+"efficient per 100 g, dominated per 100 kcal",40404,"Kidney, pork, raw",offals (raw meat)
+"efficient per 100 g, dominated per 100 kcal",5004,Shandy (beer + lemonade),cocktails
+"efficient per 100 g, dominated per 100 kcal",5005,"Shandy, prepacked (<1° alcohol), flavoured or plain",cocktails
+"efficient per 100 g, dominated per 100 kcal",53200,"Taro, tuber, raw",potatoes and other tubers [raw]
+"efficient per 100 g, dominated per 100 kcal",6100,"Beef, rib steak, lean, grilled/pan-fried",beef and veal (cooked meat)
+"efficient per 100 g, dominated per 100 kcal",6110,"Beef, sirloin steak, grilled/pan-fried",beef and veal (cooked meat)
+"efficient per 100 g, dominated per 100 kcal",6250,"Beef, minced steak, 5% fat, raw",beef and veal (raw meat)
+"efficient per 100 g, dominated per 100 kcal",6253,"Beef, minced steak, 10% fat, cooked",beef and veal (cooked meat)
+"efficient per 100 g, dominated per 100 kcal",7720,"Raisin puff pastry (Viennese pastries), from bakery",Viennese pastries
+"efficient per 100 g, dominated per 100 kcal",8395,"Ham, in a pastry crust",other delicatessen [ready]
+"efficient per 100 g, dominated per 100 kcal",8400,Head-cheese pâté or brawn,other delicatessen [ready]
+"efficient per 100 g, dominated per 100 kcal",9901,"Rice vermicelli, dry, cooked, no added salt","pasta, rice and grains, cooked"
+"dominated per 100 g, efficient per 100 kcal",1003,Liqueur,liqueurs and spirits
+"dominated per 100 g, efficient per 100 kcal",1005,Whisky,liqueurs and spirits
+"dominated per 100 g, efficient per 100 kcal",1008,Vodka,liqueurs and spirits
+"dominated per 100 g, efficient per 100 kcal",11015,"Black pepper, powder",spices [dry]
+"dominated per 100 g, efficient per 100 kcal",11042,"Cumin, seed",spices [ready]
+"dominated per 100 g, efficient per 100 kcal",11048,Nutmeg,spices [ready]
+"dominated per 100 g, efficient per 100 kcal",11049,"Paprika, powder",spices [dry]
+"dominated per 100 g, efficient per 100 kcal",11054,"Mayonnaise (70% fat min.), prepacked",cold sauces
+"dominated per 100 g, efficient per 100 kcal",11061,"Poppy, seed",spices [ready]
+"dominated per 100 g, efficient per 100 kcal",11079,"Mayonnaise, reduced fat or light mayonnaise, prepacked",cold sauces
+"dominated per 100 g, efficient per 100 kcal",11088,"Cayenne pepper, powder",spices [dry]
+"dominated per 100 g, efficient per 100 kcal",11089,"Turmeric, powder",spices [dry]
+"dominated per 100 g, efficient per 100 kcal",11101,"Béchamel sauce, prepacked",warm sauces
+"dominated per 100 g, efficient per 100 kcal",11102,"Béarnaise sauce, prepacked",warm sauces
+"dominated per 100 g, efficient per 100 kcal",11120,"Burgundy-style sauce, prepacked",cold sauces
+"dominated per 100 g, efficient per 100 kcal",12008,"Soft-ripened cheese, double cream, around 30% fat, with bloomy rind, from cow's milk",soft cheeses
+"dominated per 100 g, efficient per 100 kcal",12020,"Brie cheese, from cow's milk",soft cheeses
+"dominated per 100 g, efficient per 100 kcal",12033,"Soft-ripened cheese, triple cream, around 3840% fat, from cow's milk",soft cheeses
+"dominated per 100 g, efficient per 100 kcal",12042,"Pont l'Evêque cheese, from cow's milk",soft cheeses
+"dominated per 100 g, efficient per 100 kcal",12114,"Gruyere cheese, from cow's milk",hard or pressed cheeses
+"dominated per 100 g, efficient per 100 kcal",12118,"Emmental cheese, grated, from cow's milk",hard or pressed cheeses
+"dominated per 100 g, efficient per 100 kcal",13016,"Passion fruit, flesh without skin, with seeds, raw",fresh fruits
+"dominated per 100 g, efficient per 100 kcal",13023,"Lithchi, flesh without skin, pitted, flesh without skin, raw",fresh fruits
+"dominated per 100 g, efficient per 100 kcal",13028,"Blueberry, raw",fresh fruits
+"dominated per 100 g, efficient per 100 kcal",13067,"Lime, flesh without skin, without seeds, raw",fresh fruits
+"dominated per 100 g, efficient per 100 kcal",15000,"Almond, with peel, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",15004,"Hazelnut, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",15025,Pine nut,nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",15026,"Pecan nut, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",15034,"Flaxseed, seed",nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",15041,"Almond, peeled, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 100 kcal",18339,"Still soft drink, fruit content >= 10% and < 50%, with sugar(s)",soft drinks
+"dominated per 100 g, efficient per 100 kcal",19023,"Milk, whole, UHT","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 100 kcal",19024,"Milk, whole, pasteurised","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 100 kcal",19037,"Milk, semi-skimmed, UHT, fortified with vitamin D","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 100 kcal",19041,"Milk, semi-skimmed, UHT","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 100 kcal",19042,"Milk, semi-skimmed, pasteurised","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 100 kcal",19508,"Fermented milk drink, flavoured, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19542,"Fermented milk, yogurt type with bifidus, with fruits, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19550,"Yogurt, Greek-style, ewe's milk",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19552,"Yogurt, Greek-style, on a fruit layer, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19577,"Yogurt or fermented milk, flavoured, with cream, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19580,"Yogurt or fermented milk, with chocolate flakes, with cream, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19582,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s), fortified with vitamin D",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19589,"Yogurt or fermented milk, with fruits, with cream, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19593,"Yogurt or fermented milk, plain",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19805,"Fermented milk drink, plain, whole milk",yoghurts
+"dominated per 100 g, efficient per 100 kcal",19860,"Yogurt, Greek-style, plain",yoghurts
+"dominated per 100 g, efficient per 100 kcal",20000,"Artichoke, globe, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20002,"Eggplant, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20012,"Curly endive, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20033,"Turnip, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20035,"Onion, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20036,"Garden peas, canned, drained","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20038,"Dandelion, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20046,"Salsify, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20049,"Corn, on the cob, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20054,"Cardoon, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20066,"Corn, sweet, canned, drained","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20068,"Tomato paste, concentrated, canned","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20072,"Garden peas, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20084,"Garden peas, frozen, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20090,"Escaroles, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20096,"Pumpkin, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20097,"Shallot, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20108,"Corn, on the cob, frozen, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20138,"Squash, butternut, flesh without skin, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20143,"Squash, spaghetti, flesh without skin, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20158,"New Zealand spinach, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20165,"Rutabaga or Swede, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20181,"Parsnip, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20233,"Corn, frozen, raw","vegetables, raw"
+"dominated per 100 g, efficient per 100 kcal",20243,"Snow pea, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20250,"Baby meal, vegetable with milk/cream and starchy food, from 8-12 months",baby dishes
+"dominated per 100 g, efficient per 100 kcal",20255,"Shallot, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 100 kcal",20507,"Chick pea, boiled/cooked in water","legumes, cooked"
+"dominated per 100 g, efficient per 100 kcal",20511,"Haricot bean, canned, drained","legumes, cooked"
+"dominated per 100 g, efficient per 100 kcal",20531,"Mung bean, fresh, boiled/cooked in water","legumes, cooked"
+"dominated per 100 g, efficient per 100 kcal",2069,"Multifruit juice, from concentrate, standard",juices
+"dominated per 100 g, efficient per 100 kcal",2074,"Apple juice, pure juice",juices
+"dominated per 100 g, efficient per 100 kcal",22002,"Egg yolk, raw","eggs, plain (raw or cooked)"
+"dominated per 100 g, efficient per 100 kcal",22009,"Egg yolk, cooked","eggs, plain (raw or cooked)"
+"dominated per 100 g, efficient per 100 kcal",23122,"Kouign amann, Buttered and caramelized milkbread cake, from bakery",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23534,"Semolina pudding with raisins and caramel sauce, refrigerated",dairy desserts
+"dominated per 100 g, efficient per 100 kcal",23799,"Crepe, plain, prepacked, refrigerated",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23800,"Crepe, plain, prepacked, room temperature",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23851,"Soft waffle (Brussels-style), plain or with sugar(s), prepacked",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23881,"Doughnut filled with fruit filling (e.g. jam), prepacked-> ARCHIVE",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23925,"Marble cake, prepacked",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",23941,"Soft cake filled with fruits, mini sponge roll type, prepacked",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",24051,"Biscuit sponge cake, with chocolate covering, pre-packed",sweet biscuits
+"dominated per 100 g, efficient per 100 kcal",24632,"Madeleine cake, prepacked",cakes and pastry
+"dominated per 100 g, efficient per 100 kcal",25085,"Bolognese-style pasta (spaghetti, tagliatelle…), prepacked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 100 kcal",25088,"Cantonese rice, prepacked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 100 kcal",25131,"Lasagna or cannelloni with vegetables, prepacked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 100 kcal",25164,"Osso buco from veal (with vegetables and white wine), homemade","meat dishes, with vegetables/legume"
+"dominated per 100 g, efficient per 100 kcal",25226,"Soybean and wheat-based nuggets, breaded croquette (not vegan), prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 100 kcal",25228,"Schnitzel, soybean and wheat-based (not vegan), prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 100 kcal",25233,"Cereal burger with cheese (without soybean), prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 100 kcal",25412,Vol-au-vent with meat/poultry/quenelle,savoury pastries and other starters
+"dominated per 100 g, efficient per 100 kcal",25414,"Cheeseburger, from fast food",sandwiches
+"dominated per 100 g, efficient per 100 kcal",25472,"Pizza, vegetables or (4 seasons), prepacked","pizzas, crepe and pies"
+"dominated per 100 g, efficient per 100 kcal",25508,"Ham and cheese puffed pastry, homemade",savoury pastries and other starters
+"dominated per 100 g, efficient per 100 kcal",25561,"Tart, tomato, prepacked","pizzas, crepe and pies"
+"dominated per 100 g, efficient per 100 kcal",25576,"Sandwich, club, wholemeal bread, ham and cheese, prepacked",sandwiches
+"dominated per 100 g, efficient per 100 kcal",25583,"Egg roll or nem, with pork, prepacked, cooked",savoury pastries and other starters
+"dominated per 100 g, efficient per 100 kcal",25594,"Plant-based burger or steak from wheat and soybean (not vegan), prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 100 kcal",26002,"European plaice, breaded, fried",fish products
+"dominated per 100 g, efficient per 100 kcal",26011,"Atlantic herring, raw","fish, raw"
+"dominated per 100 g, efficient per 100 kcal",26013,"Atlantic herring, smoked, canned in brine",fish products
+"dominated per 100 g, efficient per 100 kcal",26026,"Mullet, roasted/baked","fish, cooked"
+"dominated per 100 g, efficient per 100 kcal",26036,"Salmon, raw, farmed","fish, raw"
+"dominated per 100 g, efficient per 100 kcal",26038,"Salmon, steamed","fish, cooked"
+"dominated per 100 g, efficient per 100 kcal",26051,"Mackerel, raw","fish, raw"
+"dominated per 100 g, efficient per 100 kcal",26090,"Haddock, smoked",fish products
+"dominated per 100 g, efficient per 100 kcal",26093,"Swordfish, roasted/baked","fish, cooked"
+"dominated per 100 g, efficient per 100 kcal",26124,"Whiting, breaded",fish products
+"dominated per 100 g, efficient per 100 kcal",26134,"Saithe, raw","fish, raw"
+"dominated per 100 g, efficient per 100 kcal",26230,"Salmon, farmed, roasted/baked","fish, cooked"
+"dominated per 100 g, efficient per 100 kcal",26269,"Tabbouleh or couscous salad, with chicken, prepacked",mixed salads
+"dominated per 100 g, efficient per 100 kcal",27010,"European perch, raw","fish, raw"
+"dominated per 100 g, efficient per 100 kcal",31041,"Chocolate confectionery, coated",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 100 kcal",31066,"Chocolate and nut confectionery, filled with praliné",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 100 kcal",32001,"Breakfast cereals with chocolate, extruded, not filled, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32016,"Breakfast cereals, chocolate or chocolate-hazelnut filling, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32018,"Breakfast cereals, vanilla or milk filling, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32022,"Cereal flakes with chocolate, with or without nuts, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32108,"Granola with fruits, with or without nut and seeds, not fortified",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32109,"Granola with chocolate, not fortified",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32110,"Muesli, with fruits, nuts and/or seeds, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32111,"Granola with fruits, with or without nut and seeds, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",32112,"Granola with chocolate, fortified with vitamins and minerals",breakfast cereals
+"dominated per 100 g, efficient per 100 kcal",34000,"Rabbit, meat, braised","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 100 kcal",36000,"Hen, meat and skin, raw","poultry incl. turkey, raw"
+"dominated per 100 g, efficient per 100 kcal",36001,"Hen, meat, raw","poultry incl. turkey, raw"
+"dominated per 100 g, efficient per 100 kcal",36005,"Chicken, meat and skin, roasted/baked","poultry incl. turkey, cooked"
+"dominated per 100 g, efficient per 100 kcal",36032,"Chicken, breast, meat and skin, roasted/baked","poultry incl. turkey, cooked"
+"dominated per 100 g, efficient per 100 kcal",36102,"Quail, meat and skin, cooked","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 100 kcal",36402,"Pheasant, meat, roasted/baked","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 100 kcal",36503,"Goose, meat and skin, roasted/baked","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 100 kcal",36602,"Pigeon, meat, roasted/baked","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 100 kcal",39200,"Custard dessert, chocolate, refrigerated",dairy desserts
+"dominated per 100 g, efficient per 100 kcal",39213,"Caramelized custard cream (crème brûlée), refrigerated",dairy desserts
+"dominated per 100 g, efficient per 100 kcal",4000,"Tapioca, raw",potatoes and other tubers [raw]
+"dominated per 100 g, efficient per 100 kcal",40055,"Heart, turkey, raw",offals (raw meat)
+"dominated per 100 g, efficient per 100 kcal",4015,"Potato, sautéed/pan-fried with fat",potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 100 kcal",40205,"Tongue, pork, raw",offals (raw meat)
+"dominated per 100 g, efficient per 100 kcal",4027,"Potato, sautéed/pan-fried, pre-fried, frozen, cooked",potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 100 kcal",4037,"Potato crisps, plain or flavoured, old style",potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 100 kcal",4039,Rostis,potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 100 kcal",42606,"Baby meal, vegetables with meat/fish and starchy food, from 18 months",baby dishes
+"dominated per 100 g, efficient per 100 kcal",54031,"Cassava or manioc, root, raw",potatoes and other tubers [raw]
+"dominated per 100 g, efficient per 100 kcal",6102,"Beef, round, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6103,"Beef, rib steak, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6122,"Beef, short ribs, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6130,"Beef, thin flank, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6201,"Beef, steak or beef steak, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6252,"Beef, minced steak, 10% fat, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6510,"Veal, chop, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",6513,"Veal, loin, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 100 kcal",7001,"Bread, French bread, baguette",breads
+"dominated per 100 g, efficient per 100 kcal",7007,"Bread, tradtion French bread",breads
+"dominated per 100 g, efficient per 100 kcal",7111,"Sandwich loaf, wholemeal, prepacked",breads
+"dominated per 100 g, efficient per 100 kcal",7113,"Sandwich loaf, multigrain and/or with seeds, prepacked",breads
+"dominated per 100 g, efficient per 100 kcal",7330,"Rusk, multigrain",rusks
+"dominated per 100 g, efficient per 100 kcal",7620,"Croissant, pure butter, from bakery",Viennese pastries
+"dominated per 100 g, efficient per 100 kcal",7813,"Maize/corn tortilla wrap, to be filled",breads
+"dominated per 100 g, efficient per 100 kcal",8321,"Foie gras, duck, whole, cooked",other delicatessen [ready]
+"dominated per 100 g, efficient per 100 kcal",9104,"Rice, white, cooked, no added salt","pasta, rice and grains, cooked"
+"dominated per 100 g, efficient per 100 kcal",9313,"Oat flakes, boiled/cooked in water","pasta, rice and grains, cooked"
+"dominated per 100 g, efficient per 100 kcal",9824,"Pasta, dry, gluten-free, cooked, no added salt","pasta, rice and grains, cooked"
+"efficient per 100 g, dominated per 10 g protein",10002,"Squid fritter, Roman-style, prepacked",fish products
+"efficient per 100 g, dominated per 10 g protein",12001,"Camembert cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12021,"Brie de Meaux cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12028,"Chaource cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12039,"Munster cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12040,"Langres cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12049,"Saint-Marcellin cheese, from cow's milk",soft cheeses
+"efficient per 100 g, dominated per 10 g protein",12112,"Abondance cheese, from cow's milk",hard or pressed cheeses
+"efficient per 100 g, dominated per 10 g protein",12115,"Emmental cheese, from cow's milk",hard or pressed cheeses
+"efficient per 100 g, dominated per 10 g protein",12716,"Provolone cheese, from cow's milk",hard or pressed cheeses
+"efficient per 100 g, dominated per 10 g protein",15029,"Alfalfa seeds, sprouted","vegetables, raw"
+"efficient per 100 g, dominated per 10 g protein",20199,"Garden cress, raw","vegetables, raw"
+"efficient per 100 g, dominated per 10 g protein",20280,"Romanesco cauliflower or romanesco broccoli, raw","vegetables, raw"
+"efficient per 100 g, dominated per 10 g protein",20506,"Split pea, boiled/cooked in water","legumes, cooked"
+"efficient per 100 g, dominated per 10 g protein",22014,"Egg, soft-boiled","eggs, plain (raw or cooked)"
+"efficient per 100 g, dominated per 10 g protein",23300,Baklava (oriental pastry with almonds and syrup),cakes and pastry
+"efficient per 100 g, dominated per 10 g protein",23536,"Rice pudding with caramel sauce, refrigerated",dairy desserts
+"efficient per 100 g, dominated per 10 g protein",23821,"Crepe filled with chocolate or chocolate and hazelnut spread, home-made",cakes and pastry
+"efficient per 100 g, dominated per 10 g protein",23829,"Crepe filled with chocolate, prepacked",cakes and pastry
+"efficient per 100 g, dominated per 10 g protein",24037,Biscuit (cookie) filled with fruit paste or fruit puree,sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",24312,"Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",24320,"Wafer biscuit, with fruit filling",sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",24520,Meringue,sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",24686,"Biscuit sponge cake, filled with fruits and with chocolate covering",sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",25019,"Ravioli filled with meat, in tomato sauce, canned",pasta or cereal dishes [ready]
+"efficient per 100 g, dominated per 10 g protein",25071,"Pork sausage stew with cabbage, carrots and potatoes","meat dishes, with vegetables/legume"
+"efficient per 100 g, dominated per 10 g protein",25081,"Lasagna or cannelloni with meat (bolognese sauce), prepacked",pasta or cereal dishes [ready]
+"efficient per 100 g, dominated per 10 g protein",25110,"Dumplings, steamed, with shrimps, cooked",pasta or cereal dishes [ready]
+"efficient per 100 g, dominated per 10 g protein",25174,"Chicken with curry and coconut milk sauce, prepacked","meat dishes, no garnish [ready]"
+"efficient per 100 g, dominated per 10 g protein",25410,"Crepe or buckwheat pancake, filled with cheese, ham and béchamel sauce, prepacked","pizzas, crepe and pies"
+"efficient per 100 g, dominated per 10 g protein",25541,Lamb on skewer,"meat dishes, no garnish [ready]"
+"efficient per 100 g, dominated per 10 g protein",25550,"Flamed tart (thin-crusted onion tart with cream and lardoons), prepacked","pizzas, crepe and pies"
+"efficient per 100 g, dominated per 10 g protein",25555,"Tart, salmon, prepacked","pizzas, crepe and pies"
+"efficient per 100 g, dominated per 10 g protein",25581,"Crepe or buckwheat pancake, filled with mushrooms and béchamel sauce, prepacked, cooked","pizzas, crepe and pies"
+"efficient per 100 g, dominated per 10 g protein",25614,"Rice salad, canned",mixed salads
+"efficient per 100 g, dominated per 10 g protein",25619,"Pasta salad, with vegetable and meat/fish, with sauce, prepacked",mixed salads
+"efficient per 100 g, dominated per 10 g protein",26001,"American bass, raw","fish, raw"
+"efficient per 100 g, dominated per 10 g protein",26009,"Atlantic halibut, raw","fish, raw"
+"efficient per 100 g, dominated per 10 g protein",26019,"Mackerel, roasted/baked","fish, cooked"
+"efficient per 100 g, dominated per 10 g protein",26029,"Fish, breaded, frozen, raw",fish products
+"efficient per 100 g, dominated per 10 g protein",26060,"Common sole, roasted/baked","fish, cooked"
+"efficient per 100 g, dominated per 10 g protein",26068,"Skipjack tuna, raw","fish, raw"
+"efficient per 100 g, dominated per 10 g protein",26079,"Anchovy, raw","fish, raw"
+"efficient per 100 g, dominated per 10 g protein",26178,"Grouper, raw","fish, raw"
+"efficient per 100 g, dominated per 10 g protein",26179,"Albacore, in olive oil, canned, drained",fish products
+"efficient per 100 g, dominated per 10 g protein",28540,"Pig's trotter, brined",other delicatessen [ready]
+"efficient per 100 g, dominated per 10 g protein",31000,Chocolate bar with biscuit,chocolate and chocolate products [ready]
+"efficient per 100 g, dominated per 10 g protein",31001,"Chocolate bar, chocolate-coated, without biscuit",chocolate and chocolate products [ready]
+"efficient per 100 g, dominated per 10 g protein",31080,"Dark chocolate, filled with praliné, bar",chocolate and chocolate products [ready]
+"efficient per 100 g, dominated per 10 g protein",32005,"Corn flakes, plain, fortified with vitamins and minerals",breakfast cereals
+"efficient per 100 g, dominated per 10 g protein",36003,"Chicken, meat, raw","poultry incl. turkey, raw"
+"efficient per 100 g, dominated per 10 g protein",39212,"Rice pudding, vanilla, cinnamon or plain, refrigerated",dairy desserts
+"efficient per 100 g, dominated per 10 g protein",4034,"Duchesse potato, frozen, cooked",potatoes and other tubers [ready]
+"efficient per 100 g, dominated per 10 g protein",40402,"Kidney, beef, raw",offals (raw meat)
+"efficient per 100 g, dominated per 10 g protein",6110,"Beef, sirloin steak, grilled/pan-fried",beef and veal (cooked meat)
+"efficient per 100 g, dominated per 10 g protein",6531,"Veal fillet, roasted/baked",beef and veal (cooked meat)
+"efficient per 100 g, dominated per 10 g protein",7100,"French bread, country-style",breads
+"efficient per 100 g, dominated per 10 g protein",7255,"Bread, multigrain and/or with seeds",breads
+"efficient per 100 g, dominated per 10 g protein",7257,"English muffin, prepacked",breads
+"efficient per 100 g, dominated per 10 g protein",7400,"Rusk, slice, wheat, prepacked",rusks
+"efficient per 100 g, dominated per 10 g protein",7407,"Swedish toast, wheat",rusks
+"efficient per 100 g, dominated per 10 g protein",7413,"Crispbread, extruded and grilled, fruit filling",sweet biscuits
+"efficient per 100 g, dominated per 10 g protein",7615,"Croissant, ordinary, from bakery",Viennese pastries
+"efficient per 100 g, dominated per 10 g protein",8080,"Rillette, fish, prepacked",fish products
+"efficient per 100 g, dominated per 10 g protein",8395,"Ham, in a pastry crust",other delicatessen [ready]
+"efficient per 100 g, dominated per 10 g protein",8400,Head-cheese pâté or brawn,other delicatessen [ready]
+"efficient per 100 g, dominated per 10 g protein",9060,"Durum wheat, wholewheat, raw","pasta, rice and grains, raw"
+"efficient per 100 g, dominated per 10 g protein",9101,"Rice, white, parboiled, raw","pasta, rice and grains, raw"
+"efficient per 100 g, dominated per 10 g protein",9310,"Oat, raw","pasta, rice and grains, raw"
+"efficient per 100 g, dominated per 10 g protein",9415,"Wheat flour, type 150",flours
+"efficient per 100 g, dominated per 10 g protein",9533,"Rye flour, type 130",flours
+"efficient per 100 g, dominated per 10 g protein",9545,Maize/corn flour,flours
+"efficient per 100 g, dominated per 10 g protein",9550,Barley flour,flours
+"efficient per 100 g, dominated per 10 g protein",9871,"Pasta, dry, wholewheat, cooked, no added salt","pasta, rice and grains, cooked"
+"dominated per 100 g, efficient per 10 g protein",11042,"Cumin, seed",spices [ready]
+"dominated per 100 g, efficient per 10 g protein",11052,Cloves,spices [ready]
+"dominated per 100 g, efficient per 10 g protein",11077,"Fenugreek, seed",spices [ready]
+"dominated per 100 g, efficient per 10 g protein",12042,"Pont l'Evêque cheese, from cow's milk",soft cheeses
+"dominated per 100 g, efficient per 10 g protein",12118,"Emmental cheese, grated, from cow's milk",hard or pressed cheeses
+"dominated per 100 g, efficient per 10 g protein",12738,"Mimolette cheese, old, from cow's milk (cured 12 months minimum)",hard or pressed cheeses
+"dominated per 100 g, efficient per 10 g protein",15000,"Almond, with peel, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15006,"Coconut, pulp, fresh",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15010,Sesame seed,nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15011,"Sunflower, seed",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15014,"Coconut, immature kernel, fresh",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15034,"Flaxseed, seed",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15042,"Almond, grilled, salted",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15045,"Sunflower seed, grilled, salted",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15049,"Mix of nuts and raisins, no added salt",nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",15203,Tahini (sesame paste),nuts and seeds [ready]
+"dominated per 100 g, efficient per 10 g protein",19042,"Milk, semi-skimmed, pasteurised","milk, liquid (cow and other species)"
+"dominated per 100 g, efficient per 10 g protein",19539,"Fermented milk, yogurt type with bifidus, flavoured, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 10 g protein",19542,"Fermented milk, yogurt type with bifidus, with fruits, with sugar(s)",yoghurts
+"dominated per 100 g, efficient per 10 g protein",20000,"Artichoke, globe, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 10 g protein",20072,"Garden peas, raw","vegetables, raw"
+"dominated per 100 g, efficient per 10 g protein",20084,"Garden peas, frozen, raw","vegetables, raw"
+"dominated per 100 g, efficient per 10 g protein",20243,"Snow pea, cooked","vegetables, cooked"
+"dominated per 100 g, efficient per 10 g protein",20249,"Baby meal, vegetable with milk/cream and starchy food, from 6-8 months",baby dishes
+"dominated per 100 g, efficient per 10 g protein",20250,"Baby meal, vegetable with milk/cream and starchy food, from 8-12 months",baby dishes
+"dominated per 100 g, efficient per 10 g protein",20511,"Haricot bean, canned, drained","legumes, cooked"
+"dominated per 100 g, efficient per 10 g protein",20531,"Mung bean, fresh, boiled/cooked in water","legumes, cooked"
+"dominated per 100 g, efficient per 10 g protein",22002,"Egg yolk, raw","eggs, plain (raw or cooked)"
+"dominated per 100 g, efficient per 10 g protein",22009,"Egg yolk, cooked","eggs, plain (raw or cooked)"
+"dominated per 100 g, efficient per 10 g protein",23006,"Sponge cake with chocolate with or without cherry ""black forest cake""",cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23008,"Dessert, Opera cake type",cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23009,Sponge sandwich cake filled and topped with strawberries or raspberries,cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23490,Apple tart,cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23491,"Strawberries tart, from bakery",cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23534,"Semolina pudding with raisins and caramel sauce, refrigerated",dairy desserts
+"dominated per 100 g, efficient per 10 g protein",23799,"Crepe, plain, prepacked, refrigerated",cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",23800,"Crepe, plain, prepacked, room temperature",cakes and pastry
+"dominated per 100 g, efficient per 10 g protein",24000,Biscuit (cookie),sweet biscuits
+"dominated per 100 g, efficient per 10 g protein",24041,"Breakfast biscuit (cookie), fortified with vitamins and minerals",sweet biscuits
+"dominated per 100 g, efficient per 10 g protein",24311,"Wafer biscuit, filled or coated with chocolate",sweet biscuits
+"dominated per 100 g, efficient per 10 g protein",25088,"Cantonese rice, prepacked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 10 g protein",25108,"Samosas or samoosas or filled filo pastry, prepacked, cooked",savoury pastries and other starters
+"dominated per 100 g, efficient per 10 g protein",25131,"Lasagna or cannelloni with vegetables, prepacked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 10 g protein",25164,"Osso buco from veal (with vegetables and white wine), homemade","meat dishes, with vegetables/legume"
+"dominated per 100 g, efficient per 10 g protein",25219,"Lasagna or cannelloni with vegetables and goat cheese, prepacked, cooked",pasta or cereal dishes [ready]
+"dominated per 100 g, efficient per 10 g protein",25233,"Cereal burger with cheese (without soybean), prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 10 g protein",25508,"Ham and cheese puffed pastry, homemade",savoury pastries and other starters
+"dominated per 100 g, efficient per 10 g protein",25519,"Sandwich, baguette, pâté and pickles",sandwiches
+"dominated per 100 g, efficient per 10 g protein",25597,"Plant-based burger or steak from soybean, cheese and vegetables, prepacked",other vegetarian dishes
+"dominated per 100 g, efficient per 10 g protein",25605,"Greek-style marinated mushrooms, prepacked",mixed salads
+"dominated per 100 g, efficient per 10 g protein",26027,"Pilchard, in tomato sauce, canned, drained",fish products
+"dominated per 100 g, efficient per 10 g protein",26036,"Salmon, raw, farmed","fish, raw"
+"dominated per 100 g, efficient per 10 g protein",26090,"Haddock, smoked",fish products
+"dominated per 100 g, efficient per 10 g protein",26091,"Mullet, raw","fish, raw"
+"dominated per 100 g, efficient per 10 g protein",26092,"Sea trout, raw","fish, raw"
+"dominated per 100 g, efficient per 10 g protein",26093,"Swordfish, roasted/baked","fish, cooked"
+"dominated per 100 g, efficient per 10 g protein",26123,"Mackerel, fillet (grilled or not grilled), canned in brine, drained",fish products
+"dominated per 100 g, efficient per 10 g protein",26134,"Saithe, raw","fish, raw"
+"dominated per 100 g, efficient per 10 g protein",31002,"Coconut bar, chocolate-coated",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 10 g protein",31041,"Chocolate confectionery, coated",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 10 g protein",31066,"Chocolate and nut confectionery, filled with praliné",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 10 g protein",31072,"Dark chocolate, filled with mint confectionery",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 10 g protein",31084,"Milk chocolate, filled with praliné, bar",chocolate and chocolate products [ready]
+"dominated per 100 g, efficient per 10 g protein",32138,"Muesli, with fruits, nuts and/or seeds, not fortified",breakfast cereals
+"dominated per 100 g, efficient per 10 g protein",34000,"Rabbit, meat, braised","other meats incl. game, cooked"
+"dominated per 100 g, efficient per 10 g protein",36300,"Turkey, meat and skin, raw","poultry incl. turkey, raw"
+"dominated per 100 g, efficient per 10 g protein",39200,"Custard dessert, chocolate, refrigerated",dairy desserts
+"dominated per 100 g, efficient per 10 g protein",39209,"Caramel custard, refrigerated",dairy desserts
+"dominated per 100 g, efficient per 10 g protein",4015,"Potato, sautéed/pan-fried with fat",potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 10 g protein",4027,"Potato, sautéed/pan-fried, pre-fried, frozen, cooked",potatoes and other tubers [ready]
+"dominated per 100 g, efficient per 10 g protein",6002,"Beef, shoulder, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 10 g protein",6130,"Beef, thin flank, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 10 g protein",6257,"Beef, minced steak, 20% fat, cooked",beef and veal (cooked meat)
+"dominated per 100 g, efficient per 10 g protein",6510,"Veal, chop, raw",beef and veal (raw meat)
+"dominated per 100 g, efficient per 10 g protein",7111,"Sandwich loaf, wholemeal, prepacked",breads
+"dominated per 100 g, efficient per 10 g protein",7330,"Rusk, multigrain",rusks
+"dominated per 100 g, efficient per 10 g protein",7352,"Puffed rice textured bread, whole grain",rusks
+"dominated per 100 g, efficient per 10 g protein",7730,"Chocolate croissant, from bakery",Viennese pastries
+"dominated per 100 g, efficient per 10 g protein",7733,"Chocolate croissant, prepacked",Viennese pastries
+"dominated per 100 g, efficient per 10 g protein",7740,"Brioche, plain, prepacked",Viennese pastries
+"dominated per 100 g, efficient per 10 g protein",7742,"Brioche, plain, from bakery",Viennese pastries
+"dominated per 100 g, efficient per 10 g protein",8321,"Foie gras, duck, whole, cooked",other delicatessen [ready]
+"dominated per 100 g, efficient per 10 g protein",9580,Chick pea flour,flours
+"dominated per 100 g, efficient per 10 g protein",9610,"Durum wheat semolina, raw","pasta, rice and grains, raw"
+"dominated per 100 g, efficient per 10 g protein",9690,"Wheat, bulgur, raw","pasta, rice and grains, raw"
+low climate but high water within group (burden shift),25614,"Rice salad, canned",mixed salads
+low climate but high water within group (burden shift),25131,"Lasagna or cannelloni with vegetables, prepacked",pasta or cereal dishes [ready]
+low climate but high water within group (burden shift),25219,"Lasagna or cannelloni with vegetables and goat cheese, prepacked, cooked",pasta or cereal dishes [ready]
+low climate but high water within group (burden shift),25460,"Fajitas, home-prepared from kit","pizzas, crepe and pies"
+low climate but high water within group (burden shift),25513,"Large round sandwich with lettuce, tuna, anchovy and black olives",sandwiches
+low climate but high water within group (burden shift),7812,"Fougasse, filled",sandwiches
+low climate but high water within group (burden shift),25419,Spring roll,savoury pastries and other starters
+low climate but high water within group (burden shift),20034,"Onion, raw","vegetables, raw"
+low climate but high water within group (burden shift),20061,"French bean, raw","vegetables, raw"
+low climate but high land use within group (burden shift),20061,"French bean, raw","vegetables, raw"
+low climate but high water within group (burden shift),20071,"French bean, frozen, cooked","vegetables, cooked"
+low climate but high land use within group (burden shift),20071,"French bean, frozen, cooked","vegetables, cooked"
+low climate but high land use within group (burden shift),20124,"Garden peas, frozen, cooked","vegetables, cooked"
+low climate but high land use within group (burden shift),20196,"Jerusalem artichoke, raw",potatoes and other tubers [raw]
+low climate but high water within group (burden shift),53503,"Yam, peeled, boiled/cooked in water",potatoes and other tubers [ready]
+low climate but high water within group (burden shift),20502,"Haricot bean, boiled/cooked in water","legumes, cooked"
+low climate but high land use within group (burden shift),20587,"Lentil, green, boiled/cooked in water","legumes, cooked"
+low climate but high land use within group (burden shift),20588,"Lentil, blond, boiled/cooked in water","legumes, cooked"
+low climate but high land use within group (burden shift),20589,"Lentil, pink or red, boiled/cooked in water","legumes, cooked"
+low climate but high water within group (burden shift),13024,"Clementine or Mandarin orange, flesh without skin, without seeds, raw",fresh fruits
+low climate but high water within group (burden shift),15018,Mix of salted nuts and raisins,nuts and seeds [ready]
+low climate but high water within group (burden shift),15049,"Mix of nuts and raisins, no added salt",nuts and seeds [ready]
+low climate but high water within group (burden shift),9360,"Sorghum, wholegrain, raw","pasta, rice and grains, raw"
+low climate but high water within group (burden shift),7352,"Puffed rice textured bread, whole grain",rusks
+low climate but high water within group (burden shift),7353,Puffed cereals textured bread,rusks
+low climate but high water within group (burden shift),9550,Barley flour,flours
+low climate but high water within group (burden shift),6511,"Veal, chop, grilled/pan-fried",beef and veal (cooked meat)
+low climate but high water within group (burden shift),6531,"Veal fillet, roasted/baked",beef and veal (cooked meat)
+low climate but high water within group (burden shift),6510,"Veal, chop, raw",beef and veal (raw meat)
+low climate but high water within group (burden shift),6522,"Veal, tenderloin, raw",beef and veal (raw meat)
+low climate but high water within group (burden shift),26038,"Salmon, steamed","fish, cooked"
+low climate but high water within group (burden shift),26230,"Salmon, farmed, roasted/baked","fish, cooked"
+low climate but high water within group (burden shift),27005,"European perch, roasted/baked","fish, cooked"
+low climate but high land use within group (burden shift),26038,"Salmon, steamed","fish, cooked"
+low climate but high land use within group (burden shift),26230,"Salmon, farmed, roasted/baked","fish, cooked"
+low climate but high land use within group (burden shift),27005,"European perch, roasted/baked","fish, cooked"
+low climate but high water within group (burden shift),26027,"Pilchard, in tomato sauce, canned, drained",fish products
+low climate but high water within group (burden shift),26034,"European pilchard or sardine, in oil, canned, drained",fish products
+low climate but high water within group (burden shift),26035,"European pilchard or sardine, in tomato sauce, canned, drained",fish products
+low climate but high land use within group (burden shift),26027,"Pilchard, in tomato sauce, canned, drained",fish products
+low climate but high land use within group (burden shift),26034,"European pilchard or sardine, in oil, canned, drained",fish products
+low climate but high land use within group (burden shift),26035,"European pilchard or sardine, in tomato sauce, canned, drained",fish products
+low climate but high water within group (burden shift),19542,"Fermented milk, yogurt type with bifidus, with fruits, with sugar(s)",yoghurts
+low climate but high water within group (burden shift),19552,"Yogurt, Greek-style, on a fruit layer, with sugar(s)",yoghurts
+low climate but high water within group (burden shift),19581,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s)",yoghurts
+low climate but high water within group (burden shift),19582,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s), fortified with vitamin D",yoghurts
+low climate but high water within group (burden shift),19587,"Yogurt or fermented milk, with fruits, with sugar(s)",yoghurts
+low climate but high water within group (burden shift),19589,"Yogurt or fermented milk, with fruits, with cream, with sugar(s)",yoghurts
+low climate but high water within group (burden shift),19592,"Yogurt or fermented milk, with fruits, with sugar(s), fortified with vitamin D",yoghurts
+low climate but high water within group (burden shift),19679,"Milk jelly, flavoured, covered with caramel sauce, refrigerated",dairy desserts
+low climate but high land use within group (burden shift),12040,"Langres cheese, from cow's milk",soft cheeses
+low climate but high water within group (burden shift),18020,"Tea, brewed, no added sugars","coffee, tea, cocoa beverages, etc. ready to drink"
+low climate but high water within group (burden shift),18022,"Infusion, brewed, no added sugars","coffee, tea, cocoa beverages, etc. ready to drink"
+low climate but high water within group (burden shift),18154,"Black tea, brewed, no added sugars","coffee, tea, cocoa beverages, etc. ready to drink"
+low climate but high water within group (burden shift),1002,Gin,liqueurs and spirits
+low climate but high water within group (burden shift),1004,Rum,liqueurs and spirits
+low climate but high water within group (burden shift),1005,Whisky,liqueurs and spirits
+low climate but high water within group (burden shift),1008,Vodka,liqueurs and spirits
+low climate but high water within group (burden shift),1014,Pure alcohol,liqueurs and spirits
+low climate but high water within group (burden shift),1026,Sake or rice wine,liqueurs and spirits
+low climate but high land use within group (burden shift),1002,Gin,liqueurs and spirits
+low climate but high land use within group (burden shift),1004,Rum,liqueurs and spirits
+low climate but high land use within group (burden shift),1005,Whisky,liqueurs and spirits
+low climate but high land use within group (burden shift),1008,Vodka,liqueurs and spirits
+low climate but high land use within group (burden shift),1014,Pure alcohol,liqueurs and spirits
+low climate but high land use within group (burden shift),1026,Sake or rice wine,liqueurs and spirits
+low climate but high water within group (burden shift),31002,"Coconut bar, chocolate-coated",chocolate and chocolate products [ready]
+low climate but high water within group (burden shift),31098,"Chocolate bar, milk chocolate, with nougat",chocolate and chocolate products [ready]
+low climate but high water within group (burden shift),23467,"Chou pastry, sugar coated",Viennese pastries
+low climate but high water within group (burden shift),24004,"Biscuit (cookie) with fruits, low salt",sweet biscuits
+low climate but high water within group (burden shift),24037,Biscuit (cookie) filled with fruit paste or fruit puree,sweet biscuits
+low climate but high water within group (burden shift),24054,"Biscuit shortbread, with fruits",sweet biscuits
+low climate but high water within group (burden shift),24240,"Biscuit (cookie), snack with fruits filling",sweet biscuits
+low climate but high water within group (burden shift),24320,"Wafer biscuit, with fruit filling",sweet biscuits
+low climate but high water within group (burden shift),24520,Meringue,sweet biscuits
+low climate but high water within group (burden shift),24678,"Biscuit sponge cake with fruits covering, pre-packed",sweet biscuits
+low climate but high water within group (burden shift),24686,"Biscuit sponge cake, filled with fruits and with chocolate covering",sweet biscuits
+low climate but high land use within group (burden shift),32140,Oat flakes,breakfast cereals
+low climate but high water within group (burden shift),17270,"Olive oil, extra virgin",vegetable oils
+low climate but high land use within group (burden shift),17270,"Olive oil, extra virgin",vegetable oils
+low climate but high water within group (burden shift),11107,"Tomato sauce, with onions, prepacked",warm sauces
+low climate but high water within group (burden shift),11177,"Tomato sauce, with mushrooms, prepacked",warm sauces
+low climate but high water within group (burden shift),11053,"Bay, leaves",spices [ready]
+low climate but high water within group (burden shift),19013,"Baby milk, infant formula, ready to drink",baby milk and beverages
+low climate but high water within group (burden shift),19014,"Baby milk, follow-on formula, ready to drink",baby milk and beverages
+low climate but high water within group (burden shift),20248,"Baby meal, vegetables and starchy food, from 6-8 months",baby dishes
+low climate but high land use within group (burden shift),20249,"Baby meal, vegetable with milk/cream and starchy food, from 6-8 months",baby dishes
+low climate but high land use within group (burden shift),20250,"Baby meal, vegetable with milk/cream and starchy food, from 8-12 months",baby dishes
+low climate but high land use within group (burden shift),20251,"Baby meal, vegetable with milk/cream and starchy food, from 12 months",baby dishes
+low climate but high land use within group (burden shift),20254,"Baby meal, vegetable with milk/cream and starchy food, from 18 months",baby dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25619,"Pasta salad, with vegetable and meat/fish, with sauce, prepacked",mixed salads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26269,"Tabbouleh or couscous salad, with chicken, prepacked",mixed salads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25903,"Soup, mixed vegetables, prepacked, to be reheated",soups
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25907,"Soup, leek and potato, prepacked, to be reheated",soups
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25914,"Soup, tomato, prepacked, to be reheated",soups
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25935,"Soup, tomato, dehydrated and reconstituted",soups
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25089,"Veal escalope cordon bleu (escalope topped with a ham slice and cheese, breaded, prepacked","meat dishes, no garnish [ready]"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25163,"Meat balls, beef, cooked","meat dishes, no garnish [ready]"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25173,Milanese-style veal escalope or breaded veal escalope,"meat dishes, no garnish [ready]"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25541,Lamb on skewer,"meat dishes, no garnish [ready]"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),8601,"Caen-style tripe, prepacked","meat dishes, no garnish [ready]"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25164,"Osso buco from veal (with vegetables and white wine), homemade","meat dishes, with vegetables/legume"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25056,"Dauphiné-style creamed potatoes au gratin, prepacked",vegetable/legume dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25220,"Sauerkraut, seasoned and cooked with bacon bits, without garnish, drained, cooked",vegetable/legume dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25556,Vegetable fritters,vegetable/legume dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),8296,"Vegetable terrine or mousse, prepacked",vegetable/legume dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25019,"Ravioli filled with meat, in tomato sauce, canned",pasta or cereal dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25081,"Lasagna or cannelloni with meat (bolognese sauce), prepacked",pasta or cereal dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25088,"Cantonese rice, prepacked",pasta or cereal dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25158,"Fresh pasta, stuffed with meat (e.g. bolognese-style ravioli), prepacked, cooked",pasta or cereal dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25192,"Ravioli filled with vegetables, in tomato sauce, canned",pasta or cereal dishes [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25233,"Cereal burger with cheese (without soybean), prepacked",other vegetarian dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25594,"Plant-based burger or steak from wheat and soybean (not vegan), prepacked",other vegetarian dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25454,"Tart, Provence-style, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25457,"Pizza, Bolognese-style with meat, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25464,"Pizza, salmon, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25472,"Pizza, vegetables or (4 seasons), prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25550,"Flamed tart (thin-crusted onion tart with cream and lardoons), prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25553,"Tart, leek, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25555,"Tart, salmon, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25561,"Tart, tomato, prepacked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25581,"Crepe or buckwheat pancake, filled with mushrooms and béchamel sauce, prepacked, cooked","pizzas, crepe and pies"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25414,"Cheeseburger, from fast food",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25415,"Cheeseburger, double, from fast food",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25416,"Fish burger, from fast food",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25431,"Sandwich, baguette, tuna, raw vegetables and mayonnaise, homemade",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25488,"Sandwich, baguette, smoked salmon and butter",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25531,"Sandwich, baguette, turkey, raw vegetables and mayonnaise",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25532,"Sandwich, baguette, egg, raw vegetables and mayonnaise",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25533,"Sandwich, baguette, pork, raw vegetables and mayonnaise",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25542,"Toasted ham and cheese sandwich, topped with a fried egg, homemade",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25547,"Toasted ham and cheese sandwich, prepacked",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25576,"Sandwich, club, wholemeal bread, ham and cheese, prepacked",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25577,"Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked",sandwiches
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25151,"Fish or seafood in puff pastry, prepacked, to cook",savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25412,Vol-au-vent with meat/poultry/quenelle,savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25419,Spring roll,savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25438,"Samosas or samoosas or filled filo pastry, home-made, cooked",savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25503,"Vol-au-vent with fish and seafood, homemade",savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25508,"Ham and cheese puffed pastry, homemade",savoury pastries and other starters
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20012,"Curly endive, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20022,"Watercress, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20038,"Dandelion, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20041,"Sweet pepper, green, yellow or red, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20054,"Cardoon, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20058,"Brussels sprout, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20084,"Garden peas, frozen, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20089,"Radish, black, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20090,"Escaroles, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20091,"Beetroot, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20099,"Lamb's lettuce, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20105,"Morel, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20108,"Corn, on the cob, frozen, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20138,"Squash, butternut, flesh without skin, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20167,"Chinese cabbage (nappa cabbage), raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20183,"Mung bean, sprouted, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20199,"Garden cress, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20206,"Brussels sprout, frozen, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20218,"Curly kale, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20233,"Corn, frozen, raw","vegetables, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20000,"Artichoke, globe, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20002,"Eggplant, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20005,"Swiss chard, stalk without leaves, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20017,"Cauliflower, boiled","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20029,"Mung bean, sprouted, canned, drained","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20030,"French bean, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20033,"Turnip, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20035,"Onion, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20037,"Garden peas, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20046,"Salsify, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20049,"Corn, on the cob, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20068,"Tomato paste, concentrated, canned","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20071,"French bean, frozen, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20096,"Pumpkin, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20143,"Squash, spaghetti, flesh without skin, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20158,"New Zealand spinach, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20165,"Rutabaga or Swede, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20169,"Tomato flesh without skin, canned","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20219,"Curly kale, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20243,"Snow pea, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20255,"Shallot, cooked","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20275,"Sweet pepper, red, canned, drained","vegetables, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20050,"Jerusalem artichoke, cooked",potatoes and other tubers [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),4019,"Mashed potatoes, made from flakes, reconstituted with semi-skimmed milk and water, no added salt",potatoes and other tubers [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),4022,"Potato flakes, dehydrated, plain",potatoes and other tubers [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),4027,"Potato, sautéed/pan-fried, pre-fried, frozen, cooked",potatoes and other tubers [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),4034,"Duchesse potato, frozen, cooked",potatoes and other tubers [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20500,"Broad bean, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20503,"Red kidney bean, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20506,"Split pea, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20507,"Chick pea, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20508,"Flageolet bean, canned, drained","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20513,"Flageolet bean, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20524,"Red kidney bean, canned, drained","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20531,"Mung bean, fresh, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20540,"Flageolet bean, green, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20542,"Broad bean, peeled, fresh, frozen, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20543,"Broad bean, fresh, frozen, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20587,"Lentil, green, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20589,"Lentil, pink or red, boiled/cooked in water","legumes, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13002,"Pineapple, flesh without skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13005,"Banana, flesh without skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13009,"Lemon, flesh without skin, without seeds, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13010,"Quince, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13014,"Strawberry, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13016,"Passion fruit, flesh without skin, with seeds, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13019,"Red currant, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13028,"Blueberry, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13034,"Orange, flesh without skin, without seeds, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13035,"Papaya, flesh without skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13054,"Carambola, flesh and skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13066,"Persimmon, flesh and skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13083,"Guava, flesh without skin, raw",fresh fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13001,"Apricot, pitted, dried",dried fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13011,"Date, flesh and skin, pitted, dried",dried fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13089,"Banana, flesh without skin, dried",dried fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),13111,"Apple, dried",dried fruits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15000,"Almond, with peel, no added salt",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15004,"Hazelnut, no added salt",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15020,"Chestnut, boiled/cooked in water",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15025,Pine nut,nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15026,"Pecan nut, no added salt",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15034,"Flaxseed, seed",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),15041,"Almond, peeled, no added salt",nuts and seeds [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9081,"Durum wheat pre-cooked, whole grain, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9103,"Rice, wholegrain, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9104,"Rice, white, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9105,"Rice, white, parboiled, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9111,"Rice, wild, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9341,"Quinoa, boiled/cooked in water, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9615,"Polenta or maize/corn semolina, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9691,"Wheat bulgur, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9824,"Pasta, dry, gluten-free, cooked, no added salt","pasta, rice and grains, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9003,"Khorasan wheat, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9060,"Durum wheat, wholewheat, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9100,"Rice, white, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9101,"Rice, white, parboiled, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9108,"Rice, wild, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9310,"Oat, raw","pasta, rice and grains, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7111,"Sandwich loaf, wholemeal, prepacked",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7113,"Sandwich loaf, multigrain and/or with seeds, prepacked",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7130,"Bread, French bread, gluten free, prepacked",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7255,"Bread, multigrain and/or with seeds",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7257,"English muffin, prepacked",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7813,"Maize/corn tortilla wrap, to be filled",breads
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7004,"Bread, French bread, toasted",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7310,"Rusk, no added salt",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7330,"Rusk, multigrain",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7340,"Rusk, wholemeal",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7400,"Rusk, slice, wheat, prepacked",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7407,"Swedish toast, wheat",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7420,"Swedish toast, whole wheat",rusks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9415,"Wheat flour, type 150",flours
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9510,Maize/corn starch,flours
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9545,Maize/corn flour,flours
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),9550,Barley flour,flours
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6207,"Beef, rump steak, grilled/pan-fried",beef and veal (cooked meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6251,"Beef, minced steak, 5% fat, cooked",beef and veal (cooked meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6531,"Veal fillet, roasted/baked",beef and veal (cooked meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6551,"Veal, roast, cooked",beef and veal (cooked meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36018,"Chicken, breast, without skin, grilled/pan-fried","poultry incl. turkey, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36032,"Chicken, breast, meat and skin, roasted/baked","poultry incl. turkey, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36308,"Turkey, escalope, roasted/baked","poultry incl. turkey, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36102,"Quail, meat and skin, cooked","other meats incl. game, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6102,"Beef, round, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6103,"Beef, rib steak, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6160,"Beef, topside, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6201,"Beef, steak or beef steak, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6202,"Beef, bolar-blade, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6206,"Beef, rump steak, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6252,"Beef, minced steak, 10% fat, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),6522,"Veal, tenderloin, raw",beef and veal (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36001,"Hen, meat, raw","poultry incl. turkey, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36003,"Chicken, meat, raw","poultry incl. turkey, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36017,"Chicken, breast, without skin, raw","poultry incl. turkey, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),36304,"Turkey, escalope, raw","poultry incl. turkey, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40052,"Heart, beef, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40060,"Heart, pork, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40102,"Liver, lamb, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40104,"Liver, heifer, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40106,"Liver, calf, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40111,"Liver, chicken, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40205,"Tongue, pork, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40304,"Sweetbread, calf, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),40700,"Gizzard, chicken, raw",offals (raw meat)
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26014,"Atlantic herring, grilled/pan-fried without added fat","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26015,"Saithe, cooked","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26025,"Cod, steamed","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26026,"Mullet, roasted/baked","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26038,"Salmon, steamed","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26081,"Anglerfish, grilled/pan-fried without added fat","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26093,"Swordfish, roasted/baked","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26120,"European hake, braised","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26230,"Salmon, farmed, roasted/baked","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),27006,"Trout, roasted/baked","fish, cooked"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26011,"Atlantic herring, raw","fish, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26036,"Salmon, raw, farmed","fish, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26053,"Tuna, raw","fish, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26238,"Atlantic herring, oily, raw","fish, raw"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),25998,"Atlantic herring, smoked",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26002,"European plaice, breaded, fried",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26013,"Atlantic herring, smoked, canned in brine",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26039,"Tuna, canned in brine, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26040,"European pilchard or sardine, in olive oil, canned, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26086,"Mackerel, fillet, in tomato sauce, canned, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26090,"Haddock, smoked",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26097,"Mackerel, fillet in white wine, canned, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26119,"Salmon, canned, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26124,"Whiting, breaded",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),26179,"Albacore, in olive oil, canned, drained",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),8080,"Rillette, fish, prepacked",fish products
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),22000,"Egg, raw","eggs, plain (raw or cooked)"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),22009,"Egg yolk, cooked","eggs, plain (raw or cooked)"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),22070,"Goose egg, raw","eggs, plain (raw or cooked)"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19023,"Milk, whole, UHT","milk, liquid (cow and other species)"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19024,"Milk, whole, pasteurised","milk, liquid (cow and other species)"
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19508,"Fermented milk drink, flavoured, with sugar(s)",yoghurts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19550,"Yogurt, Greek-style, ewe's milk",yoghurts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19589,"Yogurt or fermented milk, with fruits, with cream, with sugar(s)",yoghurts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),19594,"Yogurt or fermented milk, plain, 0% fat",yoghurts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23534,"Semolina pudding with raisins and caramel sauce, refrigerated",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23536,"Rice pudding with caramel sauce, refrigerated",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),39212,"Rice pudding, vanilla, cinnamon or plain, refrigerated",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),39214,"Custard dessert, vanilla, canned",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),39215,"Floating island (meringue poached in milk and served in a light custard cream), refrigerated",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),39218,"Semolina pudding, refrigerated",dairy desserts
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),12008,"Soft-ripened cheese, double cream, around 30% fat, with bloomy rind, from cow's milk",soft cheeses
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),12820,"Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese",soft cheeses
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),12114,"Gruyere cheese, from cow's milk",hard or pressed cheeses
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),12115,"Emmental cheese, from cow's milk",hard or pressed cheeses
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),12705,"Firm cheese, Maasdam-type, reduced fat, from cow's milk",hard or pressed cheeses
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),2000,"Pineapple juice, from concentrate",juices
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),2002,"Multifruit juice, pure juice, multivitamin",juices
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),2013,"Orange juice, fresh",juices
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),2069,"Multifruit juice, from concentrate, standard",juices
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),18012,"Bottled water, flavoured, with sugar(s)",soft drinks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),18075,"Still soft drink with tea extract, flavoured, with sugar(s)",soft drinks
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),1026,Sake or rice wine,liqueurs and spirits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),31001,"Chocolate bar, chocolate-coated, without biscuit",chocolate and chocolate products [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),31066,"Chocolate and nut confectionery, filled with praliné",chocolate and chocolate products [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),31080,"Dark chocolate, filled with praliné, bar",chocolate and chocolate products [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23480,Apple turnover,Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7225,"Brioche or Vienna bread, from bakery",Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7615,"Croissant, ordinary, from bakery",Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7620,"Croissant, pure butter, from bakery",Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7711,"Milk roll, prepacked",Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7739,"Brioche, filled with custard cream (Chinese brioche type), prepacked",Viennese pastries
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),24004,"Biscuit (cookie) with fruits, low salt",sweet biscuits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),24034,"Breakfast biscuit (cookie), without chocolate, not fortified",sweet biscuits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),24051,"Biscuit sponge cake, with chocolate covering, pre-packed",sweet biscuits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),24520,Meringue,sweet biscuits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),7413,"Crispbread, extruded and grilled, fruit filling",sweet biscuits
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32001,"Breakfast cereals with chocolate, extruded, not filled, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32005,"Corn flakes, plain, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32016,"Breakfast cereals, chocolate or chocolate-hazelnut filling, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32030,"Cereal flakes, plain, with sugar(s), fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32108,"Granola with fruits, with or without nut and seeds, not fortified",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32109,"Granola with chocolate, not fortified",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32110,"Muesli, with fruits, nuts and/or seeds, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32111,"Granola with fruits, with or without nut and seeds, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),32112,"Granola with chocolate, fortified with vitamins and minerals",breakfast cereals
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23122,"Kouign amann, Buttered and caramelized milkbread cake, from bakery",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23300,Baklava (oriental pastry with almonds and syrup),cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23585,"Chocolate cake, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23799,"Crepe, plain, prepacked, refrigerated",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23800,"Crepe, plain, prepacked, room temperature",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23829,"Crepe filled with chocolate, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23851,"Soft waffle (Brussels-style), plain or with sugar(s), prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23881,"Doughnut filled with fruit filling (e.g. jam), prepacked-> ARCHIVE",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23885,"Doughnut filled or covered with chocolate or with chocolate and hazelut paste, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23925,"Marble cake, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23939,"Soft cake filled with chocolate, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),23941,"Soft cake filled with fruits, mini sponge roll type, prepacked",cakes and pastry
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),17130,Rapeseed oil,vegetable oils
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),17180,Linseed oil,vegetable oils
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),17350,Grapeseed oil,vegetable oils
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),17440,Sunflower oil,vegetable oils
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11101,"Béchamel sauce, prepacked",warm sauces
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11143,"Béchamel sauce, w butter, homemade",warm sauces
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11177,"Tomato sauce, with mushrooms, prepacked",warm sauces
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11025,"Cinnamon, powder",spices [dry]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11042,"Cumin, seed",spices [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11061,"Poppy, seed",spices [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11064,"Caraway, seed",spices [ready]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),11088,"Cayenne pepper, powder",spices [dry]
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20247,"Baby food jar with vegetables and starchy food, from 4-6 months",baby dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20251,"Baby meal, vegetable with milk/cream and starchy food, from 12 months",baby dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),20252,"Baby soup, with vegetables and potatoes",baby dishes
+dominated on climate+NR9 but efficient once land/water/LIM3 count (per 100 kcal),42606,"Baby meal, vegetables with meat/fish and starchy food, from 18 months",baby dishes
+efficient despite top-quartile climate (high nutrient density),25601,"Tuna salad, with vegetables, canned",mixed salads
+efficient despite top-quartile climate (high nutrient density),25904,"Soup, fish and/or crustacean, prepacked, to be reheated",soups
+efficient despite top-quartile climate (high nutrient density),25001,"Veal stew in white sauce, prepacked","meat dishes, no garnish [ready]"
+efficient despite top-quartile climate (high nutrient density),25541,Lamb on skewer,"meat dishes, no garnish [ready]"
+efficient despite top-quartile climate (high nutrient density),8601,"Caen-style tripe, prepacked","meat dishes, no garnish [ready]"
+efficient despite top-quartile climate (high nutrient density),25124,Stewed lamb garnished with potatoes and other vegetables,"meat dishes, with vegetables/legume"
+efficient despite top-quartile climate (high nutrient density),25159,"Mutton tagine, prepacked","meat dishes, with vegetables/legume"
+efficient despite top-quartile climate (high nutrient density),25220,"Sauerkraut, seasoned and cooked with bacon bits, without garnish, drained, cooked",vegetable/legume dishes [ready]
+efficient despite top-quartile climate (high nutrient density),25524,"Provencal-style tomato (breaded tomatoes stuffed with garlic and parsley), home-made",vegetable/legume dishes [ready]
+efficient despite top-quartile climate (high nutrient density),25085,"Bolognese-style pasta (spaghetti, tagliatelle…), prepacked",pasta or cereal dishes [ready]
+efficient despite top-quartile climate (high nutrient density),25457,"Pizza, Bolognese-style with meat, prepacked","pizzas, crepe and pies"
+efficient despite top-quartile climate (high nutrient density),25459,Burritos with beef,"pizzas, crepe and pies"
+efficient despite top-quartile climate (high nutrient density),25413,"Hamburger, from fast food",sandwiches
+efficient despite top-quartile climate (high nutrient density),25414,"Cheeseburger, from fast food",sandwiches
+efficient despite top-quartile climate (high nutrient density),25415,"Cheeseburger, double, from fast food",sandwiches
+efficient despite top-quartile climate (high nutrient density),25503,"Vol-au-vent with fish and seafood, homemade",savoury pastries and other starters
+efficient despite top-quartile climate (high nutrient density),20022,"Watercress, raw","vegetables, raw"
+efficient despite top-quartile climate (high nutrient density),20054,"Cardoon, raw","vegetables, raw"
+efficient despite top-quartile climate (high nutrient density),20090,"Escaroles, raw","vegetables, raw"
+efficient despite top-quartile climate (high nutrient density),20099,"Lamb's lettuce, raw","vegetables, raw"
+efficient despite top-quartile climate (high nutrient density),20105,"Morel, raw","vegetables, raw"
+efficient despite top-quartile climate (high nutrient density),20005,"Swiss chard, stalk without leaves, cooked","vegetables, cooked"
+efficient despite top-quartile climate (high nutrient density),20158,"New Zealand spinach, cooked","vegetables, cooked"
+efficient despite top-quartile climate (high nutrient density),4008,"Potato, peeled, raw",potatoes and other tubers [raw]
+efficient despite top-quartile climate (high nutrient density),20050,"Jerusalem artichoke, cooked",potatoes and other tubers [ready]
+efficient despite top-quartile climate (high nutrient density),20511,"Haricot bean, canned, drained","legumes, cooked"
+efficient despite top-quartile climate (high nutrient density),13007,"Black currant, raw",fresh fruits
+efficient despite top-quartile climate (high nutrient density),13047,"Rhubarb, stalk, raw",fresh fruits
+efficient despite top-quartile climate (high nutrient density),13001,"Apricot, pitted, dried",dried fruits
+efficient despite top-quartile climate (high nutrient density),15020,"Chestnut, boiled/cooked in water",nuts and seeds [ready]
+efficient despite top-quartile climate (high nutrient density),9111,"Rice, wild, cooked, no added salt","pasta, rice and grains, cooked"
+efficient despite top-quartile climate (high nutrient density),9313,"Oat flakes, boiled/cooked in water","pasta, rice and grains, cooked"
+efficient despite top-quartile climate (high nutrient density),9341,"Quinoa, boiled/cooked in water, no added salt","pasta, rice and grains, cooked"
+efficient despite top-quartile climate (high nutrient density),7111,"Sandwich loaf, wholemeal, prepacked",breads
+efficient despite top-quartile climate (high nutrient density),7130,"Bread, French bread, gluten free, prepacked",breads
+efficient despite top-quartile climate (high nutrient density),7257,"English muffin, prepacked",breads
+efficient despite top-quartile climate (high nutrient density),7340,"Rusk, wholemeal",rusks
+efficient despite top-quartile climate (high nutrient density),6207,"Beef, rump steak, grilled/pan-fried",beef and veal (cooked meat)
+efficient despite top-quartile climate (high nutrient density),6251,"Beef, minced steak, 5% fat, cooked",beef and veal (cooked meat)
+efficient despite top-quartile climate (high nutrient density),36018,"Chicken, breast, without skin, grilled/pan-fried","poultry incl. turkey, cooked"
+efficient despite top-quartile climate (high nutrient density),36308,"Turkey, escalope, roasted/baked","poultry incl. turkey, cooked"
+efficient despite top-quartile climate (high nutrient density),34004,"Rabbit, wild, meat, cooked","other meats incl. game, cooked"
+efficient despite top-quartile climate (high nutrient density),6202,"Beef, bolar-blade, raw",beef and veal (raw meat)
+efficient despite top-quartile climate (high nutrient density),36304,"Turkey, escalope, raw","poultry incl. turkey, raw"
+efficient despite top-quartile climate (high nutrient density),36307,"Turkey, leg, meat, raw","poultry incl. turkey, raw"
+efficient despite top-quartile climate (high nutrient density),40304,"Sweetbread, calf, raw",offals (raw meat)
+efficient despite top-quartile climate (high nutrient density),8321,"Foie gras, duck, whole, cooked",other delicatessen [ready]
+efficient despite top-quartile climate (high nutrient density),26031,"Ray, roasted/baked","fish, cooked"
+efficient despite top-quartile climate (high nutrient density),10028,"Mussel, canned in brine, drained",fish products
+efficient despite top-quartile climate (high nutrient density),26090,"Haddock, smoked",fish products
+efficient despite top-quartile climate (high nutrient density),26098,"Cod, salted, dried",fish products
+efficient despite top-quartile climate (high nutrient density),26119,"Salmon, canned, drained",fish products
+efficient despite top-quartile climate (high nutrient density),19050,"Milk, skimmed, UHT","milk, liquid (cow and other species)"
+efficient despite top-quartile climate (high nutrient density),19051,"Milk, skimmed, pasteurised","milk, liquid (cow and other species)"
+efficient despite top-quartile climate (high nutrient density),19581,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s)",yoghurts
+efficient despite top-quartile climate (high nutrient density),19582,"Yogurt or fermented milk, with fruits, 0% fat, with sweetener(s), fortified with vitamin D",yoghurts
+efficient despite top-quartile climate (high nutrient density),19593,"Yogurt or fermented milk, plain",yoghurts
+efficient despite top-quartile climate (high nutrient density),19594,"Yogurt or fermented milk, plain, 0% fat",yoghurts
+efficient despite top-quartile climate (high nutrient density),19801,"Fermented milk drink, plain, skimmed milk",yoghurts
+efficient despite top-quartile climate (high nutrient density),19805,"Fermented milk drink, plain, whole milk",yoghurts
+efficient despite top-quartile climate (high nutrient density),39200,"Custard dessert, chocolate, refrigerated",dairy desserts
+efficient despite top-quartile climate (high nutrient density),39206,"Chocolate mousse (milk-based), refrigerated",dairy desserts
+efficient despite top-quartile climate (high nutrient density),39506,"Custard dessert, chocolate, canned",dairy desserts
+efficient despite top-quartile climate (high nutrient density),12820,"Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese",soft cheeses
+efficient despite top-quartile climate (high nutrient density),12116,"Hard cheese, emmental-type cheese, reduced fat, from cow's milk",hard or pressed cheeses
+efficient despite top-quartile climate (high nutrient density),12705,"Firm cheese, Maasdam-type, reduced fat, from cow's milk",hard or pressed cheeses
+efficient despite top-quartile climate (high nutrient density),2013,"Orange juice, fresh",juices
+efficient despite top-quartile climate (high nutrient density),2028,"Lemon juice, pure juice",juices
+efficient despite top-quartile climate (high nutrient density),18075,"Still soft drink with tea extract, flavoured, with sugar(s)",soft drinks
+efficient despite top-quartile climate (high nutrient density),1003,Liqueur,liqueurs and spirits
+efficient despite top-quartile climate (high nutrient density),1021,Blackcurrant liqueur,liqueurs and spirits
+efficient despite top-quartile climate (high nutrient density),1026,Sake or rice wine,liqueurs and spirits
+efficient despite top-quartile climate (high nutrient density),31074,"Dark chocolate, 70% cocoa, bar",chocolate and chocolate products [ready]
+efficient despite top-quartile climate (high nutrient density),31080,"Dark chocolate, filled with praliné, bar",chocolate and chocolate products [ready]
+efficient despite top-quartile climate (high nutrient density),7712,"Milk roll filled with chocolate chips, prepacked",Viennese pastries
+efficient despite top-quartile climate (high nutrient density),7735,"Brioche, with chocolate chips or filled with chocolate, prepacked",Viennese pastries
+efficient despite top-quartile climate (high nutrient density),32023,"Cereal flakes with fruits, fortified with vitamins and minerals",breakfast cereals
+efficient despite top-quartile climate (high nutrient density),32030,"Cereal flakes, plain, with sugar(s), fortified with vitamins and minerals",breakfast cereals
+efficient despite top-quartile climate (high nutrient density),32116,"Breakfast cereals, very rich in fibre, plain, fortified with vitamins and minerals",breakfast cereals
+efficient despite top-quartile climate (high nutrient density),23939,"Soft cake filled with chocolate, prepacked",cakes and pastry
+efficient despite top-quartile climate (high nutrient density),11008,"Ketchup, prepacked",cold sauces
+efficient despite top-quartile climate (high nutrient density),11104,"Soy sauce, prepacked",cold sauces
+efficient despite top-quartile climate (high nutrient density),11166,"Yogurt sauce, homemade",cold sauces
+efficient despite top-quartile climate (high nutrient density),11114,"Bolognese sauce or tomato sauce with meat, prepacked",warm sauces
+efficient despite top-quartile climate (high nutrient density),11089,"Turmeric, powder",spices [dry]
+efficient despite top-quartile climate (high nutrient density),20246,"Baby food jar with vegetables, from 4-6 months",baby dishes
+efficient despite top-quartile climate (high nutrient density),42603,"Baby meal, vegetables with meat/fish and starchy food, from 6-8 months",baby dishes

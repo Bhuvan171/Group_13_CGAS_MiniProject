@@ -1,0 +1,17 @@
+,value
+nodes,1805.0
+edges,1736.0
+isolated_nodes,584.0
+non_isolated_share,0.6764542936288088
+mean_degree,1.9235457063711912
+max_degree,5.0
+density,0.0010662670212700615
+components,176.0
+largest_component,72.0
+avg_clustering,0.3782145782145782
+communities,180.0
+modularity,0.9712895774707101
+nmi_vs_analysis_group,0.8992028994248883
+ari_vs_analysis_group,0.6703436520642145
+nmi_vs_ciqual_group,0.5999277943669081
+group_assortativity,0.8945032680004835

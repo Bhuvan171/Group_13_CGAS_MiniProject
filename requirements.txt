@@ -1,0 +1,18 @@
+# Sustainome - frozen environment (Python 3.13.3, Windows 11; versions used for the submitted run)
+numpy==2.3.2
+pandas==2.2.3
+scipy==1.15.3          # LP/MILP via HiGHS (scipy.optimize.milp)
+networkx==3.4.2        # graph + Louvain communities
+scikit-learn==1.6.1    # PCA, NMI/ARI
+matplotlib==3.10.3
+openpyxl==3.1.5        # reads the CIQUAL / AGRIBALYSE workbooks (incl. font colours)
+pyarrow==21.0.0        # parquet copy of the processed matrix
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==6.29.5
+pytest==9.0.3
+reportlab==5.0.1       # PDF report
+pypdf==6.0.0           # report page-count check in verify_submission.py
+# optional - only for presentation/export_deck.py (re-rendering the slides to PDF/PPTX)
+python-pptx
+playwright             # then run once: python -m playwright install chromium

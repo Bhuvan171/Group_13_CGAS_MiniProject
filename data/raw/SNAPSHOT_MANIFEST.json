@@ -1,0 +1,47 @@
+{
+  "project": "Sustainome",
+  "files": {
+    "ciqual_2025": {
+      "organization": "ANSES (French Agency for Food, Environmental and Occupational Health & Safety)",
+      "title": "ANSES-CIQUAL French food composition table 2025 (English workbook)",
+      "version": "2025 (file dated 2025-11-03)",
+      "download_url": "https://zenodo.org/api/records/17550133/files/Table%20Ciqual%202025_ENG_2025_11_03.xlsx/content",
+      "record": "https://zenodo.org/records/17550133",
+      "license": "Etalab Open Licence 2.0 - attribution to ANSES-CIQUAL required",
+      "sheet_or_table": "food composition",
+      "local_path": "data/raw/ciqual/2025/Table_Ciqual_2025_ENG_2025_11_03.xlsx",
+      "bytes": 1537602,
+      "sha256": "2c3495c8136d17356c50db410918da2102cb28096cb497c9cdf83c5f8ecb10ba",
+      "access_date": "2026-11-17",
+      "local_transformation": "none (immutable snapshot; renamed only)"
+    },
+    "agribalyse_3.2": {
+      "organization": "ADEME / INRAE (GIS REVALIM)",
+      "title": "AGRIBALYSE 3.2 - food products workbook (Tableur produits alimentaires)",
+      "version": "3.2 (September 2024 release; workbook last modified 2025-08-21)",
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/641911",
+      "record": "https://doi.org/10.57745/XTENSJ",
+      "license": "Licence Ouverte Etalab - attribution to ADEME/AGRIBALYSE required",
+      "sheet_or_table": "Synthese",
+      "local_path": "data/raw/agribalyse/3.2/AGRIBALYSE3.2_Tableur_produits_alimentaires_PublieAOUT25.xlsx",
+      "bytes": 9347637,
+      "sha256": "27c65f05597028baff0e1a195f652e12b19c9493619dcaaeb17d3fe9f856362d",
+      "access_date": "2026-11-17",
+      "local_transformation": "none (immutable snapshot; renamed only)"
+    },
+    "agribalyse_3.1_api": {
+      "organization": "ADEME (data.ademe.fr)",
+      "title": "AGRIBALYSE 3.1 synthesis API (feasibility-audit source only)",
+      "version": "3.1",
+      "download_url": "https://data.ademe.fr/data-fair/api/v1/datasets/agribalyse-31-synthese/lines?size=3000",
+      "record": "https://data.ademe.fr/datasets/agribalyse-31-synthese",
+      "license": "Licence Ouverte Etalab",
+      "sheet_or_table": "JSON 'results'",
+      "local_path": "data/raw/agribalyse/3.1_api/agribalyse-31-synthese_lines.json",
+      "bytes": 3424435,
+      "sha256": "2578b2bd80fb92b28aab60216858c12283065beb3192f380f848115a5a205226",
+      "access_date": "2026-11-17",
+      "local_transformation": "none (immutable snapshot; renamed only)"
+    }
+  }
+}

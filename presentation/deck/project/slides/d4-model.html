@@ -1,0 +1,24 @@
+<section id="d4-model" class="alt">
+<div class="head">
+<p class="eyebrow">D4 · Basket optimisation · formulation</p>
+<h2>Five declared baskets, one transparent optimiser</h2>
+</div>
+<div class="row" style="gap:40px; align-items:flex-start">
+<div class="rise" style="--i:0; width:1000px">
+<table class="tb">
+<tr class="th"><th style="width:22%">Scenario</th><th style="width:63%">Foods (declared grams, config/baskets.csv)</th><th style="width:15%; text-align:right">kg CO₂e</th></tr>
+<tr class="band"><td>S1 Breakfast</td><td>baguette, butter, strawberry jam, semi-skimmed milk, orange juice, plain yoghurt</td><td style="text-align:right">0.89</td></tr>
+<tr><td>S2 Beef lunch</td><td>beef rump steak, pasta, French beans, Emmental, olive oil, apple</td><td style="text-align:right">5.04</td></tr>
+<tr class="band"><td>S3 Dairy &amp; snack</td><td>Camembert, whole milk, fruit yoghurt, milk chocolate, butter biscuit</td><td style="text-align:right">1.26</td></tr>
+<tr><td>S4 Chicken dinner</td><td>chicken breast, white rice, courgette, butter, wholemeal bread, banana</td><td style="text-align:right">1.52</td></tr>
+<tr class="band"><td>S5 One day</td><td>S1 + S2 + S4 combined (18 slots)</td><td style="text-align:right">7.45</td></tr>
+</table>
+</div>
+<div class="col grow" style="gap:20px">
+<div class="rule rise" style="--i:1"><h3>Decision variables</h3><p class="cap">Grams of each candidate food per slot; candidates share the slot’s declared role and have complete nutrient data</p></div>
+<div class="rule rise" style="--i:2"><h3>Hard constraints</h3><p class="cap">Slot mass ±25 % · energy ±5 % · protein ≥ 95 % · fibre and 7 micronutrients ≥ 90 % · sodium, saturated fat, sugars ≤ baseline</p></div>
+<div class="rule rise" style="--i:3"><h3>Objectives kept separate</h3><p class="cap">Climate · nutrient deviation D · basket change Δ, swept by ε-constraint (11 × 4) plus a swap-count MILP in SciPy/HiGHS</p></div>
+</div>
+</div>
+<div class="foot"><p class="foot-l">Sustainome · BIO544 Group 13</p><p class="pg"></p></div>
+</section>

@@ -1,0 +1,23 @@
+feature,unit,family,core,numeric,trace,below_loq,missing,structural_zero,coverage_pct
+energy_kcal,kcal/100 g,energy,True,2247,0,0,25,0,98.9
+protein_g,g/100 g,macro,True,2268,3,0,1,0,100.0
+carbohydrate_g,g/100 g,macro,True,2148,109,4,11,0,99.5
+fat_g,g/100 g,macro,True,2173,7,89,3,0,99.9
+sugars_g,g/100 g,limit,True,1963,153,36,120,0,94.7
+fibre_g,g/100 g,macro,True,2153,26,90,3,0,99.9
+sat_fat_g,g/100 g,limit,True,2075,6,70,121,0,94.7
+sodium_mg,mg/100 g,limit,True,2077,3,74,118,0,94.8
+calcium_mg,mg/100 g,micro,True,1870,1,18,383,0,83.1
+iron_mg,mg/100 g,micro,True,1791,4,86,391,0,82.8
+magnesium_mg,mg/100 g,micro,True,1816,0,9,447,0,80.3
+potassium_mg,mg/100 g,micro,True,1833,0,7,432,0,81.0
+zinc_mg,mg/100 g,micro,True,1718,2,119,433,0,80.9
+vitamin_c_mg,mg/100 g,micro,True,1201,26,409,636,0,72.0
+vitamin_b12_ug,µg/100 g,micro,True,1507,7,80,509,169,77.6
+vitamin_d_ug,µg/100 g,micro,False,1046,92,449,685,0,69.9
+vitamin_b6_mg,mg/100 g,micro,False,1684,1,107,480,0,78.9
+folate_ug,µg/100 g,micro,False,1101,2,62,1107,0,51.3
+retinol_ug,µg/100 g,micro,False,1473,13,248,538,0,76.3
+phosphorus_mg,mg/100 g,micro,False,1805,2,7,458,0,79.8
+water_g,g/100 g,other,False,2034,1,3,234,0,89.7
+alcohol_g,g/100 g,other,False,2264,7,1,0,0,100.0

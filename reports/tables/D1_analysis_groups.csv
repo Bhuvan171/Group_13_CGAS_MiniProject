@@ -1,0 +1,136 @@
+analysis_group_code,analysis_group,foods,complete_nr,median_dqr,median_climate_per_100g
+0101,mixed salads,16,9,2.46,0.35450000000000004
+0102,soups,43,14,2.18,0.0595
+010301:raw,"meat dishes, no garnish [raw]",3,0,2.85,0.761
+010301:ready,"meat dishes, no garnish [ready]",24,14,2.8449999999999998,0.721
+010302,"meat dishes, with starchy food",9,4,2.76,0.36
+010303,"meat dishes, with vegetables/legume",18,9,2.83,0.399
+010304,"fish dishes, no garnish",14,5,3.1900000000000004,0.9455
+010305,"fish dishes, with starchy food",4,4,2.6100000000000003,0.401
+010306:raw,vegetable/legume dishes [raw],3,0,2.83,0.09330000000000001
+010306:ready,vegetable/legume dishes [ready],20,8,1.9249999999999998,0.156
+010307:raw,pasta or cereal dishes [raw],4,0,2.0,0.362
+010307:ready,pasta or cereal dishes [ready],24,13,2.215,0.361
+010308,cheese dishes,6,5,1.62,0.3865
+010309,other vegetarian dishes,19,10,1.75,0.205
+0104,"pizzas, crepe and pies",45,18,2.68,0.343
+0105,sandwiches,36,29,2.885,0.42500000000000004
+0106,savoury pastries and other starters,21,11,2.56,0.414
+020101,"vegetables, raw",104,82,2.9050000000000002,0.0715
+020102,"vegetables, cooked",71,55,2.88,0.141
+020103,"vegetables, dried or dehydrated",3,1,3.22,1.1199999999999999
+020104,vegetables from Martinique and their products,1,0,3.52,0.0445
+0202:raw,potatoes and other tubers [raw],14,8,2.89,0.07569999999999999
+0202:ready,potatoes and other tubers [ready],31,20,2.51,0.131
+020301,"legumes, cooked",18,18,3.13,0.058499999999999996
+020302,"legumes, raw",3,1,2.85,0.0858
+020303,"legumes, dried",11,7,3.27,0.075
+020401,fresh fruits,56,40,3.05,0.0926
+020402,puréed fruits,6,6,2.31,0.122
+020403,canned fruits,15,5,2.81,0.09809999999999999
+020404,dried fruits,8,8,3.14,0.25450000000000006
+0205:dry,nuts and seeds [dry],4,2,3.385,0.3055
+0205:ready,nuts and seeds [ready],37,30,3.46,0.352
+030101,"pasta, rice and grains, cooked",21,17,3.11,0.10900000000000001
+030102,"pasta, rice and grains, raw",35,20,3.27,0.13899999999999998
+030201,breads,28,18,2.14,0.10750000000000001
+030202,rusks,19,15,2.24,0.13999999999999999
+0303,savoury biscuits,15,2,1.78,0.154
+0304,flours,19,16,3.12,0.0791
+0305:raw,pastry dough [raw],12,1,1.4049999999999998,0.34750000000000003
+0305:ready,pastry dough [ready],6,4,1.4,0.346
+040101,beef and veal (cooked meat),38,12,2.88,3.66
+040102,pork (cooked meat),10,4,2.86,0.8400000000000001
+040103,"poultry incl. turkey, cooked",11,9,2.31,0.753
+040105,lamb and mutton (cooked meat),11,5,2.97,5.2299999999999995
+040107,"other meats incl. game, cooked",13,10,2.34,0.775
+040108,offals (cooked meat),21,6,2.27,2.9699999999999998
+040201,beef and veal (raw meat),34,19,2.88,2.8899999999999997
+040202,pork (raw meat),20,7,2.85,0.658
+040203,"poultry incl. turkey, raw",21,17,2.08,0.5780000000000001
+040205,lamb and mutton (raw meat),13,6,2.97,4.13
+040207,other meats,13,7,2.12,0.5780000000000001
+040208,offals (raw meat),31,19,2.26,2.16
+040301,cooked ham,21,5,2.97,0.765
+040302,raw and cured ham,9,3,2.91,1.3599999999999999
+040303,dry sausages,6,4,2.96,0.737
+040304:raw,sausages [raw],12,0,2.86,1.1949999999999998
+040304:ready,sausages [ready],15,7,2.87,0.7230000000000001
+040305,pâtés and terrines,18,4,2.585,0.4405
+040306,rillettes,8,1,2.64,0.6965
+040307:raw,quenelles [raw],3,1,2.61,0.528
+040307:ready,quenelles [ready],3,0,2.64,0.584
+040308:raw,other delicatessen [raw],3,2,2.84,0.712
+040308:ready,other delicatessen [ready],42,13,2.855,0.7825
+040309,plant-based alternatives to delicatessen,5,1,1.84,0.22599999999999998
+0405,"fish, cooked",47,27,3.08,0.922
+0406,"fish, raw",93,51,3.07,0.829
+0407,"seafood, cooked",7,7,2.96,1.1800000000000002
+0408,"seafood, raw",13,7,2.9,0.9890000000000001
+0409,fish products,54,31,2.83,0.6185
+041001,"eggs, plain (raw or cooked)",13,13,2.98,0.24
+041003:dry,omelettes and other egg products [dry],3,3,2.99,0.666
+041003:ready,omelettes and other egg products [ready],5,2,1.9,0.29
+050101,"milk, liquid (cow and other species)",12,10,1.245,0.1365
+050103,"milk from cow, concentrated or in powder",5,3,1.12,0.9380000000000001
+050201,yoghurts,26,25,1.255,0.189
+050202,fromages blanc,7,4,1.46,0.20299999999999999
+050203,dairy desserts,24,18,1.29,0.194
+050204,other desserts,9,6,1.55,0.236
+050205,plant-based desserts,3,2,1.67,0.124
+050301,soft cheeses,48,16,2.2350000000000003,0.568
+050302,blue cheeses,9,3,2.21,0.571
+050303,hard or pressed cheeses,36,17,2.23,0.6234999999999999
+050304,processed cheeses,3,1,1.99,0.5660000000000001
+050305,uncured cheeses and similar,5,2,2.14,0.5559999999999999
+050306,plant-based alternatives to cheese,2,0,1.625,0.2175
+0504,cream and similar,6,6,1.28,0.2645
+0601,water,2,1,2.08,0.0160671
+060201,juices,17,12,2.68,0.0837
+060202,nectars,8,7,2.435,0.06325
+060203,soft drinks,33,19,1.9,0.0493
+060204,dairy beverages,2,2,2.145,0.126
+060205,plant-based beverages,8,3,2.11,0.0435
+060206,"coffee, tea, cocoa beverages, etc. ready to drink",15,9,3.26,0.0683
+060207,"beverages, to reconstitute",5,1,2.56,0.787
+060301,wines,8,6,2.215,0.182
+060302,beers and ciders,12,3,2.37,0.135
+060303,liqueurs and spirits,13,9,2.52,0.126
+060304,cocktails,9,8,2.06,0.123
+0701,sugars and honey,9,7,2.97,0.10400000000000001
+0702:dry,chocolate and chocolate products [dry],4,3,1.83,1.13
+0702:ready,chocolate and chocolate products [ready],24,17,1.87,1.05
+0703,non-chocolate confectionery,8,5,2.205,0.157
+0704,jam,7,6,2.5,0.20600000000000002
+0705,Viennese pastries,19,18,1.28,0.294
+0706,sweet biscuits,54,37,1.48,0.359
+0707,breakfast cereals,28,24,2.86,0.33999999999999997
+0708,cereal bars,6,5,1.68,0.5369999999999999
+0709,cakes and pastry,69,42,1.57,0.258
+0801,ice cream,10,4,1.5,0.196
+0802,sorbet,3,1,2.97,0.121
+0803,frozen desserts,12,6,1.47,0.22200000000000003
+0901,butters,9,7,1.1,0.788
+0902,vegetable oils,19,17,1.98,0.373
+0904,fish oils,4,3,3.02,0.305
+0905,other fats,6,5,2.13,0.244
+100101,cold sauces,21,9,1.96,0.22400000000000003
+100102,warm sauces,34,13,1.9249999999999998,0.2445
+100103,dessert sauces,2,2,1.525,0.4345
+1002,condiments,7,3,2.27,0.11699999999999999
+1003:dry,cooking aids [dry],3,1,2.24,0.262
+1003:ready,cooking aids [ready],15,8,2.6,0.098
+1004,salts,5,1,2.32,0.0632
+1005:dry,spices [dry],11,8,3.46,0.9400000000000001
+1005:ready,spices [ready],10,9,3.625,0.6145
+100601:raw,fresh herbs [raw],3,2,2.88,0.0741
+100601:ready,fresh herbs [ready],10,7,3.32,0.0879
+100602,dried herbs,11,7,3.49,0.258
+1007,seaweed,15,2,2.77,1.16
+1008,foods for particular nutritional uses,4,4,1.54,0.266
+1009,ingredients for vegetarian,6,5,2.025,0.1495
+1010,plant-based spreads,2,0,2.36,0.1375
+1101,baby milk and beverages,12,8,1.5,0.0863
+1102,baby dishes,13,13,1.86,0.121
+1103,baby deserts,5,5,1.78,0.24900000000000003
+1104,baby biscuits and cereals,3,3,3.63,0.22000000000000003

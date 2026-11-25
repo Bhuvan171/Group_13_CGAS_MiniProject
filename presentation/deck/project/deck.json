@@ -1,0 +1,30 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-18T10:30:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Sustainome — The Sustainable Plate Frontier",
+  "order": [
+    "cover", "question", "approach", "sources",
+    "d1", "d1-join", "d1-quality",
+    "d2", "d2-method", "d2-protein", "d2-fronts", "d2-conflict", "d2-units",
+    "d3", "d3-method", "d3-network", "d3-naive", "d3-edges", "d3-examples",
+    "d4", "d4-model", "d4-fronts", "d4-results", "d4-swaps", "d4-constraints",
+    "d5", "d5-design", "d5-claims", "d5-stability", "d5-counter",
+    "limits", "conclusions", "closing"
+  ],
+  "sections": {
+    "s0": {"description": "Research question, data sources and the five-deliverable design", "start": "cover"},
+    "s1": {"description": "D1 — the Sustainable Food Matrix: exact join, data-quality rules", "start": "d1"},
+    "s2": {"description": "D2 — food-level nutrition–environment trade-offs in three functional units", "start": "d2"},
+    "s3": {"description": "D3 — the nutritional-equivalence substitution network", "start": "d3"},
+    "s4": {"description": "D4 — multi-objective basket optimisation", "start": "d4"},
+    "s5": {"description": "D5 — robustness, uncertainty and counterexamples", "start": "d5"},
+    "s6": {"description": "Limitations, conclusions and reproducibility", "start": "limits"}
+  },
+  "faces": {
+    "fraunces": {"family": "Fraunces", "href": "https://fonts.googleapis.com/css2?family=Fraunces:wght@400..700&display=swap"},
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"}
+  },
+  "designSystems": []
+}

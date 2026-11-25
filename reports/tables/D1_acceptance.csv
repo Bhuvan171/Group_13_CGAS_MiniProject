@@ -1,0 +1,7 @@
+D1 acceptance criterion,met
+primary join uses exact normalised CIQUAL codes,True
+source versions and checksums recorded and verified,True
+counts reconcile across every pipeline stage,True
+missing nutrients are not zero-filled,True
+duplicate handling documented and tested (tests/test_clean.py),True
+processed dataset regenerated identically from raw files,True

@@ -1,0 +1,6 @@
+from_code,to_code,merged_label,justification
+040104,040103,"poultry incl. turkey, cooked",turkey (n=3) has the same physical state and nutritional role as cooked poultry
+040106,040107,"other meats incl. game, cooked",game (n=1) is a cooked meat of the same culinary role
+040204,040203,"poultry incl. turkey, raw",turkey raw (n=6) has the same state and role as raw poultry
+041002,041001,"eggs, plain (raw or cooked)",raw and cooked plain eggs (n=6 and n=7) have near-identical composition per 100 g
+050102,050101,"milk, liquid (cow and other species)",non-cow liquid milks (n=4) play the same role as liquid cow milk

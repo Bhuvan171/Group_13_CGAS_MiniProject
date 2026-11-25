@@ -1,0 +1,13 @@
+stage,count,note
+CIQUAL 2025 workbook rows,3484,food composition sheet
+CIQUAL rows with valid integer code,3484,0 invalid
+CIQUAL unique codes,3484,0 duplicated codes
+AGRIBALYSE 3.2 Synthese data rows,2458,rows with an AGB or CIQUAL code
+AGRIBALYSE unique AGB codes,2451,7 codes repeated for packaging fix
+AGRIBALYSE unique CIQUAL codes (after duplicate resolution),2425,7 packaging-error rows dropped; 26 variant rows resolved (reference)
+Exact matches (inner join on normalised CIQUAL code),2272,93.69% of AGRIBALYSE codes; 65.21% of CIQUAL codes
+CIQUAL-only codes (no AGRIBALYSE record),1212,
+AGRIBALYSE-only codes (not in CIQUAL 2025),153,
+Matched foods with complete 15-nutrient profile,1342,B12 structural zeros applied to 169 foods
+Matched foods eligible for the substitution graph (>= 12/15 nutrients),1805,
+Matched foods with complete NR9 + LIM3 components,1342,

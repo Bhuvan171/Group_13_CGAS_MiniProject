@@ -1,0 +1,10 @@
+D5 acceptance criterion,met
+predeclared sensitivity grid (section 1),True
+bootstrap / resampling results,True
+"DQR-based sensitivity (filter, penalty/reliability, stress test)",True
+rank / community / solution stability measures,True
+categorised counterexample set,True
+every major conclusion tested under > 1 assumption,True
+unstable claims labelled or withdrawn,True
+DQR never represented as probabilistic uncertainty (stress test labelled),True
+robust findings separated from exploratory ones (claims register),True

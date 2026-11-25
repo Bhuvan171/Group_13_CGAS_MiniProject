@@ -1,0 +1,24 @@
+scenario,scenario_label,slot,role,ciqual_code,grams,food_note,food_name,energy_kcal,protein_g,climate_per_100g,dqr,kcal,kg_CO2e
+S1,Breakfast,bread,bread,7001,60.0,"Bread, French bread, baguette","Bread, French bread, baguette",287.0,8.27,0.0776,2.34,172.2,0.04656
+S1,Breakfast,spread,fat_spread,16400,10.0,"Butter, 80% fat, unsalted","Butter, 80% fat minimum, unsalted",753.0,0.64,0.794,1.09,75.3,0.07940000000000001
+S1,Breakfast,jam,sweet_spread,31024,20.0,"Jam, strawberry","Jam, strawberry",248.0,0.25,0.175,2.95,49.6,0.034999999999999996
+S1,Breakfast,milk,milk_alt,19041,200.0,"Milk, semi-skimmed, UHT","Milk, semi-skimmed, UHT",47.7,3.48,0.127,1.24,95.4,0.254
+S1,Breakfast,juice,fruit_or_juice,2013,150.0,"Orange juice, fresh","Orange juice, fresh",44.8,0.7,0.16,2.37,67.19999999999999,0.24
+S1,Breakfast,yoghurt,yoghurt_alt,19593,125.0,"Yogurt or fermented milk, plain","Yogurt or fermented milk, plain",50.1,3.83,0.189,1.22,62.625,0.23625000000000002
+S2,Beef lunch,protein,protein_main,6207,120.0,"Beef, rump steak, grilled/pan-fried","Beef, rump steak, grilled/pan-fried",138.0,29.0,3.66,2.86,165.6,4.392
+S2,Beef lunch,starch,starchy_side,9811,200.0,"Pasta, dry, regular, cooked","Pasta, dry, regular, cooked, no added salt",167.0,6.1,0.10200000000000001,3.12,334.0,0.20400000000000001
+S2,Beef lunch,vegetable,veg_cooked,20030,150.0,"French bean, cooked","French bean, cooked",29.4,2.0,0.12,2.23,44.099999999999994,0.18
+S2,Beef lunch,cheese,cheese_alt,12115,30.0,Emmental cheese,"Emmental cheese, from cow's milk",373.0,27.9,0.628,1.77,111.89999999999999,0.18839999999999998
+S2,Beef lunch,oil,fat_spread,17270,10.0,"Olive oil, extra virgin","Olive oil, extra virgin",899.0,0.25,0.16299999999999998,2.21,89.9,0.0163
+S2,Beef lunch,fruit,fruit_or_juice,13039,150.0,"Apple, flesh and skin, raw","Apple, flesh and skin, raw",54.0,0.25,0.040799999999999996,2.01,81.0,0.06119999999999999
+S3,Dairy and snack,cheese,cheese_alt,12001,40.0,Camembert cheese,"Camembert cheese, from cow's milk",280.0,19.5,0.52,1.76,112.0,0.20800000000000002
+S3,Dairy and snack,milk,milk_alt,19024,250.0,"Milk, whole, pasteurised","Milk, whole, pasteurised",61.8,3.3,0.146,1.2,154.5,0.365
+S3,Dairy and snack,yoghurt,yoghurt_alt,19587,125.0,"Yogurt with fruits, with sugar(s)","Yogurt or fermented milk, with fruits, with sugar(s)",88.9,3.23,0.189,1.2,111.125,0.23625000000000002
+S3,Dairy and snack,chocolate,sweet_snack,31004,30.0,"Milk chocolate, bar","Milk chocolate, bar",550.0,7.5,1.26,1.81,165.0,0.378
+S3,Dairy and snack,biscuit,sweet_snack,24015,30.0,Butter biscuit (cookie),Butter biscuit (cookie),450.0,7.78,0.24700000000000003,1.24,135.0,0.0741
+S4,Chicken dinner,protein,protein_main,36018,120.0,"Chicken breast, grilled","Chicken, breast, without skin, grilled/pan-fried",141.0,30.1,0.748,2.31,169.2,0.8976
+S4,Chicken dinner,starch,starchy_side,9104,180.0,"Rice, white, cooked","Rice, white, cooked, no added salt",155.0,3.15,0.11599999999999999,3.73,279.0,0.20879999999999999
+S4,Chicken dinner,vegetable,veg_cooked,20021,150.0,"Courgette, cooked","Courgette or zucchini, flesh and skin, cooked",15.5,0.93,0.126,2.72,23.25,0.189
+S4,Chicken dinner,fat,fat_spread,16400,10.0,"Butter, 80% fat, unsalted","Butter, 80% fat minimum, unsalted",753.0,0.64,0.794,1.09,75.3,0.07940000000000001
+S4,Chicken dinner,bread,bread,7110,40.0,"Bread, wholemeal French bread","Bread, French bread, wholemeal or integral bread (made with flour type 150)",234.0,8.66,0.0779,2.34,93.60000000000001,0.03116
+S4,Chicken dinner,fruit,fruit_or_juice,13005,120.0,"Banana, raw","Banana, flesh without skin, raw",87.6,1.06,0.09090000000000001,2.61,105.11999999999999,0.10908000000000001

@@ -1,0 +1,27 @@
+<section id="d5-design" class="alt">
+<div class="head">
+<p class="eyebrow">D5 · Robustness · design</p>
+<h2>Fifteen stress tests, declared before running</h2>
+</div>
+<div class="col" style="gap:20px">
+<div class="rise" style="display:grid; grid-template-columns:repeat(3, 1fr); gap:12px 16px">
+<div class="chip"><h3>Nutrient weights</h3><p class="cap">200 random Dirichlet draws</p></div>
+<div class="chip"><h3>Nutrient feature set</h3><p class="cap">drop-one · macro-only · +5 extended</p></div>
+<div class="chip"><h3>Graph k × τ</h3><p class="cap">4 × 4 grid, incl. no distance cap</p></div>
+<div class="chip"><h3>Graph basis</h3><p class="cap">per-100 kcal profiles</p></div>
+<div class="chip"><h3>Denominator floors</h3><p class="cap">energy 5–40 kcal · protein 1–5 g</p></div>
+<div class="chip"><h3>NR9 missing parts</h3><p class="cap">available-case, ≥ 7 of 9</p></div>
+<div class="chip"><h3>Indicator set</h3><p class="cap">climate only · all 7 · EF score</p></div>
+<div class="chip"><h3>DQR filter</h3><p class="cap">keep DQR ≤ 2.0, 2.5, 3.0 or 3.5</p></div>
+<div class="chip"><h3>Duplicate rule</h3><p class="cap">mean · max · min over variants</p></div>
+<div class="chip"><h3>‘&lt; x’ parser</h3><p class="cap">0 or x instead of x/2</p></div>
+<div class="chip"><h3>B12 structural zeros</h3><p class="cap">rule switched off</p></div>
+<div class="chip"><h3>Optimiser tolerances</h3><p class="cap">27 energy × micro × protein combos</p></div>
+<div class="chip"><h3>Flagged data errors</h3><p class="cap">eggs and quinoa allowed in baskets</p></div>
+<div class="chip"><h3>Bootstrap</h3><p class="cap">1,000 resamples (500 for Pareto)</p></div>
+<div class="chip"><h3>Impact stress test</h3><p class="cap">climate × U(1 ± 0.1·DQR), 100 draws</p></div>
+</div>
+<p class="cap rise" style="--i:2"><span class="strong">DQR is ordinal (1–5):</span> used to filter, stratify and widen a stress-test band — never read as a probability.</p>
+</div>
+<div class="foot"><p class="foot-l">Sustainome · BIO544 Group 13</p><p class="pg"></p></div>
+</section>

@@ -1,0 +1,6 @@
+D3 acceptance criterion,met
+graph construction reproducible and leakage-free (tests/test_pipeline.py),True
+edge components remain inspectable (D3_substitution_arcs.csv),True
+"threshold choice justified (calibration rule, selected q = declared q)",True
+sensitivity to alternate thresholds delegated to D5,True
+representative top edges manually audited,True

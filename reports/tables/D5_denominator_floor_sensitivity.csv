@@ -1,0 +1,8 @@
+guard,value,undefined_foods,mean_jaccard_mass_vs_view
+energy floor (kcal/100 g),5.0,48,0.6111320616400829
+energy floor (kcal/100 g),10.0,56,0.6102229707309921
+energy floor (kcal/100 g),20.0,97,0.6084790706916375
+energy floor (kcal/100 g),40.0,275,0.5946966497554733
+protein floor (g/100 g),1.0,330,0.6140167367128152
+protein floor (g/100 g),2.0,523,0.6170358674483496
+protein floor (g/100 g),5.0,857,0.6013363245210672

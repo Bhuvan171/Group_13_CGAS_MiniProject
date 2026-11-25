@@ -1,0 +1,6 @@
+D2 acceptance criterion,met
+"comparisons do not mix incompatible roles (groups/roles declared, state-split)",True
+denominator safeguards implemented (energy & protein floors),True
+"nutrition not 'more of everything' (capped NR9, separate LIM3)",True
+findings compared across three normalisation views,True
+several non-obvious trade-offs documented,True
